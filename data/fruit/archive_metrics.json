@@ -1,0 +1,32 @@
+{
+    "0": {
+        "most_common_name": "Mega_Blueberry",
+        "prompts": [
+            "a photo of a Mega Blueberry fruit.",
+            "a close-up photo of a Mega Blueberry.",
+            "a painting of a Mega Blueberry fruit.",
+            "a watercolor painting of a Mega Blueberry.",
+            "a drawing of a Mega Blueberry.",
+            "a digital drawing of a Mega Blueberry.",
+            "a realistic photo of a Mega Blueberry with leaves.",
+            "a portrait of a large Blueberry fruit.",
+            "a cartoon of a Mega Blueberry character.",
+            "a sculpture of a Mega Blueberry fruit."
+        ]
+    },
+    "1": {
+        "most_common_name": "Mega_Peach",
+        "prompts": [
+            "a photo of a Mega Peach fruit.",
+            "a close-up photo of a Mega Peach.",
+            "a painting of a Mega Peach fruit.",
+            "a watercolor painting of a Mega Peach.",
+            "a drawing of a Mega Peach.",
+            "a digital drawing of a Mega Peach.",
+            "a realistic photo of a Mega Peach with leaves.",
+            "a portrait of a large Peach fruit.",
+            "a cartoon of a Mega Peach character.",
+            "a sculpture of a Mega Peach fruit."
+        ]
+    }
+}

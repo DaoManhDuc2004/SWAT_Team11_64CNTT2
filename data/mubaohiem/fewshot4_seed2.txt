@@ -1,0 +1,8 @@
+C:/Dataset/Mubaohiem/train/Co_doi_mu_bao_hiem/58d3b57024084945.jpg 0 1
+C:/Dataset/Mubaohiem/train/Khong_doi_mu_bao_hiem/3f0d4928ebfa4f52.png 1 1
+C:/Dataset/Mubaohiem/train/Co_doi_mu_bao_hiem/f58c809390eb40d2.png 0 1
+C:/Dataset/Mubaohiem/train/Khong_doi_mu_bao_hiem/356954daabd742fd.png 1 1
+C:/Dataset/Mubaohiem/train/Khong_doi_mu_bao_hiem/829e303047f144a8.png 1 1
+C:/Dataset/Mubaohiem/train/Co_doi_mu_bao_hiem/ffe8ec5cc36a472f.jpg 0 1
+C:/Dataset/Mubaohiem/train/Khong_doi_mu_bao_hiem/012c7895385d462f.png 1 1
+C:/Dataset/Mubaohiem/train/Co_doi_mu_bao_hiem/78ac853a20274158.jpg 0 1

@@ -1,0 +1,32 @@
+{
+    "0": {
+        "most_common_name": "Co_doi_mu_bao_hiem",
+        "prompts": [
+            "a photo of a person wearing a helmet.",
+            "a photo of the person wearing a helmet.",
+            "a painting of a person wearing a helmet.",
+            "a painting of the person wearing a helmet.",
+            "a drawing of a person wearing a helmet.",
+            "a drawing of the person wearing a helmet.",
+            "a realistic photo of a motorcyclist wearing a helmet.",
+            "a portrait of a biker with a helmet.",
+            "a cartoon of a person wearing a helmet.",
+            "a sculpture of a person wearing a helmet."
+        ]
+    },
+    "1": {
+        "most_common_name": "Khong_doi_mu_bao_hiem",
+        "prompts": [
+            "a photo of a person not wearing a helmet.",
+            "a photo of the person without a helmet.",
+            "a painting of a person not wearing a helmet.",
+            "a painting of the person without a helmet.",
+            "a drawing of a person without a helmet.",
+            "a drawing of the person not wearing a helmet.",
+            "a realistic photo of a motorcyclist without a helmet.",
+            "a portrait of a biker without a helmet.",
+            "a cartoon of a person without a helmet.",
+            "a sculpture of a person without a helmet."
+        ]
+    }
+}

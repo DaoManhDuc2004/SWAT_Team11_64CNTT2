@@ -1,0 +1,8 @@
+C:/Fruits/train/Mega_Bluberry/00936.png 0
+C:/Fruits/train/Mega_Peach/01458.png 1
+C:/Fruits/train/Mega_Peach/00826.png 1
+C:/Fruits/train/Mega_Bluberry/01926.png 0
+C:/Fruits/train/Mega_Bluberry/00122.png 0
+C:/Fruits/train/Mega_Peach/01708.png 1
+C:/Fruits/train/Mega_Bluberry/00838.png 0
+C:/Fruits/train/Mega_Peach/01538.png 1
