@@ -8,11 +8,11 @@ from collections import defaultdict
 
 # 1. Đường dẫn đến thư mục gốc chứa các thư mục 'train' và 'test'
 #    Ví dụ: 'C:/Dataset/Mubaohiem'
-ROOT_DATA_FOLDER = 'C:/Dataset/Mubaohiem'
+ROOT_DATA_FOLDER = 'C:/animal'
 
 # 2. Đường dẫn đến thư mục bạn muốn lưu các file .txt
 #    Ví dụ: 'D:/du_an_swat/data/Mubaohiem/'
-OUTPUT_FOLDER = 'D:/thuyloiuniversity/Mon hoc tren lop/BigData/SWAT/data/mubaohiem'
+OUTPUT_FOLDER = 'D:/thuyloiuniversity/Mon hoc tren lop/BigData/SWAT/data/animal'
 
 # --- Cấu hình nâng cao (thường không cần đổi) ---
 VAL_RATIO = 0.1  # 10% của tập train gốc sẽ được dùng làm validation

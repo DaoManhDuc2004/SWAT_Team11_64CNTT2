@@ -1,988 +1,988 @@
-C:/Fruits/test/Mega_Bluberry/03406.png 0
-C:/Fruits/test/Mega_Peach/03013.png 1
-C:/Fruits/test/Mega_Peach/03411.png 1
-C:/Fruits/test/Mega_Bluberry/03200.png 0
-C:/Fruits/test/Mega_Peach/03323.png 1
-C:/Fruits/test/Mega_Bluberry/03153.png 0
-C:/Fruits/test/Mega_Bluberry/03271.png 0
-C:/Fruits/test/Mega_Bluberry/03394.png 0
-C:/Fruits/test/Mega_Bluberry/03140.png 0
-C:/Fruits/test/Mega_Peach/03283.png 1
-C:/Fruits/test/Mega_Bluberry/03291.png 0
-C:/Fruits/test/Mega_Bluberry/03012.png 0
-C:/Fruits/test/Mega_Peach/03250.png 1
-C:/Fruits/test/Mega_Peach/03169.png 1
-C:/Fruits/test/Mega_Peach/03030.png 1
-C:/Fruits/test/Mega_Bluberry/03078.png 0
-C:/Fruits/test/Mega_Bluberry/03063.png 0
-C:/Fruits/test/Mega_Peach/03019.png 1
-C:/Fruits/test/Mega_Peach/03218.png 1
-C:/Fruits/test/Mega_Peach/03083.png 1
-C:/Fruits/test/Mega_Bluberry/03255.png 0
-C:/Fruits/test/Mega_Bluberry/03281.png 0
-C:/Fruits/test/Mega_Peach/03288.png 1
-C:/Fruits/test/Mega_Bluberry/03133.png 0
-C:/Fruits/test/Mega_Peach/03284.png 1
-C:/Fruits/test/Mega_Bluberry/03065.png 0
-C:/Fruits/test/Mega_Bluberry/03466.png 0
-C:/Fruits/test/Mega_Bluberry/03215.png 0
-C:/Fruits/test/Mega_Bluberry/03321.png 0
-C:/Fruits/test/Mega_Peach/03417.png 1
-C:/Fruits/test/Mega_Peach/03059.png 1
-C:/Fruits/test/Mega_Bluberry/03195.png 0
-C:/Fruits/test/Mega_Peach/03375.png 1
-C:/Fruits/test/Mega_Peach/03402.png 1
-C:/Fruits/test/Mega_Bluberry/03143.png 0
-C:/Fruits/test/Mega_Peach/03404.png 1
-C:/Fruits/test/Mega_Peach/03354.png 1
-C:/Fruits/test/Mega_Peach/03219.png 1
-C:/Fruits/test/Mega_Peach/03242.png 1
-C:/Fruits/test/Mega_Peach/03302.png 1
-C:/Fruits/test/Mega_Bluberry/03232.png 0
-C:/Fruits/test/Mega_Peach/03477.png 1
-C:/Fruits/test/Mega_Peach/03060.png 1
-C:/Fruits/test/Mega_Bluberry/03329.png 0
-C:/Fruits/test/Mega_Bluberry/03155.png 0
-C:/Fruits/test/Mega_Peach/03132.png 1
-C:/Fruits/test/Mega_Peach/03393.png 1
-C:/Fruits/test/Mega_Peach/03180.png 1
-C:/Fruits/test/Mega_Peach/03351.png 1
-C:/Fruits/test/Mega_Peach/03038.png 1
-C:/Fruits/test/Mega_Peach/03028.png 1
-C:/Fruits/test/Mega_Bluberry/03188.png 0
-C:/Fruits/test/Mega_Peach/03274.png 1
-C:/Fruits/test/Mega_Bluberry/03386.png 0
-C:/Fruits/test/Mega_Peach/03193.png 1
-C:/Fruits/test/Mega_Bluberry/03489.png 0
-C:/Fruits/test/Mega_Peach/03105.png 1
-C:/Fruits/test/Mega_Peach/03261.png 1
-C:/Fruits/test/Mega_Bluberry/03426.png 0
-C:/Fruits/test/Mega_Peach/03161.png 1
-C:/Fruits/test/Mega_Bluberry/03000.png 0
-C:/Fruits/test/Mega_Peach/03347.png 1
-C:/Fruits/test/Mega_Bluberry/03378.png 0
-C:/Fruits/test/Mega_Peach/03322.png 1
-C:/Fruits/test/Mega_Bluberry/03178.png 0
-C:/Fruits/test/Mega_Bluberry/03222.png 0
-C:/Fruits/test/Mega_Peach/03186.png 1
-C:/Fruits/test/Mega_Peach/03382.png 1
-C:/Fruits/test/Mega_Peach/03055.png 1
-C:/Fruits/test/Mega_Peach/03088.png 1
-C:/Fruits/test/Mega_Bluberry/03388.png 0
-C:/Fruits/test/Mega_Peach/03265.png 1
-C:/Fruits/test/Mega_Bluberry/03322.png 0
-C:/Fruits/test/Mega_Peach/03446.png 1
-C:/Fruits/test/Mega_Bluberry/03090.png 0
-C:/Fruits/test/Mega_Bluberry/03499.png 0
-C:/Fruits/test/Mega_Bluberry/03073.png 0
-C:/Fruits/test/Mega_Bluberry/03432.png 0
-C:/Fruits/test/Mega_Peach/03042.png 1
-C:/Fruits/test/Mega_Peach/03335.png 1
-C:/Fruits/test/Mega_Peach/03386.png 1
-C:/Fruits/test/Mega_Bluberry/03240.png 0
-C:/Fruits/test/Mega_Peach/03097.png 1
-C:/Fruits/test/Mega_Peach/03149.png 1
-C:/Fruits/test/Mega_Peach/03117.png 1
-C:/Fruits/test/Mega_Peach/03453.png 1
-C:/Fruits/test/Mega_Bluberry/03067.png 0
-C:/Fruits/test/Mega_Peach/03020.png 1
-C:/Fruits/test/Mega_Bluberry/03161.png 0
-C:/Fruits/test/Mega_Peach/03158.png 1
-C:/Fruits/test/Mega_Bluberry/03446.png 0
-C:/Fruits/test/Mega_Bluberry/03054.png 0
-C:/Fruits/test/Mega_Bluberry/03203.png 0
-C:/Fruits/test/Mega_Bluberry/03031.png 0
-C:/Fruits/test/Mega_Peach/03233.png 1
-C:/Fruits/test/Mega_Peach/03459.png 1
-C:/Fruits/test/Mega_Peach/03359.png 1
-C:/Fruits/test/Mega_Bluberry/03184.png 0
-C:/Fruits/test/Mega_Bluberry/03303.png 0
-C:/Fruits/test/Mega_Peach/03089.png 1
-C:/Fruits/test/Mega_Peach/03050.png 1
-C:/Fruits/test/Mega_Peach/03144.png 1
-C:/Fruits/test/Mega_Peach/03006.png 1
-C:/Fruits/test/Mega_Peach/03327.png 1
-C:/Fruits/test/Mega_Peach/03174.png 1
-C:/Fruits/test/Mega_Peach/03150.png 1
-C:/Fruits/test/Mega_Bluberry/03026.png 0
-C:/Fruits/test/Mega_Peach/03023.png 1
-C:/Fruits/test/Mega_Peach/03229.png 1
-C:/Fruits/test/Mega_Peach/03271.png 1
-C:/Fruits/test/Mega_Peach/03368.png 1
-C:/Fruits/test/Mega_Peach/03238.png 1
-C:/Fruits/test/Mega_Bluberry/03308.png 0
-C:/Fruits/test/Mega_Bluberry/03463.png 0
-C:/Fruits/test/Mega_Bluberry/03503.png 0
-C:/Fruits/test/Mega_Bluberry/03310.png 0
-C:/Fruits/test/Mega_Bluberry/03248.png 0
-C:/Fruits/test/Mega_Bluberry/03491.png 0
-C:/Fruits/test/Mega_Peach/03397.png 1
-C:/Fruits/test/Mega_Bluberry/03474.png 0
-C:/Fruits/test/Mega_Peach/03078.png 1
-C:/Fruits/test/Mega_Peach/03396.png 1
-C:/Fruits/test/Mega_Bluberry/03020.png 0
-C:/Fruits/test/Mega_Peach/03137.png 1
-C:/Fruits/test/Mega_Bluberry/03201.png 0
-C:/Fruits/test/Mega_Peach/03345.png 1
-C:/Fruits/test/Mega_Peach/03138.png 1
-C:/Fruits/test/Mega_Peach/03420.png 1
-C:/Fruits/test/Mega_Bluberry/03192.png 0
-C:/Fruits/test/Mega_Bluberry/03411.png 0
-C:/Fruits/test/Mega_Peach/03276.png 1
-C:/Fruits/test/Mega_Peach/03330.png 1
-C:/Fruits/test/Mega_Bluberry/03185.png 0
-C:/Fruits/test/Mega_Bluberry/03015.png 0
-C:/Fruits/test/Mega_Bluberry/03042.png 0
-C:/Fruits/test/Mega_Bluberry/03117.png 0
-C:/Fruits/test/Mega_Bluberry/03461.png 0
-C:/Fruits/test/Mega_Bluberry/03123.png 0
-C:/Fruits/test/Mega_Bluberry/03355.png 0
-C:/Fruits/test/Mega_Bluberry/03096.png 0
-C:/Fruits/test/Mega_Bluberry/03331.png 0
-C:/Fruits/test/Mega_Bluberry/03284.png 0
-C:/Fruits/test/Mega_Peach/03361.png 1
-C:/Fruits/test/Mega_Bluberry/03389.png 0
-C:/Fruits/test/Mega_Peach/03121.png 1
-C:/Fruits/test/Mega_Bluberry/03244.png 0
-C:/Fruits/test/Mega_Bluberry/03257.png 0
-C:/Fruits/test/Mega_Bluberry/03098.png 0
-C:/Fruits/test/Mega_Bluberry/03261.png 0
-C:/Fruits/test/Mega_Bluberry/03373.png 0
-C:/Fruits/test/Mega_Peach/03136.png 1
-C:/Fruits/test/Mega_Peach/03183.png 1
-C:/Fruits/test/Mega_Peach/03016.png 1
-C:/Fruits/test/Mega_Bluberry/03167.png 0
-C:/Fruits/test/Mega_Peach/03376.png 1
-C:/Fruits/test/Mega_Bluberry/03302.png 0
-C:/Fruits/test/Mega_Peach/03107.png 1
-C:/Fruits/test/Mega_Peach/03241.png 1
-C:/Fruits/test/Mega_Bluberry/03430.png 0
-C:/Fruits/test/Mega_Peach/03473.png 1
-C:/Fruits/test/Mega_Peach/03295.png 1
-C:/Fruits/test/Mega_Bluberry/03448.png 0
-C:/Fruits/test/Mega_Peach/03286.png 1
-C:/Fruits/test/Mega_Bluberry/03478.png 0
-C:/Fruits/test/Mega_Peach/03278.png 1
-C:/Fruits/test/Mega_Bluberry/03495.png 0
-C:/Fruits/test/Mega_Bluberry/03418.png 0
-C:/Fruits/test/Mega_Peach/03280.png 1
-C:/Fruits/test/Mega_Peach/03463.png 1
-C:/Fruits/test/Mega_Peach/03297.png 1
-C:/Fruits/test/Mega_Bluberry/03484.png 0
-C:/Fruits/test/Mega_Peach/03421.png 1
-C:/Fruits/test/Mega_Peach/03422.png 1
-C:/Fruits/test/Mega_Bluberry/03204.png 0
-C:/Fruits/test/Mega_Peach/03385.png 1
-C:/Fruits/test/Mega_Bluberry/03494.png 0
-C:/Fruits/test/Mega_Bluberry/03033.png 0
-C:/Fruits/test/Mega_Bluberry/03183.png 0
-C:/Fruits/test/Mega_Bluberry/03445.png 0
-C:/Fruits/test/Mega_Bluberry/03218.png 0
-C:/Fruits/test/Mega_Peach/03127.png 1
-C:/Fruits/test/Mega_Peach/03247.png 1
-C:/Fruits/test/Mega_Peach/03392.png 1
-C:/Fruits/test/Mega_Peach/03035.png 1
-C:/Fruits/test/Mega_Peach/03098.png 1
-C:/Fruits/test/Mega_Peach/03185.png 1
-C:/Fruits/test/Mega_Bluberry/03305.png 0
-C:/Fruits/test/Mega_Bluberry/03136.png 0
-C:/Fruits/test/Mega_Bluberry/03104.png 0
-C:/Fruits/test/Mega_Bluberry/03324.png 0
-C:/Fruits/test/Mega_Bluberry/03177.png 0
-C:/Fruits/test/Mega_Bluberry/03415.png 0
-C:/Fruits/test/Mega_Peach/03325.png 1
-C:/Fruits/test/Mega_Peach/03474.png 1
-C:/Fruits/test/Mega_Peach/03104.png 1
-C:/Fruits/test/Mega_Peach/03106.png 1
-C:/Fruits/test/Mega_Peach/03061.png 1
-C:/Fruits/test/Mega_Peach/03188.png 1
-C:/Fruits/test/Mega_Bluberry/03122.png 0
-C:/Fruits/test/Mega_Peach/03461.png 1
-C:/Fruits/test/Mega_Peach/03462.png 1
-C:/Fruits/test/Mega_Bluberry/03074.png 0
-C:/Fruits/test/Mega_Bluberry/03282.png 0
-C:/Fruits/test/Mega_Peach/03001.png 1
-C:/Fruits/test/Mega_Bluberry/03392.png 0
-C:/Fruits/test/Mega_Bluberry/03320.png 0
-C:/Fruits/test/Mega_Bluberry/03051.png 0
-C:/Fruits/test/Mega_Peach/03314.png 1
-C:/Fruits/test/Mega_Bluberry/03234.png 0
-C:/Fruits/test/Mega_Peach/03309.png 1
-C:/Fruits/test/Mega_Peach/03145.png 1
-C:/Fruits/test/Mega_Bluberry/03500.png 0
-C:/Fruits/test/Mega_Bluberry/03273.png 0
-C:/Fruits/test/Mega_Peach/03002.png 1
-C:/Fruits/test/Mega_Peach/03333.png 1
-C:/Fruits/test/Mega_Peach/03456.png 1
-C:/Fruits/test/Mega_Bluberry/03351.png 0
-C:/Fruits/test/Mega_Bluberry/03044.png 0
-C:/Fruits/test/Mega_Peach/03151.png 1
-C:/Fruits/test/Mega_Peach/03009.png 1
-C:/Fruits/test/Mega_Bluberry/03129.png 0
-C:/Fruits/test/Mega_Bluberry/03337.png 0
-C:/Fruits/test/Mega_Peach/03211.png 1
-C:/Fruits/test/Mega_Bluberry/03219.png 0
-C:/Fruits/test/Mega_Bluberry/03407.png 0
-C:/Fruits/test/Mega_Peach/03299.png 1
-C:/Fruits/test/Mega_Peach/03122.png 1
-C:/Fruits/test/Mega_Peach/03198.png 1
-C:/Fruits/test/Mega_Bluberry/03058.png 0
-C:/Fruits/test/Mega_Peach/03471.png 1
-C:/Fruits/test/Mega_Peach/03109.png 1
-C:/Fruits/test/Mega_Bluberry/03408.png 0
-C:/Fruits/test/Mega_Bluberry/03164.png 0
-C:/Fruits/test/Mega_Bluberry/03342.png 0
-C:/Fruits/test/Mega_Peach/03291.png 1
-C:/Fruits/test/Mega_Peach/03263.png 1
-C:/Fruits/test/Mega_Bluberry/03318.png 0
-C:/Fruits/test/Mega_Bluberry/03079.png 0
-C:/Fruits/test/Mega_Peach/03353.png 1
-C:/Fruits/test/Mega_Bluberry/03111.png 0
-C:/Fruits/test/Mega_Peach/03357.png 1
-C:/Fruits/test/Mega_Bluberry/03230.png 0
-C:/Fruits/test/Mega_Peach/03468.png 1
-C:/Fruits/test/Mega_Bluberry/03340.png 0
-C:/Fruits/test/Mega_Peach/03356.png 1
-C:/Fruits/test/Mega_Bluberry/03477.png 0
-C:/Fruits/test/Mega_Peach/03077.png 1
-C:/Fruits/test/Mega_Bluberry/03459.png 0
-C:/Fruits/test/Mega_Bluberry/03016.png 0
-C:/Fruits/test/Mega_Bluberry/03082.png 0
-C:/Fruits/test/Mega_Bluberry/03341.png 0
-C:/Fruits/test/Mega_Bluberry/03431.png 0
-C:/Fruits/test/Mega_Bluberry/03482.png 0
-C:/Fruits/test/Mega_Bluberry/03053.png 0
-C:/Fruits/test/Mega_Peach/03160.png 1
-C:/Fruits/test/Mega_Bluberry/03113.png 0
-C:/Fruits/test/Mega_Bluberry/03175.png 0
-C:/Fruits/test/Mega_Bluberry/03400.png 0
-C:/Fruits/test/Mega_Bluberry/03288.png 0
-C:/Fruits/test/Mega_Bluberry/03027.png 0
-C:/Fruits/test/Mega_Bluberry/03454.png 0
-C:/Fruits/test/Mega_Bluberry/03237.png 0
-C:/Fruits/test/Mega_Bluberry/03498.png 0
-C:/Fruits/test/Mega_Bluberry/03093.png 0
-C:/Fruits/test/Mega_Bluberry/03479.png 0
-C:/Fruits/test/Mega_Bluberry/03156.png 0
-C:/Fruits/test/Mega_Bluberry/03292.png 0
-C:/Fruits/test/Mega_Bluberry/03254.png 0
-C:/Fruits/test/Mega_Bluberry/03118.png 0
-C:/Fruits/test/Mega_Peach/03336.png 1
-C:/Fruits/test/Mega_Bluberry/03330.png 0
-C:/Fruits/test/Mega_Bluberry/03256.png 0
-C:/Fruits/test/Mega_Bluberry/03249.png 0
-C:/Fruits/test/Mega_Peach/03010.png 1
-C:/Fruits/test/Mega_Peach/03331.png 1
-C:/Fruits/test/Mega_Peach/03119.png 1
-C:/Fruits/test/Mega_Peach/03224.png 1
-C:/Fruits/test/Mega_Peach/03000.png 1
-C:/Fruits/test/Mega_Bluberry/03312.png 0
-C:/Fruits/test/Mega_Peach/03196.png 1
-C:/Fruits/test/Mega_Peach/03079.png 1
-C:/Fruits/test/Mega_Peach/03067.png 1
-C:/Fruits/test/Mega_Peach/03184.png 1
-C:/Fruits/test/Mega_Peach/03270.png 1
-C:/Fruits/test/Mega_Peach/03252.png 1
-C:/Fruits/test/Mega_Bluberry/03172.png 0
-C:/Fruits/test/Mega_Peach/03140.png 1
-C:/Fruits/test/Mega_Bluberry/03364.png 0
-C:/Fruits/test/Mega_Bluberry/03382.png 0
-C:/Fruits/test/Mega_Peach/03204.png 1
-C:/Fruits/test/Mega_Bluberry/03057.png 0
-C:/Fruits/test/Mega_Bluberry/03120.png 0
-C:/Fruits/test/Mega_Peach/03131.png 1
-C:/Fruits/test/Mega_Peach/03445.png 1
-C:/Fruits/test/Mega_Peach/03189.png 1
-C:/Fruits/test/Mega_Peach/03466.png 1
-C:/Fruits/test/Mega_Bluberry/03359.png 0
-C:/Fruits/test/Mega_Bluberry/03181.png 0
-C:/Fruits/test/Mega_Bluberry/03370.png 0
-C:/Fruits/test/Mega_Peach/03260.png 1
-C:/Fruits/test/Mega_Bluberry/03371.png 0
-C:/Fruits/test/Mega_Bluberry/03473.png 0
-C:/Fruits/test/Mega_Bluberry/03264.png 0
-C:/Fruits/test/Mega_Bluberry/03424.png 0
-C:/Fruits/test/Mega_Bluberry/03154.png 0
-C:/Fruits/test/Mega_Peach/03081.png 1
-C:/Fruits/test/Mega_Peach/03384.png 1
-C:/Fruits/test/Mega_Bluberry/03186.png 0
-C:/Fruits/test/Mega_Peach/03163.png 1
-C:/Fruits/test/Mega_Bluberry/03280.png 0
-C:/Fruits/test/Mega_Peach/03157.png 1
-C:/Fruits/test/Mega_Bluberry/03279.png 0
-C:/Fruits/test/Mega_Peach/03069.png 1
-C:/Fruits/test/Mega_Bluberry/03180.png 0
-C:/Fruits/test/Mega_Peach/03370.png 1
-C:/Fruits/test/Mega_Bluberry/03121.png 0
-C:/Fruits/test/Mega_Bluberry/03387.png 0
-C:/Fruits/test/Mega_Peach/03378.png 1
-C:/Fruits/test/Mega_Peach/03394.png 1
-C:/Fruits/test/Mega_Bluberry/03416.png 0
-C:/Fruits/test/Mega_Peach/03293.png 1
-C:/Fruits/test/Mega_Bluberry/03453.png 0
-C:/Fruits/test/Mega_Peach/03450.png 1
-C:/Fruits/test/Mega_Bluberry/03379.png 0
-C:/Fruits/test/Mega_Peach/03285.png 1
-C:/Fruits/test/Mega_Bluberry/03069.png 0
-C:/Fruits/test/Mega_Bluberry/03209.png 0
-C:/Fruits/test/Mega_Peach/03334.png 1
-C:/Fruits/test/Mega_Bluberry/03501.png 0
-C:/Fruits/test/Mega_Peach/03444.png 1
-C:/Fruits/test/Mega_Bluberry/03013.png 0
-C:/Fruits/test/Mega_Bluberry/03311.png 0
-C:/Fruits/test/Mega_Peach/03052.png 1
-C:/Fruits/test/Mega_Bluberry/03095.png 0
-C:/Fruits/test/Mega_Peach/03266.png 1
-C:/Fruits/test/Mega_Bluberry/03502.png 0
-C:/Fruits/test/Mega_Peach/03058.png 1
-C:/Fruits/test/Mega_Bluberry/03278.png 0
-C:/Fruits/test/Mega_Bluberry/03062.png 0
-C:/Fruits/test/Mega_Peach/03429.png 1
-C:/Fruits/test/Mega_Peach/03091.png 1
-C:/Fruits/test/Mega_Bluberry/03105.png 0
-C:/Fruits/test/Mega_Bluberry/03464.png 0
-C:/Fruits/test/Mega_Bluberry/03075.png 0
-C:/Fruits/test/Mega_Peach/03221.png 1
-C:/Fruits/test/Mega_Bluberry/03383.png 0
-C:/Fruits/test/Mega_Peach/03403.png 1
-C:/Fruits/test/Mega_Bluberry/03456.png 0
-C:/Fruits/test/Mega_Peach/03258.png 1
-C:/Fruits/test/Mega_Bluberry/03071.png 0
-C:/Fruits/test/Mega_Peach/03289.png 1
-C:/Fruits/test/Mega_Bluberry/03097.png 0
-C:/Fruits/test/Mega_Bluberry/03187.png 0
-C:/Fruits/test/Mega_Peach/03424.png 1
-C:/Fruits/test/Mega_Bluberry/03395.png 0
-C:/Fruits/test/Mega_Bluberry/03038.png 0
-C:/Fruits/test/Mega_Bluberry/03398.png 0
-C:/Fruits/test/Mega_Bluberry/03226.png 0
-C:/Fruits/test/Mega_Bluberry/03316.png 0
-C:/Fruits/test/Mega_Bluberry/03174.png 0
-C:/Fruits/test/Mega_Bluberry/03275.png 0
-C:/Fruits/test/Mega_Bluberry/03006.png 0
-C:/Fruits/test/Mega_Peach/03294.png 1
-C:/Fruits/test/Mega_Bluberry/03037.png 0
-C:/Fruits/test/Mega_Peach/03249.png 1
-C:/Fruits/test/Mega_Peach/03390.png 1
-C:/Fruits/test/Mega_Peach/03306.png 1
-C:/Fruits/test/Mega_Bluberry/03354.png 0
-C:/Fruits/test/Mega_Bluberry/03440.png 0
-C:/Fruits/test/Mega_Bluberry/03467.png 0
-C:/Fruits/test/Mega_Bluberry/03014.png 0
-C:/Fruits/test/Mega_Bluberry/03102.png 0
-C:/Fruits/test/Mega_Peach/03460.png 1
-C:/Fruits/test/Mega_Peach/03139.png 1
-C:/Fruits/test/Mega_Bluberry/03047.png 0
-C:/Fruits/test/Mega_Bluberry/03289.png 0
-C:/Fruits/test/Mega_Bluberry/03314.png 0
-C:/Fruits/test/Mega_Bluberry/03100.png 0
-C:/Fruits/test/Mega_Bluberry/03268.png 0
-C:/Fruits/test/Mega_Bluberry/03110.png 0
-C:/Fruits/test/Mega_Peach/03070.png 1
-C:/Fruits/test/Mega_Bluberry/03208.png 0
-C:/Fruits/test/Mega_Peach/03164.png 1
-C:/Fruits/test/Mega_Bluberry/03036.png 0
-C:/Fruits/test/Mega_Peach/03287.png 1
-C:/Fruits/test/Mega_Peach/03342.png 1
-C:/Fruits/test/Mega_Peach/03277.png 1
-C:/Fruits/test/Mega_Bluberry/03293.png 0
-C:/Fruits/test/Mega_Bluberry/03152.png 0
-C:/Fruits/test/Mega_Peach/03447.png 1
-C:/Fruits/test/Mega_Peach/03470.png 1
-C:/Fruits/test/Mega_Bluberry/03452.png 0
-C:/Fruits/test/Mega_Bluberry/03239.png 0
-C:/Fruits/test/Mega_Peach/03360.png 1
-C:/Fruits/test/Mega_Bluberry/03283.png 0
-C:/Fruits/test/Mega_Bluberry/03009.png 0
-C:/Fruits/test/Mega_Peach/03047.png 1
-C:/Fruits/test/Mega_Bluberry/03262.png 0
-C:/Fruits/test/Mega_Bluberry/03225.png 0
-C:/Fruits/test/Mega_Peach/03253.png 1
-C:/Fruits/test/Mega_Peach/03230.png 1
-C:/Fruits/test/Mega_Peach/03300.png 1
-C:/Fruits/test/Mega_Peach/03415.png 1
-C:/Fruits/test/Mega_Peach/03114.png 1
-C:/Fruits/test/Mega_Bluberry/03004.png 0
-C:/Fruits/test/Mega_Peach/03427.png 1
-C:/Fruits/test/Mega_Bluberry/03297.png 0
-C:/Fruits/test/Mega_Bluberry/03447.png 0
-C:/Fruits/test/Mega_Bluberry/03410.png 0
-C:/Fruits/test/Mega_Peach/03308.png 1
-C:/Fruits/test/Mega_Peach/03177.png 1
-C:/Fruits/test/Mega_Bluberry/03144.png 0
-C:/Fruits/test/Mega_Peach/03454.png 1
-C:/Fruits/test/Mega_Peach/03195.png 1
-C:/Fruits/test/Mega_Peach/03401.png 1
-C:/Fruits/test/Mega_Peach/03407.png 1
-C:/Fruits/test/Mega_Peach/03431.png 1
-C:/Fruits/test/Mega_Peach/03005.png 1
-C:/Fruits/test/Mega_Peach/03452.png 1
-C:/Fruits/test/Mega_Bluberry/03142.png 0
-C:/Fruits/test/Mega_Peach/03400.png 1
-C:/Fruits/test/Mega_Peach/03056.png 1
-C:/Fruits/test/Mega_Peach/03262.png 1
-C:/Fruits/test/Mega_Bluberry/03266.png 0
-C:/Fruits/test/Mega_Bluberry/03149.png 0
-C:/Fruits/test/Mega_Bluberry/03377.png 0
-C:/Fruits/test/Mega_Bluberry/03137.png 0
-C:/Fruits/test/Mega_Bluberry/03352.png 0
-C:/Fruits/test/Mega_Bluberry/03045.png 0
-C:/Fruits/test/Mega_Peach/03220.png 1
-C:/Fruits/test/Mega_Bluberry/03360.png 0
-C:/Fruits/test/Mega_Bluberry/03369.png 0
-C:/Fruits/test/Mega_Peach/03110.png 1
-C:/Fruits/test/Mega_Peach/03215.png 1
-C:/Fruits/test/Mega_Bluberry/03108.png 0
-C:/Fruits/test/Mega_Peach/03346.png 1
-C:/Fruits/test/Mega_Bluberry/03504.png 0
-C:/Fruits/test/Mega_Bluberry/03055.png 0
-C:/Fruits/test/Mega_Bluberry/03393.png 0
-C:/Fruits/test/Mega_Bluberry/03245.png 0
-C:/Fruits/test/Mega_Peach/03222.png 1
-C:/Fruits/test/Mega_Peach/03159.png 1
-C:/Fruits/test/Mega_Bluberry/03214.png 0
-C:/Fruits/test/Mega_Bluberry/03106.png 0
-C:/Fruits/test/Mega_Peach/03337.png 1
-C:/Fruits/test/Mega_Bluberry/03472.png 0
-C:/Fruits/test/Mega_Bluberry/03334.png 0
-C:/Fruits/test/Mega_Peach/03073.png 1
-C:/Fruits/test/Mega_Peach/03115.png 1
-C:/Fruits/test/Mega_Bluberry/03338.png 0
-C:/Fruits/test/Mega_Bluberry/03428.png 0
-C:/Fruits/test/Mega_Peach/03383.png 1
-C:/Fruits/test/Mega_Peach/03279.png 1
-C:/Fruits/test/Mega_Bluberry/03252.png 0
-C:/Fruits/test/Mega_Peach/03371.png 1
-C:/Fruits/test/Mega_Peach/03409.png 1
-C:/Fruits/test/Mega_Bluberry/03241.png 0
-C:/Fruits/test/Mega_Bluberry/03346.png 0
-C:/Fruits/test/Mega_Peach/03434.png 1
-C:/Fruits/test/Mega_Bluberry/03034.png 0
-C:/Fruits/test/Mega_Peach/03301.png 1
-C:/Fruits/test/Mega_Peach/03064.png 1
-C:/Fruits/test/Mega_Peach/03234.png 1
-C:/Fruits/test/Mega_Peach/03024.png 1
-C:/Fruits/test/Mega_Bluberry/03220.png 0
-C:/Fruits/test/Mega_Bluberry/03049.png 0
-C:/Fruits/test/Mega_Bluberry/03076.png 0
-C:/Fruits/test/Mega_Peach/03170.png 1
-C:/Fruits/test/Mega_Peach/03036.png 1
-C:/Fruits/test/Mega_Bluberry/03238.png 0
-C:/Fruits/test/Mega_Peach/03041.png 1
-C:/Fruits/test/Mega_Bluberry/03103.png 0
-C:/Fruits/test/Mega_Bluberry/03151.png 0
-C:/Fruits/test/Mega_Peach/03264.png 1
-C:/Fruits/test/Mega_Peach/03014.png 1
-C:/Fruits/test/Mega_Bluberry/03438.png 0
-C:/Fruits/test/Mega_Peach/03008.png 1
-C:/Fruits/test/Mega_Peach/03237.png 1
-C:/Fruits/test/Mega_Bluberry/03003.png 0
-C:/Fruits/test/Mega_Peach/03379.png 1
-C:/Fruits/test/Mega_Peach/03236.png 1
-C:/Fruits/test/Mega_Peach/03044.png 1
-C:/Fruits/test/Mega_Bluberry/03306.png 0
-C:/Fruits/test/Mega_Bluberry/03035.png 0
-C:/Fruits/test/Mega_Bluberry/03135.png 0
-C:/Fruits/test/Mega_Bluberry/03077.png 0
-C:/Fruits/test/Mega_Peach/03217.png 1
-C:/Fruits/test/Mega_Peach/03090.png 1
-C:/Fruits/test/Mega_Peach/03432.png 1
-C:/Fruits/test/Mega_Bluberry/03468.png 0
-C:/Fruits/test/Mega_Peach/03194.png 1
-C:/Fruits/test/Mega_Peach/03092.png 1
-C:/Fruits/test/Mega_Bluberry/03092.png 0
-C:/Fruits/test/Mega_Bluberry/03023.png 0
-C:/Fruits/test/Mega_Peach/03449.png 1
-C:/Fruits/test/Mega_Bluberry/03414.png 0
-C:/Fruits/test/Mega_Bluberry/03336.png 0
-C:/Fruits/test/Mega_Bluberry/03060.png 0
-C:/Fruits/test/Mega_Peach/03290.png 1
-C:/Fruits/test/Mega_Peach/03108.png 1
-C:/Fruits/test/Mega_Bluberry/03363.png 0
-C:/Fruits/test/Mega_Bluberry/03198.png 0
-C:/Fruits/test/Mega_Bluberry/03189.png 0
-C:/Fruits/test/Mega_Bluberry/03112.png 0
-C:/Fruits/test/Mega_Peach/03303.png 1
-C:/Fruits/test/Mega_Bluberry/03295.png 0
-C:/Fruits/test/Mega_Peach/03479.png 1
-C:/Fruits/test/Mega_Peach/03405.png 1
-C:/Fruits/test/Mega_Peach/03326.png 1
-C:/Fruits/test/Mega_Bluberry/03475.png 0
-C:/Fruits/test/Mega_Bluberry/03399.png 0
-C:/Fruits/test/Mega_Bluberry/03134.png 0
-C:/Fruits/test/Mega_Bluberry/03260.png 0
-C:/Fruits/test/Mega_Bluberry/03116.png 0
-C:/Fruits/test/Mega_Peach/03348.png 1
-C:/Fruits/test/Mega_Peach/03367.png 1
-C:/Fruits/test/Mega_Bluberry/03323.png 0
-C:/Fruits/test/Mega_Peach/03112.png 1
-C:/Fruits/test/Mega_Peach/03439.png 1
-C:/Fruits/test/Mega_Bluberry/03274.png 0
-C:/Fruits/test/Mega_Bluberry/03420.png 0
-C:/Fruits/test/Mega_Bluberry/03246.png 0
-C:/Fruits/test/Mega_Peach/03021.png 1
-C:/Fruits/test/Mega_Bluberry/03367.png 0
-C:/Fruits/test/Mega_Bluberry/03089.png 0
-C:/Fruits/test/Mega_Peach/03251.png 1
-C:/Fruits/test/Mega_Peach/03259.png 1
-C:/Fruits/test/Mega_Peach/03343.png 1
-C:/Fruits/test/Mega_Bluberry/03068.png 0
-C:/Fruits/test/Mega_Peach/03120.png 1
-C:/Fruits/test/Mega_Bluberry/03231.png 0
-C:/Fruits/test/Mega_Peach/03373.png 1
-C:/Fruits/test/Mega_Bluberry/03202.png 0
-C:/Fruits/test/Mega_Peach/03391.png 1
-C:/Fruits/test/Mega_Peach/03478.png 1
-C:/Fruits/test/Mega_Peach/03377.png 1
-C:/Fruits/test/Mega_Peach/03040.png 1
-C:/Fruits/test/Mega_Peach/03399.png 1
-C:/Fruits/test/Mega_Bluberry/03157.png 0
-C:/Fruits/test/Mega_Bluberry/03361.png 0
-C:/Fruits/test/Mega_Peach/03349.png 1
-C:/Fruits/test/Mega_Peach/03213.png 1
-C:/Fruits/test/Mega_Peach/03113.png 1
-C:/Fruits/test/Mega_Peach/03338.png 1
-C:/Fruits/test/Mega_Bluberry/03270.png 0
-C:/Fruits/test/Mega_Bluberry/03088.png 0
-C:/Fruits/test/Mega_Peach/03075.png 1
-C:/Fruits/test/Mega_Peach/03319.png 1
-C:/Fruits/test/Mega_Peach/03022.png 1
-C:/Fruits/test/Mega_Peach/03054.png 1
-C:/Fruits/test/Mega_Bluberry/03158.png 0
-C:/Fruits/test/Mega_Bluberry/03025.png 0
-C:/Fruits/test/Mega_Bluberry/03094.png 0
-C:/Fruits/test/Mega_Peach/03206.png 1
-C:/Fruits/test/Mega_Bluberry/03091.png 0
-C:/Fruits/test/Mega_Peach/03172.png 1
-C:/Fruits/test/Mega_Bluberry/03046.png 0
-C:/Fruits/test/Mega_Peach/03124.png 1
-C:/Fruits/test/Mega_Bluberry/03021.png 0
-C:/Fruits/test/Mega_Peach/03129.png 1
-C:/Fruits/test/Mega_Bluberry/03439.png 0
-C:/Fruits/test/Mega_Peach/03256.png 1
-C:/Fruits/test/Mega_Peach/03062.png 1
-C:/Fruits/test/Mega_Bluberry/03276.png 0
-C:/Fruits/test/Mega_Peach/03467.png 1
-C:/Fruits/test/Mega_Bluberry/03412.png 0
-C:/Fruits/test/Mega_Peach/03296.png 1
-C:/Fruits/test/Mega_Bluberry/03141.png 0
-C:/Fruits/test/Mega_Peach/03033.png 1
-C:/Fruits/test/Mega_Peach/03268.png 1
-C:/Fruits/test/Mega_Peach/03398.png 1
-C:/Fruits/test/Mega_Peach/03240.png 1
-C:/Fruits/test/Mega_Bluberry/03391.png 0
-C:/Fruits/test/Mega_Peach/03472.png 1
-C:/Fruits/test/Mega_Bluberry/03170.png 0
-C:/Fruits/test/Mega_Peach/03178.png 1
-C:/Fruits/test/Mega_Bluberry/03061.png 0
-C:/Fruits/test/Mega_Peach/03168.png 1
-C:/Fruits/test/Mega_Bluberry/03385.png 0
-C:/Fruits/test/Mega_Peach/03292.png 1
-C:/Fruits/test/Mega_Peach/03476.png 1
-C:/Fruits/test/Mega_Peach/03464.png 1
-C:/Fruits/test/Mega_Bluberry/03423.png 0
-C:/Fruits/test/Mega_Peach/03004.png 1
-C:/Fruits/test/Mega_Peach/03101.png 1
-C:/Fruits/test/Mega_Peach/03248.png 1
-C:/Fruits/test/Mega_Bluberry/03150.png 0
-C:/Fruits/test/Mega_Peach/03381.png 1
-C:/Fruits/test/Mega_Bluberry/03357.png 0
-C:/Fruits/test/Mega_Peach/03080.png 1
-C:/Fruits/test/Mega_Peach/03408.png 1
-C:/Fruits/test/Mega_Bluberry/03315.png 0
-C:/Fruits/test/Mega_Bluberry/03119.png 0
-C:/Fruits/test/Mega_Peach/03416.png 1
-C:/Fruits/test/Mega_Bluberry/03124.png 0
-C:/Fruits/test/Mega_Bluberry/03405.png 0
-C:/Fruits/test/Mega_Peach/03352.png 1
-C:/Fruits/test/Mega_Peach/03094.png 1
-C:/Fruits/test/Mega_Peach/03162.png 1
-C:/Fruits/test/Mega_Bluberry/03433.png 0
-C:/Fruits/test/Mega_Peach/03216.png 1
-C:/Fruits/test/Mega_Peach/03133.png 1
-C:/Fruits/test/Mega_Bluberry/03409.png 0
-C:/Fruits/test/Mega_Bluberry/03099.png 0
-C:/Fruits/test/Mega_Bluberry/03356.png 0
-C:/Fruits/test/Mega_Bluberry/03319.png 0
-C:/Fruits/test/Mega_Bluberry/03362.png 0
-C:/Fruits/test/Mega_Peach/03166.png 1
-C:/Fruits/test/Mega_Peach/03037.png 1
-C:/Fruits/test/Mega_Peach/03066.png 1
-C:/Fruits/test/Mega_Peach/03269.png 1
-C:/Fruits/test/Mega_Peach/03197.png 1
-C:/Fruits/test/Mega_Bluberry/03304.png 0
-C:/Fruits/test/Mega_Peach/03438.png 1
-C:/Fruits/test/Mega_Bluberry/03272.png 0
-C:/Fruits/test/Mega_Bluberry/03294.png 0
-C:/Fruits/test/Mega_Bluberry/03465.png 0
-C:/Fruits/test/Mega_Peach/03011.png 1
-C:/Fruits/test/Mega_Bluberry/03087.png 0
-C:/Fruits/test/Mega_Peach/03175.png 1
-C:/Fruits/test/Mega_Bluberry/03443.png 0
-C:/Fruits/test/Mega_Bluberry/03017.png 0
-C:/Fruits/test/Mega_Bluberry/03147.png 0
-C:/Fruits/test/Mega_Bluberry/03380.png 0
-C:/Fruits/test/Mega_Bluberry/03263.png 0
-C:/Fruits/test/Mega_Bluberry/03126.png 0
-C:/Fruits/test/Mega_Peach/03419.png 1
-C:/Fruits/test/Mega_Peach/03087.png 1
-C:/Fruits/test/Mega_Bluberry/03081.png 0
-C:/Fruits/test/Mega_Bluberry/03052.png 0
-C:/Fruits/test/Mega_Peach/03205.png 1
-C:/Fruits/test/Mega_Bluberry/03030.png 0
-C:/Fruits/test/Mega_Bluberry/03002.png 0
-C:/Fruits/test/Mega_Bluberry/03128.png 0
-C:/Fruits/test/Mega_Bluberry/03227.png 0
-C:/Fruits/test/Mega_Bluberry/03086.png 0
-C:/Fruits/test/Mega_Peach/03305.png 1
-C:/Fruits/test/Mega_Bluberry/03345.png 0
-C:/Fruits/test/Mega_Bluberry/03506.png 0
-C:/Fruits/test/Mega_Peach/03214.png 1
-C:/Fruits/test/Mega_Bluberry/03328.png 0
-C:/Fruits/test/Mega_Peach/03012.png 1
-C:/Fruits/test/Mega_Bluberry/03247.png 0
-C:/Fruits/test/Mega_Bluberry/03168.png 0
-C:/Fruits/test/Mega_Bluberry/03024.png 0
-C:/Fruits/test/Mega_Bluberry/03434.png 0
-C:/Fruits/test/Mega_Bluberry/03267.png 0
-C:/Fruits/test/Mega_Peach/03282.png 1
-C:/Fruits/test/Mega_Peach/03071.png 1
-C:/Fruits/test/Mega_Peach/03074.png 1
-C:/Fruits/test/Mega_Bluberry/03221.png 0
-C:/Fruits/test/Mega_Peach/03125.png 1
-C:/Fruits/test/Mega_Bluberry/03348.png 0
-C:/Fruits/test/Mega_Bluberry/03436.png 0
-C:/Fruits/test/Mega_Peach/03313.png 1
-C:/Fruits/test/Mega_Peach/03310.png 1
-C:/Fruits/test/Mega_Bluberry/03493.png 0
-C:/Fruits/test/Mega_Bluberry/03317.png 0
-C:/Fruits/test/Mega_Bluberry/03080.png 0
-C:/Fruits/test/Mega_Bluberry/03437.png 0
-C:/Fruits/test/Mega_Peach/03413.png 1
-C:/Fruits/test/Mega_Bluberry/03109.png 0
-C:/Fruits/test/Mega_Peach/03135.png 1
-C:/Fruits/test/Mega_Peach/03086.png 1
-C:/Fruits/test/Mega_Peach/03051.png 1
-C:/Fruits/test/Mega_Bluberry/03205.png 0
-C:/Fruits/test/Mega_Peach/03152.png 1
-C:/Fruits/test/Mega_Peach/03207.png 1
-C:/Fruits/test/Mega_Bluberry/03236.png 0
-C:/Fruits/test/Mega_Bluberry/03471.png 0
-C:/Fruits/test/Mega_Bluberry/03425.png 0
-C:/Fruits/test/Mega_Peach/03155.png 1
-C:/Fruits/test/Mega_Peach/03372.png 1
-C:/Fruits/test/Mega_Bluberry/03335.png 0
-C:/Fruits/test/Mega_Peach/03153.png 1
-C:/Fruits/test/Mega_Peach/03068.png 1
-C:/Fruits/test/Mega_Bluberry/03072.png 0
-C:/Fruits/test/Mega_Bluberry/03050.png 0
-C:/Fruits/test/Mega_Bluberry/03403.png 0
-C:/Fruits/test/Mega_Bluberry/03401.png 0
-C:/Fruits/test/Mega_Bluberry/03207.png 0
-C:/Fruits/test/Mega_Bluberry/03497.png 0
-C:/Fruits/test/Mega_Bluberry/03358.png 0
-C:/Fruits/test/Mega_Peach/03363.png 1
-C:/Fruits/test/Mega_Bluberry/03372.png 0
-C:/Fruits/test/Mega_Bluberry/03019.png 0
-C:/Fruits/test/Mega_Peach/03029.png 1
-C:/Fruits/test/Mega_Bluberry/03307.png 0
-C:/Fruits/test/Mega_Bluberry/03269.png 0
-C:/Fruits/test/Mega_Bluberry/03146.png 0
-C:/Fruits/test/Mega_Peach/03380.png 1
-C:/Fruits/test/Mega_Peach/03272.png 1
-C:/Fruits/test/Mega_Peach/03311.png 1
-C:/Fruits/test/Mega_Peach/03339.png 1
-C:/Fruits/test/Mega_Peach/03469.png 1
-C:/Fruits/test/Mega_Peach/03026.png 1
-C:/Fruits/test/Mega_Bluberry/03010.png 0
-C:/Fruits/test/Mega_Bluberry/03162.png 0
-C:/Fruits/test/Mega_Bluberry/03229.png 0
-C:/Fruits/test/Mega_Peach/03025.png 1
-C:/Fruits/test/Mega_Bluberry/03176.png 0
-C:/Fruits/test/Mega_Peach/03143.png 1
-C:/Fruits/test/Mega_Peach/03223.png 1
-C:/Fruits/test/Mega_Peach/03389.png 1
-C:/Fruits/test/Mega_Bluberry/03059.png 0
-C:/Fruits/test/Mega_Peach/03031.png 1
-C:/Fruits/test/Mega_Peach/03245.png 1
-C:/Fruits/test/Mega_Peach/03344.png 1
-C:/Fruits/test/Mega_Peach/03212.png 1
-C:/Fruits/test/Mega_Bluberry/03441.png 0
-C:/Fruits/test/Mega_Peach/03364.png 1
-C:/Fruits/test/Mega_Bluberry/03171.png 0
-C:/Fruits/test/Mega_Bluberry/03132.png 0
-C:/Fruits/test/Mega_Bluberry/03285.png 0
-C:/Fruits/test/Mega_Peach/03208.png 1
-C:/Fruits/test/Mega_Peach/03435.png 1
-C:/Fruits/test/Mega_Peach/03440.png 1
-C:/Fruits/test/Mega_Peach/03034.png 1
-C:/Fruits/test/Mega_Bluberry/03041.png 0
-C:/Fruits/test/Mega_Bluberry/03442.png 0
-C:/Fruits/test/Mega_Peach/03436.png 1
-C:/Fruits/test/Mega_Peach/03099.png 1
-C:/Fruits/test/Mega_Peach/03191.png 1
-C:/Fruits/test/Mega_Peach/03374.png 1
-C:/Fruits/test/Mega_Bluberry/03130.png 0
-C:/Fruits/test/Mega_Peach/03281.png 1
-C:/Fruits/test/Mega_Bluberry/03381.png 0
-C:/Fruits/test/Mega_Bluberry/03326.png 0
-C:/Fruits/test/Mega_Peach/03057.png 1
-C:/Fruits/test/Mega_Peach/03147.png 1
-C:/Fruits/test/Mega_Bluberry/03333.png 0
-C:/Fruits/test/Mega_Peach/03111.png 1
-C:/Fruits/test/Mega_Peach/03209.png 1
-C:/Fruits/test/Mega_Peach/03451.png 1
-C:/Fruits/test/Mega_Bluberry/03139.png 0
-C:/Fruits/test/Mega_Peach/03412.png 1
-C:/Fruits/test/Mega_Bluberry/03193.png 0
-C:/Fruits/test/Mega_Bluberry/03460.png 0
-C:/Fruits/test/Mega_Peach/03273.png 1
-C:/Fruits/test/Mega_Bluberry/03413.png 0
-C:/Fruits/test/Mega_Peach/03406.png 1
-C:/Fruits/test/Mega_Bluberry/03375.png 0
-C:/Fruits/test/Mega_Peach/03032.png 1
-C:/Fruits/test/Mega_Peach/03425.png 1
-C:/Fruits/test/Mega_Bluberry/03353.png 0
-C:/Fruits/test/Mega_Peach/03199.png 1
-C:/Fruits/test/Mega_Peach/03093.png 1
-C:/Fruits/test/Mega_Peach/03246.png 1
-C:/Fruits/test/Mega_Peach/03332.png 1
-C:/Fruits/test/Mega_Bluberry/03005.png 0
-C:/Fruits/test/Mega_Bluberry/03384.png 0
-C:/Fruits/test/Mega_Bluberry/03349.png 0
-C:/Fruits/test/Mega_Peach/03118.png 1
-C:/Fruits/test/Mega_Peach/03437.png 1
-C:/Fruits/test/Mega_Peach/03227.png 1
-C:/Fruits/test/Mega_Peach/03048.png 1
-C:/Fruits/test/Mega_Peach/03130.png 1
-C:/Fruits/test/Mega_Peach/03465.png 1
-C:/Fruits/test/Mega_Bluberry/03343.png 0
-C:/Fruits/test/Mega_Peach/03316.png 1
-C:/Fruits/test/Mega_Bluberry/03148.png 0
-C:/Fruits/test/Mega_Peach/03418.png 1
-C:/Fruits/test/Mega_Peach/03239.png 1
-C:/Fruits/test/Mega_Peach/03096.png 1
-C:/Fruits/test/Mega_Bluberry/03429.png 0
-C:/Fruits/test/Mega_Bluberry/03173.png 0
-C:/Fruits/test/Mega_Peach/03235.png 1
-C:/Fruits/test/Mega_Peach/03182.png 1
-C:/Fruits/test/Mega_Bluberry/03451.png 0
-C:/Fruits/test/Mega_Bluberry/03300.png 0
-C:/Fruits/test/Mega_Bluberry/03008.png 0
-C:/Fruits/test/Mega_Bluberry/03138.png 0
-C:/Fruits/test/Mega_Bluberry/03165.png 0
-C:/Fruits/test/Mega_Peach/03084.png 1
-C:/Fruits/test/Mega_Peach/03003.png 1
-C:/Fruits/test/Mega_Peach/03085.png 1
-C:/Fruits/test/Mega_Peach/03328.png 1
-C:/Fruits/test/Mega_Peach/03179.png 1
-C:/Fruits/test/Mega_Bluberry/03455.png 0
-C:/Fruits/test/Mega_Bluberry/03253.png 0
-C:/Fruits/test/Mega_Bluberry/03507.png 0
-C:/Fruits/test/Mega_Bluberry/03212.png 0
-C:/Fruits/test/Mega_Bluberry/03083.png 0
-C:/Fruits/test/Mega_Peach/03100.png 1
-C:/Fruits/test/Mega_Peach/03027.png 1
-C:/Fruits/test/Mega_Bluberry/03350.png 0
-C:/Fruits/test/Mega_Peach/03210.png 1
-C:/Fruits/test/Mega_Peach/03141.png 1
-C:/Fruits/test/Mega_Bluberry/03470.png 0
-C:/Fruits/test/Mega_Bluberry/03259.png 0
-C:/Fruits/test/Mega_Bluberry/03213.png 0
-C:/Fruits/test/Mega_Peach/03156.png 1
-C:/Fruits/test/Mega_Bluberry/03374.png 0
-C:/Fruits/test/Mega_Peach/03018.png 1
-C:/Fruits/test/Mega_Bluberry/03243.png 0
-C:/Fruits/test/Mega_Peach/03365.png 1
-C:/Fruits/test/Mega_Bluberry/03114.png 0
-C:/Fruits/test/Mega_Bluberry/03462.png 0
-C:/Fruits/test/Mega_Bluberry/03421.png 0
-C:/Fruits/test/Mega_Peach/03255.png 1
-C:/Fruits/test/Mega_Bluberry/03182.png 0
-C:/Fruits/test/Mega_Bluberry/03483.png 0
-C:/Fruits/test/Mega_Bluberry/03505.png 0
-C:/Fruits/test/Mega_Bluberry/03458.png 0
-C:/Fruits/test/Mega_Peach/03167.png 1
-C:/Fruits/test/Mega_Peach/03455.png 1
-C:/Fruits/test/Mega_Bluberry/03070.png 0
-C:/Fruits/test/Mega_Bluberry/03427.png 0
-C:/Fruits/test/Mega_Bluberry/03018.png 0
-C:/Fruits/test/Mega_Peach/03441.png 1
-C:/Fruits/test/Mega_Peach/03082.png 1
-C:/Fruits/test/Mega_Bluberry/03032.png 0
-C:/Fruits/test/Mega_Peach/03443.png 1
-C:/Fruits/test/Mega_Peach/03340.png 1
-C:/Fruits/test/Mega_Bluberry/03476.png 0
-C:/Fruits/test/Mega_Peach/03433.png 1
-C:/Fruits/test/Mega_Bluberry/03419.png 0
-C:/Fruits/test/Mega_Bluberry/03298.png 0
-C:/Fruits/test/Mega_Bluberry/03488.png 0
-C:/Fruits/test/Mega_Peach/03126.png 1
-C:/Fruits/test/Mega_Bluberry/03169.png 0
-C:/Fruits/test/Mega_Bluberry/03339.png 0
-C:/Fruits/test/Mega_Peach/03165.png 1
-C:/Fruits/test/Mega_Bluberry/03444.png 0
-C:/Fruits/test/Mega_Bluberry/03228.png 0
-C:/Fruits/test/Mega_Peach/03369.png 1
-C:/Fruits/test/Mega_Peach/03320.png 1
-C:/Fruits/test/Mega_Bluberry/03085.png 0
-C:/Fruits/test/Mega_Peach/03388.png 1
-C:/Fruits/test/Mega_Bluberry/03422.png 0
-C:/Fruits/test/Mega_Bluberry/03159.png 0
-C:/Fruits/test/Mega_Bluberry/03480.png 0
-C:/Fruits/test/Mega_Bluberry/03125.png 0
-C:/Fruits/test/Mega_Peach/03358.png 1
-C:/Fruits/test/Mega_Peach/03192.png 1
-C:/Fruits/test/Mega_Bluberry/03216.png 0
-C:/Fruits/test/Mega_Peach/03430.png 1
-C:/Fruits/test/Mega_Bluberry/03115.png 0
-C:/Fruits/test/Mega_Peach/03254.png 1
-C:/Fruits/test/Mega_Bluberry/03487.png 0
-C:/Fruits/test/Mega_Bluberry/03299.png 0
-C:/Fruits/test/Mega_Peach/03203.png 1
-C:/Fruits/test/Mega_Peach/03201.png 1
-C:/Fruits/test/Mega_Bluberry/03131.png 0
-C:/Fruits/test/Mega_Peach/03154.png 1
-C:/Fruits/test/Mega_Peach/03321.png 1
-C:/Fruits/test/Mega_Bluberry/03258.png 0
-C:/Fruits/test/Mega_Bluberry/03457.png 0
-C:/Fruits/test/Mega_Bluberry/03402.png 0
-C:/Fruits/test/Mega_Bluberry/03449.png 0
-C:/Fruits/test/Mega_Peach/03176.png 1
-C:/Fruits/test/Mega_Bluberry/03040.png 0
-C:/Fruits/test/Mega_Bluberry/03309.png 0
-C:/Fruits/test/Mega_Peach/03475.png 1
-C:/Fruits/test/Mega_Peach/03231.png 1
-C:/Fruits/test/Mega_Peach/03043.png 1
-C:/Fruits/test/Mega_Bluberry/03196.png 0
-C:/Fruits/test/Mega_Peach/03244.png 1
-C:/Fruits/test/Mega_Peach/03015.png 1
-C:/Fruits/test/Mega_Bluberry/03490.png 0
-C:/Fruits/test/Mega_Bluberry/03397.png 0
-C:/Fruits/test/Mega_Bluberry/03127.png 0
-C:/Fruits/test/Mega_Bluberry/03481.png 0
-C:/Fruits/test/Mega_Bluberry/03450.png 0
-C:/Fruits/test/Mega_Peach/03202.png 1
-C:/Fruits/test/Mega_Bluberry/03251.png 0
-C:/Fruits/test/Mega_Peach/03200.png 1
-C:/Fruits/test/Mega_Peach/03053.png 1
-C:/Fruits/test/Mega_Bluberry/03242.png 0
-C:/Fruits/test/Mega_Peach/03228.png 1
-C:/Fruits/test/Mega_Peach/03304.png 1
-C:/Fruits/test/Mega_Bluberry/03007.png 0
-C:/Fruits/test/Mega_Peach/03307.png 1
-C:/Fruits/test/Mega_Bluberry/03064.png 0
-C:/Fruits/test/Mega_Peach/03318.png 1
-C:/Fruits/test/Mega_Peach/03116.png 1
-C:/Fruits/test/Mega_Bluberry/03365.png 0
-C:/Fruits/test/Mega_Peach/03329.png 1
-C:/Fruits/test/Mega_Peach/03366.png 1
-C:/Fruits/test/Mega_Bluberry/03296.png 0
-C:/Fruits/test/Mega_Peach/03423.png 1
-C:/Fruits/test/Mega_Bluberry/03277.png 0
-C:/Fruits/test/Mega_Bluberry/03224.png 0
-C:/Fruits/test/Mega_Peach/03350.png 1
-C:/Fruits/test/Mega_Peach/03312.png 1
-C:/Fruits/test/Mega_Bluberry/03417.png 0
-C:/Fruits/test/Mega_Bluberry/03332.png 0
-C:/Fruits/test/Mega_Peach/03324.png 1
-C:/Fruits/test/Mega_Bluberry/03199.png 0
-C:/Fruits/test/Mega_Bluberry/03250.png 0
-C:/Fruits/test/Mega_Bluberry/03217.png 0
-C:/Fruits/test/Mega_Peach/03049.png 1
-C:/Fruits/test/Mega_Peach/03428.png 1
-C:/Fruits/test/Mega_Bluberry/03368.png 0
-C:/Fruits/test/Mega_Bluberry/03327.png 0
-C:/Fruits/test/Mega_Bluberry/03011.png 0
-C:/Fruits/test/Mega_Peach/03095.png 1
-C:/Fruits/test/Mega_Peach/03458.png 1
-C:/Fruits/test/Mega_Bluberry/03084.png 0
-C:/Fruits/test/Mega_Bluberry/03366.png 0
-C:/Fruits/test/Mega_Peach/03063.png 1
-C:/Fruits/test/Mega_Peach/03410.png 1
-C:/Fruits/test/Mega_Bluberry/03347.png 0
-C:/Fruits/test/Mega_Bluberry/03313.png 0
-C:/Fruits/test/Mega_Bluberry/03485.png 0
-C:/Fruits/test/Mega_Peach/03317.png 1
-C:/Fruits/test/Mega_Peach/03341.png 1
-C:/Fruits/test/Mega_Bluberry/03056.png 0
-C:/Fruits/test/Mega_Bluberry/03101.png 0
-C:/Fruits/test/Mega_Peach/03017.png 1
-C:/Fruits/test/Mega_Bluberry/03191.png 0
-C:/Fruits/test/Mega_Peach/03123.png 1
-C:/Fruits/test/Mega_Bluberry/03396.png 0
-C:/Fruits/test/Mega_Bluberry/03435.png 0
-C:/Fruits/test/Mega_Bluberry/03043.png 0
-C:/Fruits/test/Mega_Bluberry/03190.png 0
-C:/Fruits/test/Mega_Bluberry/03210.png 0
-C:/Fruits/test/Mega_Bluberry/03206.png 0
-C:/Fruits/test/Mega_Peach/03076.png 1
-C:/Fruits/test/Mega_Bluberry/03211.png 0
-C:/Fruits/test/Mega_Peach/03134.png 1
-C:/Fruits/test/Mega_Peach/03257.png 1
-C:/Fruits/test/Mega_Peach/03065.png 1
-C:/Fruits/test/Mega_Peach/03315.png 1
-C:/Fruits/test/Mega_Peach/03298.png 1
-C:/Fruits/test/Mega_Peach/03173.png 1
-C:/Fruits/test/Mega_Bluberry/03145.png 0
-C:/Fruits/test/Mega_Peach/03362.png 1
-C:/Fruits/test/Mega_Peach/03414.png 1
-C:/Fruits/test/Mega_Bluberry/03376.png 0
-C:/Fruits/test/Mega_Peach/03072.png 1
-C:/Fruits/test/Mega_Peach/03128.png 1
-C:/Fruits/test/Mega_Peach/03395.png 1
-C:/Fruits/test/Mega_Bluberry/03160.png 0
-C:/Fruits/test/Mega_Peach/03148.png 1
-C:/Fruits/test/Mega_Bluberry/03325.png 0
-C:/Fruits/test/Mega_Bluberry/03066.png 0
-C:/Fruits/test/Mega_Peach/03355.png 1
-C:/Fruits/test/Mega_Bluberry/03492.png 0
-C:/Fruits/test/Mega_Bluberry/03286.png 0
-C:/Fruits/test/Mega_Peach/03426.png 1
-C:/Fruits/test/Mega_Bluberry/03265.png 0
-C:/Fruits/test/Mega_Bluberry/03233.png 0
-C:/Fruits/test/Mega_Peach/03457.png 1
-C:/Fruits/test/Mega_Bluberry/03197.png 0
-C:/Fruits/test/Mega_Bluberry/03022.png 0
-C:/Fruits/test/Mega_Bluberry/03001.png 0
-C:/Fruits/test/Mega_Peach/03142.png 1
-C:/Fruits/test/Mega_Bluberry/03039.png 0
-C:/Fruits/test/Mega_Peach/03225.png 1
-C:/Fruits/test/Mega_Bluberry/03486.png 0
-C:/Fruits/test/Mega_Bluberry/03290.png 0
-C:/Fruits/test/Mega_Peach/03243.png 1
-C:/Fruits/test/Mega_Peach/03046.png 1
-C:/Fruits/test/Mega_Peach/03171.png 1
-C:/Fruits/test/Mega_Peach/03146.png 1
-C:/Fruits/test/Mega_Peach/03187.png 1
-C:/Fruits/test/Mega_Peach/03387.png 1
-C:/Fruits/test/Mega_Bluberry/03048.png 0
-C:/Fruits/test/Mega_Peach/03007.png 1
-C:/Fruits/test/Mega_Peach/03275.png 1
-C:/Fruits/test/Mega_Peach/03448.png 1
-C:/Fruits/test/Mega_Bluberry/03107.png 0
-C:/Fruits/test/Mega_Bluberry/03287.png 0
-C:/Fruits/test/Mega_Bluberry/03496.png 0
-C:/Fruits/test/Mega_Peach/03442.png 1
-C:/Fruits/test/Mega_Bluberry/03223.png 0
-C:/Fruits/test/Mega_Bluberry/03163.png 0
-C:/Fruits/test/Mega_Bluberry/03469.png 0
-C:/Fruits/test/Mega_Bluberry/03344.png 0
-C:/Fruits/test/Mega_Peach/03181.png 1
-C:/Fruits/test/Mega_Peach/03103.png 1
-C:/Fruits/test/Mega_Bluberry/03029.png 0
-C:/Fruits/test/Mega_Peach/03267.png 1
-C:/Fruits/test/Mega_Peach/03039.png 1
-C:/Fruits/test/Mega_Peach/03226.png 1
-C:/Fruits/test/Mega_Bluberry/03028.png 0
-C:/Fruits/test/Mega_Bluberry/03301.png 0
-C:/Fruits/test/Mega_Bluberry/03235.png 0
-C:/Fruits/test/Mega_Peach/03102.png 1
-C:/Fruits/test/Mega_Bluberry/03404.png 0
-C:/Fruits/test/Mega_Bluberry/03390.png 0
-C:/Fruits/test/Mega_Bluberry/03166.png 0
-C:/Fruits/test/Mega_Peach/03045.png 1
-C:/Fruits/test/Mega_Bluberry/03179.png 0
-C:/Fruits/test/Mega_Peach/03190.png 1
-C:/Fruits/test/Mega_Peach/03232.png 1
-C:/Fruits/test/Mega_Bluberry/03194.png 0
+C:/Fruits/test/Mega_Bluberry/03096.png 0 1
+C:/Fruits/test/Mega_Peach/03476.png 1 1
+C:/Fruits/test/Mega_Bluberry/03223.png 0 1
+C:/Fruits/test/Mega_Bluberry/03152.png 0 1
+C:/Fruits/test/Mega_Peach/03347.png 1 1
+C:/Fruits/test/Mega_Peach/03325.png 1 1
+C:/Fruits/test/Mega_Peach/03025.png 1 1
+C:/Fruits/test/Mega_Bluberry/03282.png 0 1
+C:/Fruits/test/Mega_Peach/03229.png 1 1
+C:/Fruits/test/Mega_Peach/03019.png 1 1
+C:/Fruits/test/Mega_Bluberry/03443.png 0 1
+C:/Fruits/test/Mega_Peach/03108.png 1 1
+C:/Fruits/test/Mega_Bluberry/03248.png 0 1
+C:/Fruits/test/Mega_Peach/03381.png 1 1
+C:/Fruits/test/Mega_Bluberry/03318.png 0 1
+C:/Fruits/test/Mega_Bluberry/03147.png 0 1
+C:/Fruits/test/Mega_Bluberry/03246.png 0 1
+C:/Fruits/test/Mega_Bluberry/03202.png 0 1
+C:/Fruits/test/Mega_Bluberry/03112.png 0 1
+C:/Fruits/test/Mega_Peach/03426.png 1 1
+C:/Fruits/test/Mega_Peach/03084.png 1 1
+C:/Fruits/test/Mega_Bluberry/03011.png 0 1
+C:/Fruits/test/Mega_Peach/03248.png 1 1
+C:/Fruits/test/Mega_Bluberry/03144.png 0 1
+C:/Fruits/test/Mega_Bluberry/03107.png 0 1
+C:/Fruits/test/Mega_Peach/03349.png 1 1
+C:/Fruits/test/Mega_Peach/03370.png 1 1
+C:/Fruits/test/Mega_Bluberry/03151.png 0 1
+C:/Fruits/test/Mega_Bluberry/03356.png 0 1
+C:/Fruits/test/Mega_Peach/03024.png 1 1
+C:/Fruits/test/Mega_Peach/03436.png 1 1
+C:/Fruits/test/Mega_Bluberry/03352.png 0 1
+C:/Fruits/test/Mega_Bluberry/03328.png 0 1
+C:/Fruits/test/Mega_Bluberry/03339.png 0 1
+C:/Fruits/test/Mega_Peach/03143.png 1 1
+C:/Fruits/test/Mega_Bluberry/03101.png 0 1
+C:/Fruits/test/Mega_Bluberry/03292.png 0 1
+C:/Fruits/test/Mega_Peach/03089.png 1 1
+C:/Fruits/test/Mega_Peach/03263.png 1 1
+C:/Fruits/test/Mega_Peach/03474.png 1 1
+C:/Fruits/test/Mega_Bluberry/03040.png 0 1
+C:/Fruits/test/Mega_Peach/03240.png 1 1
+C:/Fruits/test/Mega_Bluberry/03258.png 0 1
+C:/Fruits/test/Mega_Bluberry/03090.png 0 1
+C:/Fruits/test/Mega_Bluberry/03226.png 0 1
+C:/Fruits/test/Mega_Bluberry/03237.png 0 1
+C:/Fruits/test/Mega_Bluberry/03323.png 0 1
+C:/Fruits/test/Mega_Bluberry/03199.png 0 1
+C:/Fruits/test/Mega_Bluberry/03135.png 0 1
+C:/Fruits/test/Mega_Bluberry/03418.png 0 1
+C:/Fruits/test/Mega_Peach/03137.png 1 1
+C:/Fruits/test/Mega_Peach/03199.png 1 1
+C:/Fruits/test/Mega_Peach/03387.png 1 1
+C:/Fruits/test/Mega_Peach/03090.png 1 1
+C:/Fruits/test/Mega_Bluberry/03029.png 0 1
+C:/Fruits/test/Mega_Peach/03034.png 1 1
+C:/Fruits/test/Mega_Bluberry/03371.png 0 1
+C:/Fruits/test/Mega_Bluberry/03253.png 0 1
+C:/Fruits/test/Mega_Peach/03177.png 1 1
+C:/Fruits/test/Mega_Peach/03391.png 1 1
+C:/Fruits/test/Mega_Bluberry/03201.png 0 1
+C:/Fruits/test/Mega_Peach/03217.png 1 1
+C:/Fruits/test/Mega_Peach/03340.png 1 1
+C:/Fruits/test/Mega_Peach/03256.png 1 1
+C:/Fruits/test/Mega_Bluberry/03481.png 0 1
+C:/Fruits/test/Mega_Peach/03082.png 1 1
+C:/Fruits/test/Mega_Peach/03403.png 1 1
+C:/Fruits/test/Mega_Peach/03215.png 1 1
+C:/Fruits/test/Mega_Bluberry/03230.png 0 1
+C:/Fruits/test/Mega_Peach/03477.png 1 1
+C:/Fruits/test/Mega_Peach/03350.png 1 1
+C:/Fruits/test/Mega_Peach/03455.png 1 1
+C:/Fruits/test/Mega_Bluberry/03001.png 0 1
+C:/Fruits/test/Mega_Peach/03335.png 1 1
+C:/Fruits/test/Mega_Bluberry/03075.png 0 1
+C:/Fruits/test/Mega_Peach/03317.png 1 1
+C:/Fruits/test/Mega_Peach/03451.png 1 1
+C:/Fruits/test/Mega_Peach/03154.png 1 1
+C:/Fruits/test/Mega_Bluberry/03355.png 0 1
+C:/Fruits/test/Mega_Bluberry/03076.png 0 1
+C:/Fruits/test/Mega_Peach/03224.png 1 1
+C:/Fruits/test/Mega_Bluberry/03130.png 0 1
+C:/Fruits/test/Mega_Bluberry/03220.png 0 1
+C:/Fruits/test/Mega_Bluberry/03120.png 0 1
+C:/Fruits/test/Mega_Peach/03072.png 1 1
+C:/Fruits/test/Mega_Bluberry/03271.png 0 1
+C:/Fruits/test/Mega_Bluberry/03466.png 0 1
+C:/Fruits/test/Mega_Peach/03225.png 1 1
+C:/Fruits/test/Mega_Bluberry/03393.png 0 1
+C:/Fruits/test/Mega_Peach/03383.png 1 1
+C:/Fruits/test/Mega_Peach/03444.png 1 1
+C:/Fruits/test/Mega_Peach/03251.png 1 1
+C:/Fruits/test/Mega_Bluberry/03379.png 0 1
+C:/Fruits/test/Mega_Bluberry/03303.png 0 1
+C:/Fruits/test/Mega_Bluberry/03189.png 0 1
+C:/Fruits/test/Mega_Bluberry/03161.png 0 1
+C:/Fruits/test/Mega_Bluberry/03325.png 0 1
+C:/Fruits/test/Mega_Bluberry/03127.png 0 1
+C:/Fruits/test/Mega_Peach/03196.png 1 1
+C:/Fruits/test/Mega_Bluberry/03398.png 0 1
+C:/Fruits/test/Mega_Peach/03323.png 1 1
+C:/Fruits/test/Mega_Peach/03276.png 1 1
+C:/Fruits/test/Mega_Bluberry/03484.png 0 1
+C:/Fruits/test/Mega_Bluberry/03332.png 0 1
+C:/Fruits/test/Mega_Peach/03130.png 1 1
+C:/Fruits/test/Mega_Bluberry/03108.png 0 1
+C:/Fruits/test/Mega_Bluberry/03032.png 0 1
+C:/Fruits/test/Mega_Bluberry/03444.png 0 1
+C:/Fruits/test/Mega_Bluberry/03225.png 0 1
+C:/Fruits/test/Mega_Bluberry/03423.png 0 1
+C:/Fruits/test/Mega_Bluberry/03157.png 0 1
+C:/Fruits/test/Mega_Peach/03098.png 1 1
+C:/Fruits/test/Mega_Peach/03040.png 1 1
+C:/Fruits/test/Mega_Peach/03127.png 1 1
+C:/Fruits/test/Mega_Bluberry/03309.png 0 1
+C:/Fruits/test/Mega_Peach/03096.png 1 1
+C:/Fruits/test/Mega_Peach/03139.png 1 1
+C:/Fruits/test/Mega_Peach/03398.png 1 1
+C:/Fruits/test/Mega_Peach/03107.png 1 1
+C:/Fruits/test/Mega_Peach/03120.png 1 1
+C:/Fruits/test/Mega_Bluberry/03362.png 0 1
+C:/Fruits/test/Mega_Bluberry/03288.png 0 1
+C:/Fruits/test/Mega_Bluberry/03171.png 0 1
+C:/Fruits/test/Mega_Peach/03201.png 1 1
+C:/Fruits/test/Mega_Peach/03429.png 1 1
+C:/Fruits/test/Mega_Peach/03121.png 1 1
+C:/Fruits/test/Mega_Peach/03009.png 1 1
+C:/Fruits/test/Mega_Bluberry/03272.png 0 1
+C:/Fruits/test/Mega_Peach/03021.png 1 1
+C:/Fruits/test/Mega_Peach/03261.png 1 1
+C:/Fruits/test/Mega_Bluberry/03344.png 0 1
+C:/Fruits/test/Mega_Bluberry/03421.png 0 1
+C:/Fruits/test/Mega_Bluberry/03003.png 0 1
+C:/Fruits/test/Mega_Bluberry/03214.png 0 1
+C:/Fruits/test/Mega_Bluberry/03374.png 0 1
+C:/Fruits/test/Mega_Peach/03373.png 1 1
+C:/Fruits/test/Mega_Peach/03319.png 1 1
+C:/Fruits/test/Mega_Peach/03001.png 1 1
+C:/Fruits/test/Mega_Peach/03018.png 1 1
+C:/Fruits/test/Mega_Bluberry/03308.png 0 1
+C:/Fruits/test/Mega_Peach/03371.png 1 1
+C:/Fruits/test/Mega_Bluberry/03447.png 0 1
+C:/Fruits/test/Mega_Bluberry/03097.png 0 1
+C:/Fruits/test/Mega_Bluberry/03429.png 0 1
+C:/Fruits/test/Mega_Bluberry/03186.png 0 1
+C:/Fruits/test/Mega_Bluberry/03337.png 0 1
+C:/Fruits/test/Mega_Bluberry/03155.png 0 1
+C:/Fruits/test/Mega_Bluberry/03034.png 0 1
+C:/Fruits/test/Mega_Peach/03176.png 1 1
+C:/Fruits/test/Mega_Bluberry/03375.png 0 1
+C:/Fruits/test/Mega_Bluberry/03497.png 0 1
+C:/Fruits/test/Mega_Peach/03437.png 1 1
+C:/Fruits/test/Mega_Bluberry/03070.png 0 1
+C:/Fruits/test/Mega_Bluberry/03077.png 0 1
+C:/Fruits/test/Mega_Bluberry/03495.png 0 1
+C:/Fruits/test/Mega_Bluberry/03078.png 0 1
+C:/Fruits/test/Mega_Bluberry/03007.png 0 1
+C:/Fruits/test/Mega_Bluberry/03399.png 0 1
+C:/Fruits/test/Mega_Bluberry/03425.png 0 1
+C:/Fruits/test/Mega_Peach/03136.png 1 1
+C:/Fruits/test/Mega_Bluberry/03086.png 0 1
+C:/Fruits/test/Mega_Bluberry/03058.png 0 1
+C:/Fruits/test/Mega_Bluberry/03231.png 0 1
+C:/Fruits/test/Mega_Peach/03226.png 1 1
+C:/Fruits/test/Mega_Bluberry/03338.png 0 1
+C:/Fruits/test/Mega_Bluberry/03184.png 0 1
+C:/Fruits/test/Mega_Bluberry/03392.png 0 1
+C:/Fruits/test/Mega_Peach/03457.png 1 1
+C:/Fruits/test/Mega_Peach/03247.png 1 1
+C:/Fruits/test/Mega_Bluberry/03204.png 0 1
+C:/Fruits/test/Mega_Bluberry/03364.png 0 1
+C:/Fruits/test/Mega_Peach/03417.png 1 1
+C:/Fruits/test/Mega_Peach/03207.png 1 1
+C:/Fruits/test/Mega_Bluberry/03044.png 0 1
+C:/Fruits/test/Mega_Bluberry/03158.png 0 1
+C:/Fruits/test/Mega_Peach/03077.png 1 1
+C:/Fruits/test/Mega_Peach/03369.png 1 1
+C:/Fruits/test/Mega_Bluberry/03139.png 0 1
+C:/Fruits/test/Mega_Bluberry/03073.png 0 1
+C:/Fruits/test/Mega_Peach/03397.png 1 1
+C:/Fruits/test/Mega_Peach/03151.png 1 1
+C:/Fruits/test/Mega_Bluberry/03287.png 0 1
+C:/Fruits/test/Mega_Peach/03394.png 1 1
+C:/Fruits/test/Mega_Bluberry/03267.png 0 1
+C:/Fruits/test/Mega_Peach/03060.png 1 1
+C:/Fruits/test/Mega_Peach/03358.png 1 1
+C:/Fruits/test/Mega_Peach/03265.png 1 1
+C:/Fruits/test/Mega_Peach/03440.png 1 1
+C:/Fruits/test/Mega_Peach/03188.png 1 1
+C:/Fruits/test/Mega_Bluberry/03150.png 0 1
+C:/Fruits/test/Mega_Bluberry/03134.png 0 1
+C:/Fruits/test/Mega_Bluberry/03273.png 0 1
+C:/Fruits/test/Mega_Peach/03088.png 1 1
+C:/Fruits/test/Mega_Bluberry/03430.png 0 1
+C:/Fruits/test/Mega_Bluberry/03427.png 0 1
+C:/Fruits/test/Mega_Bluberry/03465.png 0 1
+C:/Fruits/test/Mega_Peach/03071.png 1 1
+C:/Fruits/test/Mega_Peach/03174.png 1 1
+C:/Fruits/test/Mega_Peach/03434.png 1 1
+C:/Fruits/test/Mega_Peach/03309.png 1 1
+C:/Fruits/test/Mega_Peach/03184.png 1 1
+C:/Fruits/test/Mega_Bluberry/03154.png 0 1
+C:/Fruits/test/Mega_Peach/03292.png 1 1
+C:/Fruits/test/Mega_Peach/03471.png 1 1
+C:/Fruits/test/Mega_Bluberry/03507.png 0 1
+C:/Fruits/test/Mega_Bluberry/03295.png 0 1
+C:/Fruits/test/Mega_Bluberry/03092.png 0 1
+C:/Fruits/test/Mega_Peach/03321.png 1 1
+C:/Fruits/test/Mega_Bluberry/03489.png 0 1
+C:/Fruits/test/Mega_Bluberry/03196.png 0 1
+C:/Fruits/test/Mega_Bluberry/03503.png 0 1
+C:/Fruits/test/Mega_Peach/03242.png 1 1
+C:/Fruits/test/Mega_Peach/03324.png 1 1
+C:/Fruits/test/Mega_Peach/03270.png 1 1
+C:/Fruits/test/Mega_Bluberry/03081.png 0 1
+C:/Fruits/test/Mega_Bluberry/03259.png 0 1
+C:/Fruits/test/Mega_Bluberry/03403.png 0 1
+C:/Fruits/test/Mega_Bluberry/03322.png 0 1
+C:/Fruits/test/Mega_Bluberry/03279.png 0 1
+C:/Fruits/test/Mega_Peach/03416.png 1 1
+C:/Fruits/test/Mega_Bluberry/03448.png 0 1
+C:/Fruits/test/Mega_Peach/03209.png 1 1
+C:/Fruits/test/Mega_Peach/03469.png 1 1
+C:/Fruits/test/Mega_Peach/03392.png 1 1
+C:/Fruits/test/Mega_Peach/03178.png 1 1
+C:/Fruits/test/Mega_Bluberry/03132.png 0 1
+C:/Fruits/test/Mega_Bluberry/03413.png 0 1
+C:/Fruits/test/Mega_Bluberry/03131.png 0 1
+C:/Fruits/test/Mega_Bluberry/03095.png 0 1
+C:/Fruits/test/Mega_Bluberry/03228.png 0 1
+C:/Fruits/test/Mega_Peach/03179.png 1 1
+C:/Fruits/test/Mega_Peach/03007.png 1 1
+C:/Fruits/test/Mega_Peach/03234.png 1 1
+C:/Fruits/test/Mega_Bluberry/03506.png 0 1
+C:/Fruits/test/Mega_Bluberry/03461.png 0 1
+C:/Fruits/test/Mega_Peach/03299.png 1 1
+C:/Fruits/test/Mega_Peach/03415.png 1 1
+C:/Fruits/test/Mega_Peach/03418.png 1 1
+C:/Fruits/test/Mega_Bluberry/03330.png 0 1
+C:/Fruits/test/Mega_Bluberry/03275.png 0 1
+C:/Fruits/test/Mega_Peach/03314.png 1 1
+C:/Fruits/test/Mega_Peach/03280.png 1 1
+C:/Fruits/test/Mega_Bluberry/03015.png 0 1
+C:/Fruits/test/Mega_Bluberry/03385.png 0 1
+C:/Fruits/test/Mega_Bluberry/03262.png 0 1
+C:/Fruits/test/Mega_Peach/03260.png 1 1
+C:/Fruits/test/Mega_Bluberry/03307.png 0 1
+C:/Fruits/test/Mega_Bluberry/03159.png 0 1
+C:/Fruits/test/Mega_Peach/03420.png 1 1
+C:/Fruits/test/Mega_Bluberry/03149.png 0 1
+C:/Fruits/test/Mega_Bluberry/03093.png 0 1
+C:/Fruits/test/Mega_Peach/03187.png 1 1
+C:/Fruits/test/Mega_Peach/03147.png 1 1
+C:/Fruits/test/Mega_Bluberry/03165.png 0 1
+C:/Fruits/test/Mega_Peach/03395.png 1 1
+C:/Fruits/test/Mega_Bluberry/03244.png 0 1
+C:/Fruits/test/Mega_Bluberry/03163.png 0 1
+C:/Fruits/test/Mega_Peach/03079.png 1 1
+C:/Fruits/test/Mega_Peach/03022.png 1 1
+C:/Fruits/test/Mega_Bluberry/03210.png 0 1
+C:/Fruits/test/Mega_Bluberry/03194.png 0 1
+C:/Fruits/test/Mega_Peach/03277.png 1 1
+C:/Fruits/test/Mega_Peach/03458.png 1 1
+C:/Fruits/test/Mega_Bluberry/03431.png 0 1
+C:/Fruits/test/Mega_Peach/03377.png 1 1
+C:/Fruits/test/Mega_Peach/03128.png 1 1
+C:/Fruits/test/Mega_Peach/03396.png 1 1
+C:/Fruits/test/Mega_Peach/03216.png 1 1
+C:/Fruits/test/Mega_Peach/03156.png 1 1
+C:/Fruits/test/Mega_Bluberry/03277.png 0 1
+C:/Fruits/test/Mega_Peach/03375.png 1 1
+C:/Fruits/test/Mega_Peach/03235.png 1 1
+C:/Fruits/test/Mega_Bluberry/03222.png 0 1
+C:/Fruits/test/Mega_Peach/03181.png 1 1
+C:/Fruits/test/Mega_Peach/03241.png 1 1
+C:/Fruits/test/Mega_Bluberry/03486.png 0 1
+C:/Fruits/test/Mega_Peach/03067.png 1 1
+C:/Fruits/test/Mega_Bluberry/03187.png 0 1
+C:/Fruits/test/Mega_Peach/03355.png 1 1
+C:/Fruits/test/Mega_Bluberry/03460.png 0 1
+C:/Fruits/test/Mega_Bluberry/03487.png 0 1
+C:/Fruits/test/Mega_Bluberry/03454.png 0 1
+C:/Fruits/test/Mega_Peach/03326.png 1 1
+C:/Fruits/test/Mega_Peach/03202.png 1 1
+C:/Fruits/test/Mega_Peach/03364.png 1 1
+C:/Fruits/test/Mega_Peach/03308.png 1 1
+C:/Fruits/test/Mega_Bluberry/03174.png 0 1
+C:/Fruits/test/Mega_Bluberry/03391.png 0 1
+C:/Fruits/test/Mega_Peach/03424.png 1 1
+C:/Fruits/test/Mega_Bluberry/03500.png 0 1
+C:/Fruits/test/Mega_Bluberry/03327.png 0 1
+C:/Fruits/test/Mega_Bluberry/03256.png 0 1
+C:/Fruits/test/Mega_Bluberry/03473.png 0 1
+C:/Fruits/test/Mega_Peach/03257.png 1 1
+C:/Fruits/test/Mega_Bluberry/03411.png 0 1
+C:/Fruits/test/Mega_Bluberry/03247.png 0 1
+C:/Fruits/test/Mega_Bluberry/03451.png 0 1
+C:/Fruits/test/Mega_Peach/03058.png 1 1
+C:/Fruits/test/Mega_Peach/03053.png 1 1
+C:/Fruits/test/Mega_Peach/03074.png 1 1
+C:/Fruits/test/Mega_Bluberry/03060.png 0 1
+C:/Fruits/test/Mega_Peach/03267.png 1 1
+C:/Fruits/test/Mega_Bluberry/03319.png 0 1
+C:/Fruits/test/Mega_Peach/03239.png 1 1
+C:/Fruits/test/Mega_Peach/03092.png 1 1
+C:/Fruits/test/Mega_Peach/03173.png 1 1
+C:/Fruits/test/Mega_Peach/03030.png 1 1
+C:/Fruits/test/Mega_Peach/03010.png 1 1
+C:/Fruits/test/Mega_Bluberry/03405.png 0 1
+C:/Fruits/test/Mega_Bluberry/03197.png 0 1
+C:/Fruits/test/Mega_Peach/03048.png 1 1
+C:/Fruits/test/Mega_Bluberry/03124.png 0 1
+C:/Fruits/test/Mega_Bluberry/03493.png 0 1
+C:/Fruits/test/Mega_Peach/03320.png 1 1
+C:/Fruits/test/Mega_Bluberry/03181.png 0 1
+C:/Fruits/test/Mega_Peach/03448.png 1 1
+C:/Fruits/test/Mega_Bluberry/03020.png 0 1
+C:/Fruits/test/Mega_Bluberry/03055.png 0 1
+C:/Fruits/test/Mega_Bluberry/03306.png 0 1
+C:/Fruits/test/Mega_Peach/03223.png 1 1
+C:/Fruits/test/Mega_Bluberry/03261.png 0 1
+C:/Fruits/test/Mega_Peach/03419.png 1 1
+C:/Fruits/test/Mega_Bluberry/03043.png 0 1
+C:/Fruits/test/Mega_Bluberry/03083.png 0 1
+C:/Fruits/test/Mega_Bluberry/03404.png 0 1
+C:/Fruits/test/Mega_Peach/03361.png 1 1
+C:/Fruits/test/Mega_Peach/03268.png 1 1
+C:/Fruits/test/Mega_Bluberry/03052.png 0 1
+C:/Fruits/test/Mega_Bluberry/03209.png 0 1
+C:/Fruits/test/Mega_Bluberry/03297.png 0 1
+C:/Fruits/test/Mega_Peach/03250.png 1 1
+C:/Fruits/test/Mega_Peach/03449.png 1 1
+C:/Fruits/test/Mega_Peach/03336.png 1 1
+C:/Fruits/test/Mega_Bluberry/03346.png 0 1
+C:/Fruits/test/Mega_Peach/03409.png 1 1
+C:/Fruits/test/Mega_Bluberry/03370.png 0 1
+C:/Fruits/test/Mega_Peach/03032.png 1 1
+C:/Fruits/test/Mega_Bluberry/03000.png 0 1
+C:/Fruits/test/Mega_Bluberry/03358.png 0 1
+C:/Fruits/test/Mega_Peach/03140.png 1 1
+C:/Fruits/test/Mega_Bluberry/03169.png 0 1
+C:/Fruits/test/Mega_Peach/03101.png 1 1
+C:/Fruits/test/Mega_Peach/03303.png 1 1
+C:/Fruits/test/Mega_Peach/03430.png 1 1
+C:/Fruits/test/Mega_Bluberry/03008.png 0 1
+C:/Fruits/test/Mega_Peach/03463.png 1 1
+C:/Fruits/test/Mega_Bluberry/03402.png 0 1
+C:/Fruits/test/Mega_Bluberry/03455.png 0 1
+C:/Fruits/test/Mega_Bluberry/03162.png 0 1
+C:/Fruits/test/Mega_Bluberry/03416.png 0 1
+C:/Fruits/test/Mega_Bluberry/03435.png 0 1
+C:/Fruits/test/Mega_Peach/03192.png 1 1
+C:/Fruits/test/Mega_Peach/03307.png 1 1
+C:/Fruits/test/Mega_Bluberry/03499.png 0 1
+C:/Fruits/test/Mega_Bluberry/03049.png 0 1
+C:/Fruits/test/Mega_Bluberry/03317.png 0 1
+C:/Fruits/test/Mega_Bluberry/03283.png 0 1
+C:/Fruits/test/Mega_Peach/03210.png 1 1
+C:/Fruits/test/Mega_Peach/03279.png 1 1
+C:/Fruits/test/Mega_Peach/03160.png 1 1
+C:/Fruits/test/Mega_Peach/03087.png 1 1
+C:/Fruits/test/Mega_Bluberry/03215.png 0 1
+C:/Fruits/test/Mega_Peach/03153.png 1 1
+C:/Fruits/test/Mega_Peach/03366.png 1 1
+C:/Fruits/test/Mega_Peach/03411.png 1 1
+C:/Fruits/test/Mega_Peach/03461.png 1 1
+C:/Fruits/test/Mega_Bluberry/03109.png 0 1
+C:/Fruits/test/Mega_Bluberry/03021.png 0 1
+C:/Fruits/test/Mega_Peach/03039.png 1 1
+C:/Fruits/test/Mega_Bluberry/03002.png 0 1
+C:/Fruits/test/Mega_Peach/03026.png 1 1
+C:/Fruits/test/Mega_Peach/03293.png 1 1
+C:/Fruits/test/Mega_Peach/03097.png 1 1
+C:/Fruits/test/Mega_Peach/03157.png 1 1
+C:/Fruits/test/Mega_Peach/03393.png 1 1
+C:/Fruits/test/Mega_Peach/03399.png 1 1
+C:/Fruits/test/Mega_Bluberry/03496.png 0 1
+C:/Fruits/test/Mega_Peach/03000.png 1 1
+C:/Fruits/test/Mega_Bluberry/03359.png 0 1
+C:/Fruits/test/Mega_Bluberry/03048.png 0 1
+C:/Fruits/test/Mega_Bluberry/03227.png 0 1
+C:/Fruits/test/Mega_Peach/03296.png 1 1
+C:/Fruits/test/Mega_Peach/03351.png 1 1
+C:/Fruits/test/Mega_Peach/03075.png 1 1
+C:/Fruits/test/Mega_Peach/03348.png 1 1
+C:/Fruits/test/Mega_Peach/03231.png 1 1
+C:/Fruits/test/Mega_Bluberry/03240.png 0 1
+C:/Fruits/test/Mega_Bluberry/03057.png 0 1
+C:/Fruits/test/Mega_Bluberry/03381.png 0 1
+C:/Fruits/test/Mega_Peach/03204.png 1 1
+C:/Fruits/test/Mega_Bluberry/03343.png 0 1
+C:/Fruits/test/Mega_Bluberry/03022.png 0 1
+C:/Fruits/test/Mega_Peach/03038.png 1 1
+C:/Fruits/test/Mega_Bluberry/03031.png 0 1
+C:/Fruits/test/Mega_Peach/03441.png 1 1
+C:/Fruits/test/Mega_Bluberry/03348.png 0 1
+C:/Fruits/test/Mega_Peach/03005.png 1 1
+C:/Fruits/test/Mega_Peach/03406.png 1 1
+C:/Fruits/test/Mega_Peach/03035.png 1 1
+C:/Fruits/test/Mega_Bluberry/03254.png 0 1
+C:/Fruits/test/Mega_Peach/03220.png 1 1
+C:/Fruits/test/Mega_Bluberry/03208.png 0 1
+C:/Fruits/test/Mega_Peach/03078.png 1 1
+C:/Fruits/test/Mega_Bluberry/03289.png 0 1
+C:/Fruits/test/Mega_Peach/03104.png 1 1
+C:/Fruits/test/Mega_Peach/03091.png 1 1
+C:/Fruits/test/Mega_Peach/03135.png 1 1
+C:/Fruits/test/Mega_Bluberry/03433.png 0 1
+C:/Fruits/test/Mega_Bluberry/03314.png 0 1
+C:/Fruits/test/Mega_Peach/03454.png 1 1
+C:/Fruits/test/Mega_Peach/03158.png 1 1
+C:/Fruits/test/Mega_Bluberry/03439.png 0 1
+C:/Fruits/test/Mega_Bluberry/03357.png 0 1
+C:/Fruits/test/Mega_Peach/03290.png 1 1
+C:/Fruits/test/Mega_Peach/03194.png 1 1
+C:/Fruits/test/Mega_Bluberry/03469.png 0 1
+C:/Fruits/test/Mega_Bluberry/03472.png 0 1
+C:/Fruits/test/Mega_Peach/03389.png 1 1
+C:/Fruits/test/Mega_Peach/03118.png 1 1
+C:/Fruits/test/Mega_Peach/03337.png 1 1
+C:/Fruits/test/Mega_Peach/03456.png 1 1
+C:/Fruits/test/Mega_Bluberry/03479.png 0 1
+C:/Fruits/test/Mega_Peach/03388.png 1 1
+C:/Fruits/test/Mega_Bluberry/03281.png 0 1
+C:/Fruits/test/Mega_Bluberry/03218.png 0 1
+C:/Fruits/test/Mega_Peach/03013.png 1 1
+C:/Fruits/test/Mega_Bluberry/03382.png 0 1
+C:/Fruits/test/Mega_Bluberry/03198.png 0 1
+C:/Fruits/test/Mega_Bluberry/03505.png 0 1
+C:/Fruits/test/Mega_Peach/03047.png 1 1
+C:/Fruits/test/Mega_Peach/03233.png 1 1
+C:/Fruits/test/Mega_Peach/03068.png 1 1
+C:/Fruits/test/Mega_Peach/03164.png 1 1
+C:/Fruits/test/Mega_Peach/03103.png 1 1
+C:/Fruits/test/Mega_Peach/03479.png 1 1
+C:/Fruits/test/Mega_Peach/03208.png 1 1
+C:/Fruits/test/Mega_Peach/03110.png 1 1
+C:/Fruits/test/Mega_Bluberry/03342.png 0 1
+C:/Fruits/test/Mega_Peach/03460.png 1 1
+C:/Fruits/test/Mega_Bluberry/03091.png 0 1
+C:/Fruits/test/Mega_Peach/03003.png 1 1
+C:/Fruits/test/Mega_Bluberry/03482.png 0 1
+C:/Fruits/test/Mega_Bluberry/03446.png 0 1
+C:/Fruits/test/Mega_Peach/03354.png 1 1
+C:/Fruits/test/Mega_Bluberry/03059.png 0 1
+C:/Fruits/test/Mega_Peach/03049.png 1 1
+C:/Fruits/test/Mega_Bluberry/03110.png 0 1
+C:/Fruits/test/Mega_Peach/03475.png 1 1
+C:/Fruits/test/Mega_Bluberry/03056.png 0 1
+C:/Fruits/test/Mega_Peach/03238.png 1 1
+C:/Fruits/test/Mega_Bluberry/03145.png 0 1
+C:/Fruits/test/Mega_Peach/03376.png 1 1
+C:/Fruits/test/Mega_Bluberry/03014.png 0 1
+C:/Fruits/test/Mega_Peach/03459.png 1 1
+C:/Fruits/test/Mega_Peach/03012.png 1 1
+C:/Fruits/test/Mega_Bluberry/03016.png 0 1
+C:/Fruits/test/Mega_Peach/03310.png 1 1
+C:/Fruits/test/Mega_Peach/03431.png 1 1
+C:/Fruits/test/Mega_Bluberry/03491.png 0 1
+C:/Fruits/test/Mega_Peach/03466.png 1 1
+C:/Fruits/test/Mega_Peach/03193.png 1 1
+C:/Fruits/test/Mega_Peach/03236.png 1 1
+C:/Fruits/test/Mega_Bluberry/03063.png 0 1
+C:/Fruits/test/Mega_Peach/03163.png 1 1
+C:/Fruits/test/Mega_Peach/03113.png 1 1
+C:/Fruits/test/Mega_Peach/03288.png 1 1
+C:/Fruits/test/Mega_Peach/03119.png 1 1
+C:/Fruits/test/Mega_Bluberry/03168.png 0 1
+C:/Fruits/test/Mega_Bluberry/03115.png 0 1
+C:/Fruits/test/Mega_Peach/03182.png 1 1
+C:/Fruits/test/Mega_Peach/03105.png 1 1
+C:/Fruits/test/Mega_Bluberry/03299.png 0 1
+C:/Fruits/test/Mega_Peach/03081.png 1 1
+C:/Fruits/test/Mega_Bluberry/03380.png 0 1
+C:/Fruits/test/Mega_Peach/03244.png 1 1
+C:/Fruits/test/Mega_Bluberry/03239.png 0 1
+C:/Fruits/test/Mega_Peach/03297.png 1 1
+C:/Fruits/test/Mega_Bluberry/03087.png 0 1
+C:/Fruits/test/Mega_Bluberry/03009.png 0 1
+C:/Fruits/test/Mega_Peach/03464.png 1 1
+C:/Fruits/test/Mega_Peach/03311.png 1 1
+C:/Fruits/test/Mega_Bluberry/03264.png 0 1
+C:/Fruits/test/Mega_Peach/03254.png 1 1
+C:/Fruits/test/Mega_Bluberry/03027.png 0 1
+C:/Fruits/test/Mega_Peach/03353.png 1 1
+C:/Fruits/test/Mega_Bluberry/03315.png 0 1
+C:/Fruits/test/Mega_Peach/03169.png 1 1
+C:/Fruits/test/Mega_Peach/03344.png 1 1
+C:/Fruits/test/Mega_Peach/03063.png 1 1
+C:/Fruits/test/Mega_Bluberry/03221.png 0 1
+C:/Fruits/test/Mega_Peach/03341.png 1 1
+C:/Fruits/test/Mega_Bluberry/03089.png 0 1
+C:/Fruits/test/Mega_Peach/03252.png 1 1
+C:/Fruits/test/Mega_Peach/03253.png 1 1
+C:/Fruits/test/Mega_Bluberry/03136.png 0 1
+C:/Fruits/test/Mega_Peach/03203.png 1 1
+C:/Fruits/test/Mega_Peach/03033.png 1 1
+C:/Fruits/test/Mega_Bluberry/03420.png 0 1
+C:/Fruits/test/Mega_Peach/03109.png 1 1
+C:/Fruits/test/Mega_Bluberry/03142.png 0 1
+C:/Fruits/test/Mega_Bluberry/03369.png 0 1
+C:/Fruits/test/Mega_Bluberry/03294.png 0 1
+C:/Fruits/test/Mega_Bluberry/03265.png 0 1
+C:/Fruits/test/Mega_Bluberry/03071.png 0 1
+C:/Fruits/test/Mega_Peach/03432.png 1 1
+C:/Fruits/test/Mega_Bluberry/03388.png 0 1
+C:/Fruits/test/Mega_Peach/03102.png 1 1
+C:/Fruits/test/Mega_Bluberry/03449.png 0 1
+C:/Fruits/test/Mega_Peach/03447.png 1 1
+C:/Fruits/test/Mega_Peach/03478.png 1 1
+C:/Fruits/test/Mega_Bluberry/03122.png 0 1
+C:/Fruits/test/Mega_Peach/03232.png 1 1
+C:/Fruits/test/Mega_Peach/03433.png 1 1
+C:/Fruits/test/Mega_Peach/03023.png 1 1
+C:/Fruits/test/Mega_Bluberry/03436.png 0 1
+C:/Fruits/test/Mega_Bluberry/03434.png 0 1
+C:/Fruits/test/Mega_Bluberry/03383.png 0 1
+C:/Fruits/test/Mega_Peach/03172.png 1 1
+C:/Fruits/test/Mega_Bluberry/03394.png 0 1
+C:/Fruits/test/Mega_Bluberry/03409.png 0 1
+C:/Fruits/test/Mega_Bluberry/03260.png 0 1
+C:/Fruits/test/Mega_Peach/03056.png 1 1
+C:/Fruits/test/Mega_Bluberry/03045.png 0 1
+C:/Fruits/test/Mega_Bluberry/03445.png 0 1
+C:/Fruits/test/Mega_Bluberry/03024.png 0 1
+C:/Fruits/test/Mega_Bluberry/03471.png 0 1
+C:/Fruits/test/Mega_Peach/03167.png 1 1
+C:/Fruits/test/Mega_Bluberry/03212.png 0 1
+C:/Fruits/test/Mega_Bluberry/03395.png 0 1
+C:/Fruits/test/Mega_Peach/03412.png 1 1
+C:/Fruits/test/Mega_Peach/03401.png 1 1
+C:/Fruits/test/Mega_Bluberry/03082.png 0 1
+C:/Fruits/test/Mega_Peach/03112.png 1 1
+C:/Fruits/test/Mega_Bluberry/03293.png 0 1
+C:/Fruits/test/Mega_Bluberry/03269.png 0 1
+C:/Fruits/test/Mega_Peach/03051.png 1 1
+C:/Fruits/test/Mega_Peach/03029.png 1 1
+C:/Fruits/test/Mega_Bluberry/03483.png 0 1
+C:/Fruits/test/Mega_Peach/03020.png 1 1
+C:/Fruits/test/Mega_Peach/03435.png 1 1
+C:/Fruits/test/Mega_Bluberry/03305.png 0 1
+C:/Fruits/test/Mega_Peach/03273.png 1 1
+C:/Fruits/test/Mega_Bluberry/03206.png 0 1
+C:/Fruits/test/Mega_Bluberry/03316.png 0 1
+C:/Fruits/test/Mega_Bluberry/03480.png 0 1
+C:/Fruits/test/Mega_Peach/03152.png 1 1
+C:/Fruits/test/Mega_Peach/03407.png 1 1
+C:/Fruits/test/Mega_Peach/03300.png 1 1
+C:/Fruits/test/Mega_Bluberry/03367.png 0 1
+C:/Fruits/test/Mega_Bluberry/03170.png 0 1
+C:/Fruits/test/Mega_Bluberry/03106.png 0 1
+C:/Fruits/test/Mega_Bluberry/03249.png 0 1
+C:/Fruits/test/Mega_Bluberry/03116.png 0 1
+C:/Fruits/test/Mega_Peach/03027.png 1 1
+C:/Fruits/test/Mega_Bluberry/03203.png 0 1
+C:/Fruits/test/Mega_Bluberry/03153.png 0 1
+C:/Fruits/test/Mega_Bluberry/03291.png 0 1
+C:/Fruits/test/Mega_Peach/03249.png 1 1
+C:/Fruits/test/Mega_Peach/03206.png 1 1
+C:/Fruits/test/Mega_Bluberry/03079.png 0 1
+C:/Fruits/test/Mega_Bluberry/03320.png 0 1
+C:/Fruits/test/Mega_Bluberry/03361.png 0 1
+C:/Fruits/test/Mega_Bluberry/03050.png 0 1
+C:/Fruits/test/Mega_Peach/03365.png 1 1
+C:/Fruits/test/Mega_Peach/03041.png 1 1
+C:/Fruits/test/Mega_Bluberry/03384.png 0 1
+C:/Fruits/test/Mega_Peach/03014.png 1 1
+C:/Fruits/test/Mega_Bluberry/03098.png 0 1
+C:/Fruits/test/Mega_Peach/03379.png 1 1
+C:/Fruits/test/Mega_Peach/03230.png 1 1
+C:/Fruits/test/Mega_Peach/03016.png 1 1
+C:/Fruits/test/Mega_Peach/03050.png 1 1
+C:/Fruits/test/Mega_Bluberry/03412.png 0 1
+C:/Fruits/test/Mega_Peach/03227.png 1 1
+C:/Fruits/test/Mega_Peach/03286.png 1 1
+C:/Fruits/test/Mega_Bluberry/03065.png 0 1
+C:/Fruits/test/Mega_Peach/03275.png 1 1
+C:/Fruits/test/Mega_Bluberry/03417.png 0 1
+C:/Fruits/test/Mega_Bluberry/03457.png 0 1
+C:/Fruits/test/Mega_Peach/03211.png 1 1
+C:/Fruits/test/Mega_Bluberry/03341.png 0 1
+C:/Fruits/test/Mega_Peach/03312.png 1 1
+C:/Fruits/test/Mega_Bluberry/03387.png 0 1
+C:/Fruits/test/Mega_Peach/03374.png 1 1
+C:/Fruits/test/Mega_Bluberry/03290.png 0 1
+C:/Fruits/test/Mega_Bluberry/03408.png 0 1
+C:/Fruits/test/Mega_Bluberry/03377.png 0 1
+C:/Fruits/test/Mega_Peach/03327.png 1 1
+C:/Fruits/test/Mega_Bluberry/03103.png 0 1
+C:/Fruits/test/Mega_Peach/03149.png 1 1
+C:/Fruits/test/Mega_Peach/03006.png 1 1
+C:/Fruits/test/Mega_Peach/03142.png 1 1
+C:/Fruits/test/Mega_Bluberry/03255.png 0 1
+C:/Fruits/test/Mega_Peach/03363.png 1 1
+C:/Fruits/test/Mega_Peach/03385.png 1 1
+C:/Fruits/test/Mega_Peach/03042.png 1 1
+C:/Fruits/test/Mega_Bluberry/03143.png 0 1
+C:/Fruits/test/Mega_Peach/03069.png 1 1
+C:/Fruits/test/Mega_Peach/03400.png 1 1
+C:/Fruits/test/Mega_Bluberry/03195.png 0 1
+C:/Fruits/test/Mega_Peach/03055.png 1 1
+C:/Fruits/test/Mega_Peach/03473.png 1 1
+C:/Fruits/test/Mega_Peach/03085.png 1 1
+C:/Fruits/test/Mega_Peach/03036.png 1 1
+C:/Fruits/test/Mega_Bluberry/03345.png 0 1
+C:/Fruits/test/Mega_Bluberry/03179.png 0 1
+C:/Fruits/test/Mega_Bluberry/03467.png 0 1
+C:/Fruits/test/Mega_Peach/03212.png 1 1
+C:/Fruits/test/Mega_Peach/03245.png 1 1
+C:/Fruits/test/Mega_Peach/03155.png 1 1
+C:/Fruits/test/Mega_Bluberry/03018.png 0 1
+C:/Fruits/test/Mega_Peach/03367.png 1 1
+C:/Fruits/test/Mega_Peach/03237.png 1 1
+C:/Fruits/test/Mega_Bluberry/03286.png 0 1
+C:/Fruits/test/Mega_Peach/03228.png 1 1
+C:/Fruits/test/Mega_Peach/03125.png 1 1
+C:/Fruits/test/Mega_Bluberry/03257.png 0 1
+C:/Fruits/test/Mega_Bluberry/03111.png 0 1
+C:/Fruits/test/Mega_Peach/03086.png 1 1
+C:/Fruits/test/Mega_Peach/03333.png 1 1
+C:/Fruits/test/Mega_Bluberry/03113.png 0 1
+C:/Fruits/test/Mega_Bluberry/03172.png 0 1
+C:/Fruits/test/Mega_Peach/03017.png 1 1
+C:/Fruits/test/Mega_Bluberry/03121.png 0 1
+C:/Fruits/test/Mega_Peach/03356.png 1 1
+C:/Fruits/test/Mega_Bluberry/03298.png 0 1
+C:/Fruits/test/Mega_Bluberry/03366.png 0 1
+C:/Fruits/test/Mega_Peach/03243.png 1 1
+C:/Fruits/test/Mega_Peach/03386.png 1 1
+C:/Fruits/test/Mega_Peach/03052.png 1 1
+C:/Fruits/test/Mega_Bluberry/03133.png 0 1
+C:/Fruits/test/Mega_Peach/03219.png 1 1
+C:/Fruits/test/Mega_Peach/03410.png 1 1
+C:/Fruits/test/Mega_Bluberry/03373.png 0 1
+C:/Fruits/test/Mega_Bluberry/03137.png 0 1
+C:/Fruits/test/Mega_Bluberry/03006.png 0 1
+C:/Fruits/test/Mega_Bluberry/03164.png 0 1
+C:/Fruits/test/Mega_Peach/03246.png 1 1
+C:/Fruits/test/Mega_Peach/03274.png 1 1
+C:/Fruits/test/Mega_Bluberry/03100.png 0 1
+C:/Fruits/test/Mega_Peach/03294.png 1 1
+C:/Fruits/test/Mega_Peach/03332.png 1 1
+C:/Fruits/test/Mega_Peach/03271.png 1 1
+C:/Fruits/test/Mega_Peach/03342.png 1 1
+C:/Fruits/test/Mega_Bluberry/03205.png 0 1
+C:/Fruits/test/Mega_Bluberry/03378.png 0 1
+C:/Fruits/test/Mega_Peach/03345.png 1 1
+C:/Fruits/test/Mega_Peach/03281.png 1 1
+C:/Fruits/test/Mega_Bluberry/03193.png 0 1
+C:/Fruits/test/Mega_Bluberry/03251.png 0 1
+C:/Fruits/test/Mega_Bluberry/03406.png 0 1
+C:/Fruits/test/Mega_Peach/03295.png 1 1
+C:/Fruits/test/Mega_Bluberry/03074.png 0 1
+C:/Fruits/test/Mega_Bluberry/03353.png 0 1
+C:/Fruits/test/Mega_Peach/03076.png 1 1
+C:/Fruits/test/Mega_Bluberry/03414.png 0 1
+C:/Fruits/test/Mega_Peach/03054.png 1 1
+C:/Fruits/test/Mega_Peach/03037.png 1 1
+C:/Fruits/test/Mega_Peach/03404.png 1 1
+C:/Fruits/test/Mega_Peach/03171.png 1 1
+C:/Fruits/test/Mega_Bluberry/03477.png 0 1
+C:/Fruits/test/Mega_Peach/03462.png 1 1
+C:/Fruits/test/Mega_Bluberry/03241.png 0 1
+C:/Fruits/test/Mega_Bluberry/03419.png 0 1
+C:/Fruits/test/Mega_Bluberry/03410.png 0 1
+C:/Fruits/test/Mega_Bluberry/03504.png 0 1
+C:/Fruits/test/Mega_Bluberry/03450.png 0 1
+C:/Fruits/test/Mega_Bluberry/03340.png 0 1
+C:/Fruits/test/Mega_Peach/03002.png 1 1
+C:/Fruits/test/Mega_Peach/03450.png 1 1
+C:/Fruits/test/Mega_Bluberry/03167.png 0 1
+C:/Fruits/test/Mega_Peach/03175.png 1 1
+C:/Fruits/test/Mega_Peach/03328.png 1 1
+C:/Fruits/test/Mega_Peach/03422.png 1 1
+C:/Fruits/test/Mega_Bluberry/03386.png 0 1
+C:/Fruits/test/Mega_Bluberry/03437.png 0 1
+C:/Fruits/test/Mega_Bluberry/03390.png 0 1
+C:/Fruits/test/Mega_Peach/03011.png 1 1
+C:/Fruits/test/Mega_Peach/03427.png 1 1
+C:/Fruits/test/Mega_Bluberry/03354.png 0 1
+C:/Fruits/test/Mega_Bluberry/03459.png 0 1
+C:/Fruits/test/Mega_Bluberry/03284.png 0 1
+C:/Fruits/test/Mega_Bluberry/03270.png 0 1
+C:/Fruits/test/Mega_Peach/03438.png 1 1
+C:/Fruits/test/Mega_Peach/03116.png 1 1
+C:/Fruits/test/Mega_Bluberry/03066.png 0 1
+C:/Fruits/test/Mega_Peach/03133.png 1 1
+C:/Fruits/test/Mega_Peach/03316.png 1 1
+C:/Fruits/test/Mega_Peach/03452.png 1 1
+C:/Fruits/test/Mega_Bluberry/03185.png 0 1
+C:/Fruits/test/Mega_Peach/03360.png 1 1
+C:/Fruits/test/Mega_Bluberry/03129.png 0 1
+C:/Fruits/test/Mega_Bluberry/03183.png 0 1
+C:/Fruits/test/Mega_Bluberry/03126.png 0 1
+C:/Fruits/test/Mega_Peach/03126.png 1 1
+C:/Fruits/test/Mega_Peach/03439.png 1 1
+C:/Fruits/test/Mega_Peach/03168.png 1 1
+C:/Fruits/test/Mega_Bluberry/03324.png 0 1
+C:/Fruits/test/Mega_Peach/03145.png 1 1
+C:/Fruits/test/Mega_Peach/03298.png 1 1
+C:/Fruits/test/Mega_Bluberry/03180.png 0 1
+C:/Fruits/test/Mega_Peach/03402.png 1 1
+C:/Fruits/test/Mega_Peach/03390.png 1 1
+C:/Fruits/test/Mega_Bluberry/03400.png 0 1
+C:/Fruits/test/Mega_Peach/03315.png 1 1
+C:/Fruits/test/Mega_Peach/03313.png 1 1
+C:/Fruits/test/Mega_Bluberry/03177.png 0 1
+C:/Fruits/test/Mega_Bluberry/03456.png 0 1
+C:/Fruits/test/Mega_Peach/03093.png 1 1
+C:/Fruits/test/Mega_Bluberry/03102.png 0 1
+C:/Fruits/test/Mega_Peach/03445.png 1 1
+C:/Fruits/test/Mega_Bluberry/03064.png 0 1
+C:/Fruits/test/Mega_Peach/03322.png 1 1
+C:/Fruits/test/Mega_Bluberry/03470.png 0 1
+C:/Fruits/test/Mega_Bluberry/03304.png 0 1
+C:/Fruits/test/Mega_Peach/03190.png 1 1
+C:/Fruits/test/Mega_Peach/03359.png 1 1
+C:/Fruits/test/Mega_Peach/03150.png 1 1
+C:/Fruits/test/Mega_Bluberry/03350.png 0 1
+C:/Fruits/test/Mega_Peach/03066.png 1 1
+C:/Fruits/test/Mega_Bluberry/03302.png 0 1
+C:/Fruits/test/Mega_Peach/03378.png 1 1
+C:/Fruits/test/Mega_Peach/03161.png 1 1
+C:/Fruits/test/Mega_Bluberry/03085.png 0 1
+C:/Fruits/test/Mega_Peach/03338.png 1 1
+C:/Fruits/test/Mega_Bluberry/03025.png 0 1
+C:/Fruits/test/Mega_Bluberry/03233.png 0 1
+C:/Fruits/test/Mega_Peach/03304.png 1 1
+C:/Fruits/test/Mega_Bluberry/03046.png 0 1
+C:/Fruits/test/Mega_Bluberry/03490.png 0 1
+C:/Fruits/test/Mega_Bluberry/03266.png 0 1
+C:/Fruits/test/Mega_Bluberry/03138.png 0 1
+C:/Fruits/test/Mega_Bluberry/03502.png 0 1
+C:/Fruits/test/Mega_Bluberry/03242.png 0 1
+C:/Fruits/test/Mega_Peach/03264.png 1 1
+C:/Fruits/test/Mega_Bluberry/03474.png 0 1
+C:/Fruits/test/Mega_Bluberry/03349.png 0 1
+C:/Fruits/test/Mega_Bluberry/03217.png 0 1
+C:/Fruits/test/Mega_Bluberry/03440.png 0 1
+C:/Fruits/test/Mega_Peach/03117.png 1 1
+C:/Fruits/test/Mega_Bluberry/03263.png 0 1
+C:/Fruits/test/Mega_Bluberry/03488.png 0 1
+C:/Fruits/test/Mega_Peach/03408.png 1 1
+C:/Fruits/test/Mega_Peach/03061.png 1 1
+C:/Fruits/test/Mega_Bluberry/03099.png 0 1
+C:/Fruits/test/Mega_Peach/03186.png 1 1
+C:/Fruits/test/Mega_Bluberry/03017.png 0 1
+C:/Fruits/test/Mega_Bluberry/03041.png 0 1
+C:/Fruits/test/Mega_Peach/03015.png 1 1
+C:/Fruits/test/Mega_Bluberry/03047.png 0 1
+C:/Fruits/test/Mega_Bluberry/03211.png 0 1
+C:/Fruits/test/Mega_Bluberry/03464.png 0 1
+C:/Fruits/test/Mega_Bluberry/03125.png 0 1
+C:/Fruits/test/Mega_Bluberry/03407.png 0 1
+C:/Fruits/test/Mega_Peach/03031.png 1 1
+C:/Fruits/test/Mega_Bluberry/03236.png 0 1
+C:/Fruits/test/Mega_Peach/03302.png 1 1
+C:/Fruits/test/Mega_Bluberry/03300.png 0 1
+C:/Fruits/test/Mega_Bluberry/03426.png 0 1
+C:/Fruits/test/Mega_Bluberry/03311.png 0 1
+C:/Fruits/test/Mega_Peach/03162.png 1 1
+C:/Fruits/test/Mega_Bluberry/03494.png 0 1
+C:/Fruits/test/Mega_Peach/03138.png 1 1
+C:/Fruits/test/Mega_Bluberry/03062.png 0 1
+C:/Fruits/test/Mega_Bluberry/03278.png 0 1
+C:/Fruits/test/Mega_Bluberry/03235.png 0 1
+C:/Fruits/test/Mega_Peach/03114.png 1 1
+C:/Fruits/test/Mega_Peach/03059.png 1 1
+C:/Fruits/test/Mega_Peach/03269.png 1 1
+C:/Fruits/test/Mega_Bluberry/03190.png 0 1
+C:/Fruits/test/Mega_Peach/03166.png 1 1
+C:/Fruits/test/Mega_Bluberry/03182.png 0 1
+C:/Fruits/test/Mega_Bluberry/03039.png 0 1
+C:/Fruits/test/Mega_Peach/03170.png 1 1
+C:/Fruits/test/Mega_Peach/03141.png 1 1
+C:/Fruits/test/Mega_Peach/03046.png 1 1
+C:/Fruits/test/Mega_Bluberry/03498.png 0 1
+C:/Fruits/test/Mega_Bluberry/03105.png 0 1
+C:/Fruits/test/Mega_Bluberry/03442.png 0 1
+C:/Fruits/test/Mega_Bluberry/03114.png 0 1
+C:/Fruits/test/Mega_Bluberry/03224.png 0 1
+C:/Fruits/test/Mega_Bluberry/03296.png 0 1
+C:/Fruits/test/Mega_Bluberry/03141.png 0 1
+C:/Fruits/test/Mega_Bluberry/03321.png 0 1
+C:/Fruits/test/Mega_Peach/03213.png 1 1
+C:/Fruits/test/Mega_Bluberry/03054.png 0 1
+C:/Fruits/test/Mega_Peach/03080.png 1 1
+C:/Fruits/test/Mega_Bluberry/03232.png 0 1
+C:/Fruits/test/Mega_Bluberry/03365.png 0 1
+C:/Fruits/test/Mega_Bluberry/03068.png 0 1
+C:/Fruits/test/Mega_Peach/03064.png 1 1
+C:/Fruits/test/Mega_Peach/03122.png 1 1
+C:/Fruits/test/Mega_Bluberry/03026.png 0 1
+C:/Fruits/test/Mega_Bluberry/03463.png 0 1
+C:/Fruits/test/Mega_Peach/03384.png 1 1
+C:/Fruits/test/Mega_Peach/03004.png 1 1
+C:/Fruits/test/Mega_Peach/03195.png 1 1
+C:/Fruits/test/Mega_Peach/03428.png 1 1
+C:/Fruits/test/Mega_Bluberry/03313.png 0 1
+C:/Fruits/test/Mega_Peach/03191.png 1 1
+C:/Fruits/test/Mega_Peach/03423.png 1 1
+C:/Fruits/test/Mega_Peach/03368.png 1 1
+C:/Fruits/test/Mega_Peach/03057.png 1 1
+C:/Fruits/test/Mega_Peach/03425.png 1 1
+C:/Fruits/test/Mega_Peach/03222.png 1 1
+C:/Fruits/test/Mega_Peach/03197.png 1 1
+C:/Fruits/test/Mega_Peach/03045.png 1 1
+C:/Fruits/test/Mega_Bluberry/03051.png 0 1
+C:/Fruits/test/Mega_Peach/03255.png 1 1
+C:/Fruits/test/Mega_Bluberry/03415.png 0 1
+C:/Fruits/test/Mega_Peach/03405.png 1 1
+C:/Fruits/test/Mega_Bluberry/03188.png 0 1
+C:/Fruits/test/Mega_Bluberry/03334.png 0 1
+C:/Fruits/test/Mega_Peach/03065.png 1 1
+C:/Fruits/test/Mega_Bluberry/03372.png 0 1
+C:/Fruits/test/Mega_Peach/03115.png 1 1
+C:/Fruits/test/Mega_Bluberry/03200.png 0 1
+C:/Fruits/test/Mega_Bluberry/03312.png 0 1
+C:/Fruits/test/Mega_Bluberry/03276.png 0 1
+C:/Fruits/test/Mega_Bluberry/03475.png 0 1
+C:/Fruits/test/Mega_Peach/03131.png 1 1
+C:/Fruits/test/Mega_Peach/03346.png 1 1
+C:/Fruits/test/Mega_Bluberry/03326.png 0 1
+C:/Fruits/test/Mega_Peach/03221.png 1 1
+C:/Fruits/test/Mega_Bluberry/03037.png 0 1
+C:/Fruits/test/Mega_Peach/03283.png 1 1
+C:/Fruits/test/Mega_Peach/03099.png 1 1
+C:/Fruits/test/Mega_Bluberry/03329.png 0 1
+C:/Fruits/test/Mega_Bluberry/03243.png 0 1
+C:/Fruits/test/Mega_Peach/03372.png 1 1
+C:/Fruits/test/Mega_Bluberry/03229.png 0 1
+C:/Fruits/test/Mega_Peach/03306.png 1 1
+C:/Fruits/test/Mega_Peach/03470.png 1 1
+C:/Fruits/test/Mega_Bluberry/03285.png 0 1
+C:/Fruits/test/Mega_Peach/03094.png 1 1
+C:/Fruits/test/Mega_Bluberry/03030.png 0 1
+C:/Fruits/test/Mega_Peach/03352.png 1 1
+C:/Fruits/test/Mega_Peach/03146.png 1 1
+C:/Fruits/test/Mega_Peach/03083.png 1 1
+C:/Fruits/test/Mega_Bluberry/03166.png 0 1
+C:/Fruits/test/Mega_Peach/03362.png 1 1
+C:/Fruits/test/Mega_Bluberry/03368.png 0 1
+C:/Fruits/test/Mega_Peach/03301.png 1 1
+C:/Fruits/test/Mega_Bluberry/03501.png 0 1
+C:/Fruits/test/Mega_Bluberry/03252.png 0 1
+C:/Fruits/test/Mega_Peach/03468.png 1 1
+C:/Fruits/test/Mega_Peach/03106.png 1 1
+C:/Fruits/test/Mega_Bluberry/03207.png 0 1
+C:/Fruits/test/Mega_Bluberry/03104.png 0 1
+C:/Fruits/test/Mega_Bluberry/03178.png 0 1
+C:/Fruits/test/Mega_Peach/03183.png 1 1
+C:/Fruits/test/Mega_Bluberry/03213.png 0 1
+C:/Fruits/test/Mega_Bluberry/03072.png 0 1
+C:/Fruits/test/Mega_Bluberry/03376.png 0 1
+C:/Fruits/test/Mega_Bluberry/03173.png 0 1
+C:/Fruits/test/Mega_Peach/03258.png 1 1
+C:/Fruits/test/Mega_Bluberry/03094.png 0 1
+C:/Fruits/test/Mega_Peach/03330.png 1 1
+C:/Fruits/test/Mega_Bluberry/03119.png 0 1
+C:/Fruits/test/Mega_Peach/03331.png 1 1
+C:/Fruits/test/Mega_Bluberry/03401.png 0 1
+C:/Fruits/test/Mega_Bluberry/03084.png 0 1
+C:/Fruits/test/Mega_Peach/03028.png 1 1
+C:/Fruits/test/Mega_Bluberry/03441.png 0 1
+C:/Fruits/test/Mega_Peach/03129.png 1 1
+C:/Fruits/test/Mega_Bluberry/03250.png 0 1
+C:/Fruits/test/Mega_Peach/03282.png 1 1
+C:/Fruits/test/Mega_Bluberry/03351.png 0 1
+C:/Fruits/test/Mega_Bluberry/03274.png 0 1
+C:/Fruits/test/Mega_Peach/03070.png 1 1
+C:/Fruits/test/Mega_Bluberry/03004.png 0 1
+C:/Fruits/test/Mega_Bluberry/03458.png 0 1
+C:/Fruits/test/Mega_Bluberry/03453.png 0 1
+C:/Fruits/test/Mega_Bluberry/03035.png 0 1
+C:/Fruits/test/Mega_Peach/03144.png 1 1
+C:/Fruits/test/Mega_Peach/03443.png 1 1
+C:/Fruits/test/Mega_Bluberry/03301.png 0 1
+C:/Fruits/test/Mega_Peach/03446.png 1 1
+C:/Fruits/test/Mega_Peach/03266.png 1 1
+C:/Fruits/test/Mega_Peach/03044.png 1 1
+C:/Fruits/test/Mega_Bluberry/03452.png 0 1
+C:/Fruits/test/Mega_Peach/03453.png 1 1
+C:/Fruits/test/Mega_Bluberry/03360.png 0 1
+C:/Fruits/test/Mega_Bluberry/03033.png 0 1
+C:/Fruits/test/Mega_Bluberry/03042.png 0 1
+C:/Fruits/test/Mega_Bluberry/03216.png 0 1
+C:/Fruits/test/Mega_Peach/03414.png 1 1
+C:/Fruits/test/Mega_Bluberry/03036.png 0 1
+C:/Fruits/test/Mega_Peach/03305.png 1 1
+C:/Fruits/test/Mega_Peach/03421.png 1 1
+C:/Fruits/test/Mega_Bluberry/03333.png 0 1
+C:/Fruits/test/Mega_Peach/03259.png 1 1
+C:/Fruits/test/Mega_Peach/03134.png 1 1
+C:/Fruits/test/Mega_Bluberry/03088.png 0 1
+C:/Fruits/test/Mega_Peach/03148.png 1 1
+C:/Fruits/test/Mega_Bluberry/03363.png 0 1
+C:/Fruits/test/Mega_Bluberry/03160.png 0 1
+C:/Fruits/test/Mega_Peach/03214.png 1 1
+C:/Fruits/test/Mega_Bluberry/03128.png 0 1
+C:/Fruits/test/Mega_Peach/03073.png 1 1
+C:/Fruits/test/Mega_Bluberry/03069.png 0 1
+C:/Fruits/test/Mega_Peach/03472.png 1 1
+C:/Fruits/test/Mega_Bluberry/03176.png 0 1
+C:/Fruits/test/Mega_Bluberry/03468.png 0 1
+C:/Fruits/test/Mega_Bluberry/03080.png 0 1
+C:/Fruits/test/Mega_Peach/03272.png 1 1
+C:/Fruits/test/Mega_Bluberry/03310.png 0 1
+C:/Fruits/test/Mega_Bluberry/03432.png 0 1
+C:/Fruits/test/Mega_Peach/03339.png 1 1
+C:/Fruits/test/Mega_Bluberry/03192.png 0 1
+C:/Fruits/test/Mega_Bluberry/03397.png 0 1
+C:/Fruits/test/Mega_Peach/03334.png 1 1
+C:/Fruits/test/Mega_Peach/03442.png 1 1
+C:/Fruits/test/Mega_Peach/03100.png 1 1
+C:/Fruits/test/Mega_Bluberry/03219.png 0 1
+C:/Fruits/test/Mega_Peach/03413.png 1 1
+C:/Fruits/test/Mega_Bluberry/03462.png 0 1
+C:/Fruits/test/Mega_Bluberry/03117.png 0 1
+C:/Fruits/test/Mega_Peach/03132.png 1 1
+C:/Fruits/test/Mega_Bluberry/03234.png 0 1
+C:/Fruits/test/Mega_Peach/03382.png 1 1
+C:/Fruits/test/Mega_Bluberry/03478.png 0 1
+C:/Fruits/test/Mega_Peach/03218.png 1 1
+C:/Fruits/test/Mega_Bluberry/03005.png 0 1
+C:/Fruits/test/Mega_Bluberry/03118.png 0 1
+C:/Fruits/test/Mega_Bluberry/03335.png 0 1
+C:/Fruits/test/Mega_Peach/03123.png 1 1
+C:/Fruits/test/Mega_Peach/03165.png 1 1
+C:/Fruits/test/Mega_Peach/03205.png 1 1
+C:/Fruits/test/Mega_Bluberry/03013.png 0 1
+C:/Fruits/test/Mega_Bluberry/03492.png 0 1
+C:/Fruits/test/Mega_Peach/03357.png 1 1
+C:/Fruits/test/Mega_Bluberry/03485.png 0 1
+C:/Fruits/test/Mega_Bluberry/03012.png 0 1
+C:/Fruits/test/Mega_Peach/03343.png 1 1
+C:/Fruits/test/Mega_Bluberry/03347.png 0 1
+C:/Fruits/test/Mega_Peach/03189.png 1 1
+C:/Fruits/test/Mega_Bluberry/03061.png 0 1
+C:/Fruits/test/Mega_Bluberry/03280.png 0 1
+C:/Fruits/test/Mega_Bluberry/03175.png 0 1
+C:/Fruits/test/Mega_Bluberry/03438.png 0 1
+C:/Fruits/test/Mega_Peach/03062.png 1 1
+C:/Fruits/test/Mega_Bluberry/03422.png 0 1
+C:/Fruits/test/Mega_Bluberry/03028.png 0 1
+C:/Fruits/test/Mega_Peach/03262.png 1 1
+C:/Fruits/test/Mega_Peach/03198.png 1 1
+C:/Fruits/test/Mega_Peach/03465.png 1 1
+C:/Fruits/test/Mega_Peach/03111.png 1 1
+C:/Fruits/test/Mega_Bluberry/03268.png 0 1
+C:/Fruits/test/Mega_Peach/03159.png 1 1
+C:/Fruits/test/Mega_Peach/03329.png 1 1
+C:/Fruits/test/Mega_Bluberry/03023.png 0 1
+C:/Fruits/test/Mega_Peach/03287.png 1 1
+C:/Fruits/test/Mega_Peach/03289.png 1 1
+C:/Fruits/test/Mega_Peach/03278.png 1 1
+C:/Fruits/test/Mega_Bluberry/03019.png 0 1
+C:/Fruits/test/Mega_Bluberry/03331.png 0 1
+C:/Fruits/test/Mega_Bluberry/03191.png 0 1
+C:/Fruits/test/Mega_Bluberry/03156.png 0 1
+C:/Fruits/test/Mega_Peach/03008.png 1 1
+C:/Fruits/test/Mega_Peach/03185.png 1 1
+C:/Fruits/test/Mega_Bluberry/03053.png 0 1
+C:/Fruits/test/Mega_Peach/03180.png 1 1
+C:/Fruits/test/Mega_Bluberry/03148.png 0 1
+C:/Fruits/test/Mega_Peach/03200.png 1 1
+C:/Fruits/test/Mega_Peach/03380.png 1 1
+C:/Fruits/test/Mega_Bluberry/03424.png 0 1
+C:/Fruits/test/Mega_Peach/03291.png 1 1
+C:/Fruits/test/Mega_Peach/03043.png 1 1
+C:/Fruits/test/Mega_Bluberry/03067.png 0 1
+C:/Fruits/test/Mega_Bluberry/03389.png 0 1
+C:/Fruits/test/Mega_Bluberry/03140.png 0 1
+C:/Fruits/test/Mega_Bluberry/03010.png 0 1
+C:/Fruits/test/Mega_Bluberry/03146.png 0 1
+C:/Fruits/test/Mega_Peach/03285.png 1 1
+C:/Fruits/test/Mega_Bluberry/03396.png 0 1
+C:/Fruits/test/Mega_Bluberry/03245.png 0 1
+C:/Fruits/test/Mega_Bluberry/03038.png 0 1
+C:/Fruits/test/Mega_Peach/03124.png 1 1
+C:/Fruits/test/Mega_Peach/03095.png 1 1
+C:/Fruits/test/Mega_Peach/03284.png 1 1
+C:/Fruits/test/Mega_Peach/03467.png 1 1
+C:/Fruits/test/Mega_Bluberry/03336.png 0 1
+C:/Fruits/test/Mega_Bluberry/03123.png 0 1
+C:/Fruits/test/Mega_Bluberry/03428.png 0 1
+C:/Fruits/test/Mega_Bluberry/03476.png 0 1
+C:/Fruits/test/Mega_Peach/03318.png 1 1
+C:/Fruits/test/Mega_Bluberry/03238.png 0 1

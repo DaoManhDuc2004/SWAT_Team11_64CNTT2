@@ -34,7 +34,7 @@ def parse_args():
                         choices=['semi-inat-2021', 'semi-aves', 'flowers102', 'cub2011', 'imagenet',
                                  'fgvc-aircraft', 'dtd', 'eurosat',
                                  'dtd_selected', 'oxford_pets', 'stanford_cars', 'food101',
-                                 'sun397', 'ucf101', 'caltech101' ,'fruit' , 'mubaohiem'
+                                 'sun397', 'ucf101', 'caltech101' ,'fruit' , 'mubaohiem' , 'animal'
                                  ],
                         help='Dataset name.')
 

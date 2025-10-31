@@ -23,6 +23,7 @@ NUM_CLASSES_DICT = {
     'semi-inat-2021': 810,
     'fruit' : 2,
     'mubaohiem' : 2,
+    'animal' : 80,
 }
 
 # def load_dataset(dataset, dataset_root, split, preprocess, tokenized_text_prompts,
@@ -170,6 +171,9 @@ class MyDataset(Dataset):
         label = self.data[i][1]
         source = self.data[i][2] # 0 for retrived data, 1 for fewshot data
         img = self.transform(img)
+
+
+
         # tokenized_text = self.tokenized_text_prompts[str(label)]['all'][:1] # use only the first prompt
         tokenized_text = self.tokenized_text_prompts[str(label)]['all'] # use all prompts
         # print('tokenized_text:', tokenized_text.shape)

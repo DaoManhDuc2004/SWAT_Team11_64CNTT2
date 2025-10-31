@@ -1,2 +1,11 @@
+#Chạy cái nào thì mở comment cái đó, chứ đừng có mở comment hết  , k dùng thì comment lại
+# Chạy cho mũ bảo hiểm
 dataset_path: C:/Dataset/Mubaohiem
 retrieved_path: C:/Dataset/Mubaohiem/retrieved
+# Chạy cho fruit
+# dataset_path: C:/Fruits
+# retrieved_path: C:/Fruits/retrieved
+
+# Chạy cho animal
+# dataset_path: C:/animal
+# retrieved_path: C:/animal/retrieved

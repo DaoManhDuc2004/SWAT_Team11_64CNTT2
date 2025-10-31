@@ -9,7 +9,9 @@ def get_prompts_tensors(args, model, tokenizer, logger):
     # metric_fn = f'{dataset_root}/{args.dataset}_metrics-{args.database.upper()}.json'
     #Sửa mỗi lần chạy 1 cái khác
     # THAY THẾ TOÀN BỘ LOGIC CŨ BẰNG DÒNG NÀY
-    metric_fn = "D:/thuyloiuniversity/Mon hoc tren lop/BigData/SWAT/data/fruit/archive_metrics.json"
+    #metric_fn = "D:/thuyloiuniversity/Mon hoc tren lop/BigData/SWAT/data/animal/archive_metrics.json"
+    metric_fn = f"D:/thuyloiuniversity/Mon hoc tren lop/BigData/SWAT/data/{args.dataset}/archive_metrics.json"
+
 
     # (Tùy chọn nhưng nên có) Kiểm tra xem file có tồn tại không để báo lỗi sớm hơn
     if not os.path.exists(metric_fn):
@@ -19,6 +21,12 @@ def get_prompts_tensors(args, model, tokenizer, logger):
     # Sửa dòng with open để an toàn hơn với tiếng Việt
     with open(metric_fn, 'r', encoding='utf-8') as f:
         metrics = json.load(f)
+        logger.info(f'Metrics keys: {list(metrics.keys())[:10]}...')
+
+    # Nếu chỉ có 0,1 thì cảnh báo
+    if len(metrics.keys()) <= 2:
+        logger.warning(f"⚠️ Warning: metrics chỉ có {len(metrics)} lớp. "
+                    f"Hãy kiểm tra file metrics trong data/{args.dataset}/archive_metrics.json")
 
     logger.info(f'Loaded metrics from: {metric_fn}')
     logger.info(f'len(metrics): {len(metrics)}')
@@ -384,6 +392,16 @@ mubaohiem_templates = [
     "a photo of the person {}.",
 ]
 
+animal_templates = [
+    "a photo of an animal {}.",
+    "a drawing of an animal {}.",
+    "a realistic photo of an animal {}.",
+    "a cartoon of an animal {}.",
+    "a sculpture of an animal {}.",
+    "a painting of an animal {}.",
+    "a photo of the animal {}.",
+]
+
 fruit_templates = [
     "a photo of a {} fruit.",
     "a painting of a {} fruit.",
@@ -412,6 +430,7 @@ TEMPLATES_DIC = {
     'sun397': sun397_templates,
     'mubaohiem':mubaohiem_templates,
     'fruit' : fruit_templates,
+    'animal' : animal_templates,
 }
 
 

@@ -7,10 +7,10 @@ import random
 
 # 1. Đường dẫn đến thư mục gốc chứa ảnh đã truy xuất (retrieved)
 #    Script sẽ tự động tìm các thư mục con bên trong (Mega_Blueberry, Mega_Peach)
-ROOT_RETRIEVED_FOLDER = 'C:/Dataset/Mubaohiem/retrieved'
+ROOT_RETRIEVED_FOLDER = 'C:/animal/retrieved'
 
 # 2. Đường dẫn đến thư mục bạn muốn lưu các file .txt
-OUTPUT_FOLDER = 'D:/thuyloiuniversity/Mon hoc tren lop/BigData/SWAT/data/mubaohiem'
+OUTPUT_FOLDER = 'D:/thuyloiuniversity/Mon hoc tren lop/BigData/SWAT/data/animal'
 
 # 3. Giới hạn số lượng ảnh lấy từ mỗi lớp
 MAX_IMAGES_PER_CLASS = 500

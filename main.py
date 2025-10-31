@@ -1,5 +1,6 @@
 import os
 import torch
+from torch.utils.data import DataLoader
 from utils.models import set_model, set_classifier, MyLinear, save_test_scores, save_best_model#, save_head_weights
 import time
 import numpy as np
@@ -13,6 +14,10 @@ import copy
 from utils.losses import set_loss
 import torch.nn.functional as F
 import cv2
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+from MapReduce import run_mapreduce_extraction
+from multiprocessing import set_start_method
 from utils.training import set_training_seed, train_probing, run_zeroshot, train_CMLP, \
     train_dataset_cls, train_ce, train_cutmix, train_flyp, train_ce_mixed, train_fixmatch, \
     train_ce_multitask, train_mixup, train_mixup_fs, train_cutmix_fs2, train_resizemix, \
@@ -398,7 +403,6 @@ def run_stage1_finetuning(args, logger, model, preprocess, tokenized_text_prompt
     return test_acc, best_model_path, test_loader_copy, wsft_test_acc
 
 
-
 def run_stage2_probing(model, stage1_best_model_path, test_loader, tokenized_text_prompts, preprocess):
 
     logger.info(f"Run stage 2 classifier retraining ......")
@@ -406,16 +410,61 @@ def run_stage2_probing(model, stage1_best_model_path, test_loader, tokenized_tex
     args.model_path = stage1_best_model_path
     load_model(args, logger, model, test_loader, classifier_head)
 
-    # re-extract the train_loader, val_loader, test_loader
+    # Đây là tên các file .pth sẽ được tạo ra
     new_fewshot_fea_path = f'{args.dataset_root}/pre_extracted/{args.dataset}_{args.model_cfg}_{args.shots}_{args.seed}_fewshot_features_new.pth'
     new_test_fea_path = f'{args.dataset_root}/pre_extracted/{args.dataset}_{args.model_cfg}_{args.shots}_{args.seed}_test_features_new.pth'
+    os.makedirs(f'{args.dataset_root}/pre_extracted', exist_ok=True) # Tạo thư mục nếu chưa có
 
-    train_loader = extract_train_dataloader(args, model, args.fewshot_data, new_fewshot_fea_path,
-                                            preprocess, tokenized_text_prompts, args.bsz)
-    val_loader = train_loader
-    test_loader = extract_dataloader(args, model, args.test_split, new_test_fea_path,
-                                     preprocess, tokenized_text_prompts)
-    logger.info(f'Extracted train, val, test dataloader for stage 2 training.')
+    # Lấy đường dẫn file .txt gốc
+    # parser.py tạo: args.fewshot_data = [['fewshotX_seedY.txt'], [dataset_path]]
+    # parser.py tạo: args.test_split = [['test.txt'], [dataset_path]]
+    # parser.py tạo: args.dataset_root = 'data/tên_dataset'
+    
+    # Đường dẫn đầy đủ đến file txt
+    fewshot_txt_path = os.path.join(args.dataset_root, args.fewshot_data[0][0])
+    test_txt_path = os.path.join(args.dataset_root, args.test_split[0][0])
+
+    logger.info("Bat dau trich xuat dac trung (Stage 2) bang MapReduce...")
+    
+    # ----- GỌI LOGIC MAPREDUCE THAY VÌ EXTRACT_DATALOADER -----
+    
+    # 1. Chạy MapReduce cho file fewshot (dùng làm train và val)
+    success1 = run_mapreduce_extraction(
+        model_path=stage1_best_model_path,
+        target_file_path=fewshot_txt_path,
+        num_processes=6,  # <--- Dùng CPU
+        cli_args=args,
+        output_file_path=new_fewshot_fea_path
+    )
+    
+    # 2. Chạy MapReduce cho file test
+    success2 = run_mapreduce_extraction(
+        model_path=stage1_best_model_path,
+        target_file_path=test_txt_path,
+        num_processes=6,  # <--- Dùng CPU
+        cli_args=args,
+        output_file_path=new_test_fea_path
+    )
+    
+    if not (success1 and success2):
+        logger.error("Lỗi trong quá trình trích xuất MapReduce. Dừng Stage 2.")
+        return -1, "MapReduce Failed"
+
+    # ----- KẾT THÚC THAY THẾ -----
+
+    logger.info(f'Da trich xuat xong. Dang tai dac trung vao TensorDataset...')
+    
+    # Import TensorDataset (có thể bạn cần thêm vào đầu file main.py)
+    from utils.datasets.dataset_utils import TensorDataset 
+    
+    train_dataset = TensorDataset(pre_extracted_path=new_fewshot_fea_path, device=args.device)
+    train_loader = DataLoader(train_dataset, batch_size=args.bsz, shuffle=True, drop_last=False, num_workers=0)
+    val_loader = train_loader #  (dùng chung cho probing)
+    
+    test_dataset = TensorDataset(pre_extracted_path=new_test_fea_path, device=args.device)
+    test_loader = DataLoader(test_dataset, batch_size=args.bsz, shuffle=False, drop_last=False, num_workers=0)
+
+    logger.info(f'Đa tai xong Dataloaders từ file dac trung.')
 
     # reset the pre_extracted flag
     args.method = 'probing'
@@ -435,10 +484,12 @@ def run_stage2_probing(model, stage1_best_model_path, test_loader, tokenized_tex
     args.scheduler = scheduler
 
     #---------- Training
+    # Hàm train_probing này sẽ chạy bình thường
+    # vì nó nhận pre_extracted=True và DataLoader đã sẵn sàng
     best_model, best_head, best_records, _, _, _ = train_probing(args, logger, loss_logger, model, classifier_head,
                                                                  tokenized_text_prompts, preprocess,
                                                                  train_loader, val_loader, test_loader,
-                                                                 reload_model=False)
+                                                                 reload_model=False) # Đặt False vì model đã được load ở trên
 
     # test the best model after probing
     test_acc, test_loss, test_confusion_matrix = validate(args,data_loader=test_loader,
@@ -542,7 +593,7 @@ def run_stage2_FSFT(model, stage1_best_model_path, test_loader):
 
 
 if __name__ == '__main__':
-
+    set_start_method('spawn', force=True)
     program_start = time.time()
     args = parse_args()
     logger, loss_logger = set_logger(args)

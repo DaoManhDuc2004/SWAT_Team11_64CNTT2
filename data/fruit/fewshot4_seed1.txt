@@ -1,8 +1,8 @@
-C:/Fruits/train/Mega_Bluberry/00680.png 0
-C:/Fruits/train/Mega_Peach/01025.png 1
-C:/Fruits/train/Mega_Peach/01545.png 1
-C:/Fruits/train/Mega_Peach/01424.png 1
-C:/Fruits/train/Mega_Peach/01756.png 1
-C:/Fruits/train/Mega_Bluberry/00274.png 0
-C:/Fruits/train/Mega_Bluberry/01746.png 0
-C:/Fruits/train/Mega_Bluberry/01427.png 0
+C:/Fruits/train/Mega_Bluberry/00680.png 0 1
+C:/Fruits/train/Mega_Peach/01025.png 1 1
+C:/Fruits/train/Mega_Peach/01545.png 1 1
+C:/Fruits/train/Mega_Peach/01424.png 1 1
+C:/Fruits/train/Mega_Peach/01756.png 1 1
+C:/Fruits/train/Mega_Bluberry/00274.png 0 1
+C:/Fruits/train/Mega_Bluberry/01746.png 0 1
+C:/Fruits/train/Mega_Bluberry/01427.png 0 1

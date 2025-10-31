@@ -1,0 +1,1202 @@
+{
+    "0": {
+        "most_common_name": "Bear",
+        "prompts": [
+            "a photo of a bear.",
+            "a photo of the bear.",
+            "a painting of a bear.",
+            "a painting of the bear.",
+            "a sculpture of a bear.",
+            "a sculpture of the bear.",
+            "a drawing of a bear.",
+            "a drawing of the bear.",
+            "a cartoon bear.",
+            "a toy bear."
+        ]
+    },
+    "1": {
+        "most_common_name": "Brown bear",
+        "prompts": [
+            "a photo of a brown bear.",
+            "a photo of the brown bear.",
+            "a painting of a brown bear.",
+            "a painting of the brown bear.",
+            "a sculpture of a brown bear.",
+            "a sculpture of the brown bear.",
+            "a drawing of a brown bear.",
+            "a drawing of the brown bear.",
+            "a cartoon brown bear.",
+            "a toy brown bear."
+        ]
+    },
+    "2": {
+        "most_common_name": "Bull",
+        "prompts": [
+            "a photo of a bull.",
+            "a photo of the bull.",
+            "a painting of a bull.",
+            "a painting of the bull.",
+            "a sculpture of a bull.",
+            "a sculpture of the bull.",
+            "a drawing of a bull.",
+            "a drawing of the bull.",
+            "a cartoon bull.",
+            "a toy bull."
+        ]
+    },
+    "3": {
+        "most_common_name": "Butterfly",
+        "prompts": [
+            "a photo of a butterfly.",
+            "a photo of the butterfly.",
+            "a painting of a butterfly.",
+            "a painting of the butterfly.",
+            "a sculpture of a butterfly.",
+            "a sculpture of the butterfly.",
+            "a drawing of a butterfly.",
+            "a drawing of the butterfly.",
+            "a cartoon butterfly.",
+            "a toy butterfly."
+        ]
+    },
+    "4": {
+        "most_common_name": "Camel",
+        "prompts": [
+            "a photo of a camel.",
+            "a photo of the camel.",
+            "a painting of a camel.",
+            "a painting of the camel.",
+            "a sculpture of a camel.",
+            "a sculpture of the camel.",
+            "a drawing of a camel.",
+            "a drawing of the camel.",
+            "a cartoon camel.",
+            "a toy camel."
+        ]
+    },
+    "5": {
+        "most_common_name": "Canary",
+        "prompts": [
+            "a photo of a canary.",
+            "a photo of the canary.",
+            "a painting of a canary.",
+            "a painting of the canary.",
+            "a sculpture of a canary.",
+            "a sculpture of the canary.",
+            "a drawing of a canary.",
+            "a drawing of the canary.",
+            "a cartoon canary.",
+            "a toy canary."
+        ]
+    },
+    "6": {
+        "most_common_name": "Caterpillar",
+        "prompts": [
+            "a photo of a caterpillar.",
+            "a photo of the caterpillar.",
+            "a painting of a caterpillar.",
+            "a painting of the caterpillar.",
+            "a sculpture of a caterpillar.",
+            "a sculpture of the caterpillar.",
+            "a drawing of a caterpillar.",
+            "a drawing of the caterpillar.",
+            "a cartoon caterpillar.",
+            "a toy caterpillar."
+        ]
+    },
+    "7": {
+        "most_common_name": "Cattle",
+        "prompts": [
+            "a photo of a cattle.",
+            "a photo of the cattle.",
+            "a painting of a cattle.",
+            "a painting of the cattle.",
+            "a sculpture of a cattle.",
+            "a sculpture of the cattle.",
+            "a drawing of a cattle.",
+            "a drawing of the cattle.",
+            "a cartoon cattle.",
+            "a toy cattle."
+        ]
+    },
+    "8": {
+        "most_common_name": "Centipede",
+        "prompts": [
+            "a photo of a centipede.",
+            "a photo of the centipede.",
+            "a painting of a centipede.",
+            "a painting of the centipede.",
+            "a sculpture of a centipede.",
+            "a sculpture of the centipede.",
+            "a drawing of a centipede.",
+            "a drawing of the centipede.",
+            "a cartoon centipede.",
+            "a toy centipede."
+        ]
+    },
+    "9": {
+        "most_common_name": "Cheetah",
+        "prompts": [
+            "a photo of a cheetah.",
+            "a photo of the cheetah.",
+            "a painting of a cheetah.",
+            "a painting of the cheetah.",
+            "a sculpture of a cheetah.",
+            "a sculpture of the cheetah.",
+            "a drawing of a cheetah.",
+            "a drawing of the cheetah.",
+            "a cartoon cheetah.",
+            "a toy cheetah."
+        ]
+    },
+    "10": {
+        "most_common_name": "Chicken",
+        "prompts": [
+            "a photo of a chicken.",
+            "a photo of the chicken.",
+            "a painting of a chicken.",
+            "a painting of the chicken.",
+            "a sculpture of a chicken.",
+            "a sculpture of the chicken.",
+            "a drawing of a chicken.",
+            "a drawing of the chicken.",
+            "a cartoon chicken.",
+            "a toy chicken."
+        ]
+    },
+    "11": {
+        "most_common_name": "Crab",
+        "prompts": [
+            "a photo of a crab.",
+            "a photo of the crab.",
+            "a painting of a crab.",
+            "a painting of the crab.",
+            "a sculpture of a crab.",
+            "a sculpture of the crab.",
+            "a drawing of a crab.",
+            "a drawing of the crab.",
+            "a cartoon crab.",
+            "a toy crab."
+        ]
+    },
+    "12": {
+        "most_common_name": "Crocodile",
+        "prompts": [
+            "a photo of a crocodile.",
+            "a photo of the crocodile.",
+            "a painting of a crocodile.",
+            "a painting of the crocodile.",
+            "a sculpture of a crocodile.",
+            "a sculpture of the crocodile.",
+            "a drawing of a crocodile.",
+            "a drawing of the crocodile.",
+            "a cartoon crocodile.",
+            "a toy crocodile."
+        ]
+    },
+    "13": {
+        "most_common_name": "Deer",
+        "prompts": [
+            "a photo of a deer.",
+            "a photo of the deer.",
+            "a painting of a deer.",
+            "a painting of the deer.",
+            "a sculpture of a deer.",
+            "a sculpture of the deer.",
+            "a drawing of a deer.",
+            "a drawing of the deer.",
+            "a cartoon deer.",
+            "a toy deer."
+        ]
+    },
+    "14": {
+        "most_common_name": "Duck",
+        "prompts": [
+            "a photo of a duck.",
+            "a photo of the duck.",
+            "a painting of a duck.",
+            "a painting of the duck.",
+            "a sculpture of a duck.",
+            "a sculpture of the duck.",
+            "a drawing of a duck.",
+            "a drawing of the duck.",
+            "a cartoon duck.",
+            "a toy duck."
+        ]
+    },
+    "15": {
+        "most_common_name": "Eagle",
+        "prompts": [
+            "a photo of a eagle.",
+            "a photo of the eagle.",
+            "a painting of a eagle.",
+            "a painting of the eagle.",
+            "a sculpture of a eagle.",
+            "a sculpture of the eagle.",
+            "a drawing of a eagle.",
+            "a drawing of the eagle.",
+            "a cartoon eagle.",
+            "a toy eagle."
+        ]
+    },
+    "16": {
+        "most_common_name": "Elephant",
+        "prompts": [
+            "a photo of a elephant.",
+            "a photo of the elephant.",
+            "a painting of a elephant.",
+            "a painting of the elephant.",
+            "a sculpture of a elephant.",
+            "a sculpture of the elephant.",
+            "a drawing of a elephant.",
+            "a drawing of the elephant.",
+            "a cartoon elephant.",
+            "a toy elephant."
+        ]
+    },
+    "17": {
+        "most_common_name": "Fish",
+        "prompts": [
+            "a photo of a fish.",
+            "a photo of the fish.",
+            "a painting of a fish.",
+            "a painting of the fish.",
+            "a sculpture of a fish.",
+            "a sculpture of the fish.",
+            "a drawing of a fish.",
+            "a drawing of the fish.",
+            "a cartoon fish.",
+            "a toy fish."
+        ]
+    },
+    "18": {
+        "most_common_name": "Fox",
+        "prompts": [
+            "a photo of a fox.",
+            "a photo of the fox.",
+            "a painting of a fox.",
+            "a painting of the fox.",
+            "a sculpture of a fox.",
+            "a sculpture of the fox.",
+            "a drawing of a fox.",
+            "a drawing of the fox.",
+            "a cartoon fox.",
+            "a toy fox."
+        ]
+    },
+    "19": {
+        "most_common_name": "Frog",
+        "prompts": [
+            "a photo of a frog.",
+            "a photo of the frog.",
+            "a painting of a frog.",
+            "a painting of the frog.",
+            "a sculpture of a frog.",
+            "a sculpture of the frog.",
+            "a drawing of a frog.",
+            "a drawing of the frog.",
+            "a cartoon frog.",
+            "a toy frog."
+        ]
+    },
+    "20": {
+        "most_common_name": "Giraffe",
+        "prompts": [
+            "a photo of a giraffe.",
+            "a photo of the giraffe.",
+            "a painting of a giraffe.",
+            "a painting of the giraffe.",
+            "a sculpture of a giraffe.",
+            "a sculpture of the giraffe.",
+            "a drawing of a giraffe.",
+            "a drawing of the giraffe.",
+            "a cartoon giraffe.",
+            "a toy giraffe."
+        ]
+    },
+    "21": {
+        "most_common_name": "Goat",
+        "prompts": [
+            "a photo of a goat.",
+            "a photo of the goat.",
+            "a painting of a goat.",
+            "a painting of the goat.",
+            "a sculpture of a goat.",
+            "a sculpture of the goat.",
+            "a drawing of a goat.",
+            "a drawing of the goat.",
+            "a cartoon goat.",
+            "a toy goat."
+        ]
+    },
+    "22": {
+        "most_common_name": "Goldfish",
+        "prompts": [
+            "a photo of a goldfish.",
+            "a photo of the goldfish.",
+            "a painting of a goldfish.",
+            "a painting of the goldfish.",
+            "a sculpture of a goldfish.",
+            "a sculpture of the goldfish.",
+            "a drawing of a goldfish.",
+            "a drawing of the goldfish.",
+            "a cartoon goldfish.",
+            "a toy goldfish."
+        ]
+    },
+    "23": {
+        "most_common_name": "Goose",
+        "prompts": [
+            "a photo of a goose.",
+            "a photo of the goose.",
+            "a painting of a goose.",
+            "a painting of the goose.",
+            "a sculpture of a goose.",
+            "a sculpture of the goose.",
+            "a drawing of a goose.",
+            "a drawing of the goose.",
+            "a cartoon goose.",
+            "a toy goose."
+        ]
+    },
+    "24": {
+        "most_common_name": "Hamster",
+        "prompts": [
+            "a photo of a hamster.",
+            "a photo of the hamster.",
+            "a painting of a hamster.",
+            "a painting of the hamster.",
+            "a sculpture of a hamster.",
+            "a sculpture of the hamster.",
+            "a drawing of a hamster.",
+            "a drawing of the hamster.",
+            "a cartoon hamster.",
+            "a toy hamster."
+        ]
+    },
+    "25": {
+        "most_common_name": "Harbor seal",
+        "prompts": [
+            "a photo of a harbor seal.",
+            "a photo of the harbor seal.",
+            "a painting of a harbor seal.",
+            "a painting of the harbor seal.",
+            "a sculpture of a harbor seal.",
+            "a sculpture of the harbor seal.",
+            "a drawing of a harbor seal.",
+            "a drawing of the harbor seal.",
+            "a cartoon harbor seal.",
+            "a toy harbor seal."
+        ]
+    },
+    "26": {
+        "most_common_name": "Hedgehog",
+        "prompts": [
+            "a photo of a hedgehog.",
+            "a photo of the hedgehog.",
+            "a painting of a hedgehog.",
+            "a painting of the hedgehog.",
+            "a sculpture of a hedgehog.",
+            "a sculpture of the hedgehog.",
+            "a drawing of a hedgehog.",
+            "a drawing of the hedgehog.",
+            "a cartoon hedgehog.",
+            "a toy hedgehog."
+        ]
+    },
+    "27": {
+        "most_common_name": "Hippopotamus",
+        "prompts": [
+            "a photo of a hippopotamus.",
+            "a photo of the hippopotamus.",
+            "a painting of a hippopotamus.",
+            "a painting of the hippopotamus.",
+            "a sculpture of a hippopotamus.",
+            "a sculpture of the hippopotamus.",
+            "a drawing of a hippopotamus.",
+            "a drawing of the hippopotamus.",
+            "a cartoon hippopotamus.",
+            "a toy hippopotamus."
+        ]
+    },
+    "28": {
+        "most_common_name": "Horse",
+        "prompts": [
+            "a photo of a horse.",
+            "a photo of the horse.",
+            "a painting of a horse.",
+            "a painting of the horse.",
+            "a sculpture of a horse.",
+            "a sculpture of the horse.",
+            "a drawing of a horse.",
+            "a drawing of the horse.",
+            "a cartoon horse.",
+            "a toy horse."
+        ]
+    },
+    "29": {
+        "most_common_name": "Jaguar",
+        "prompts": [
+            "a photo of a jaguar.",
+            "a photo of the jaguar.",
+            "a painting of a jaguar.",
+            "a painting of the jaguar.",
+            "a sculpture of a jaguar.",
+            "a sculpture of the jaguar.",
+            "a drawing of a jaguar.",
+            "a drawing of the jaguar.",
+            "a cartoon jaguar.",
+            "a toy jaguar."
+        ]
+    },
+    "30": {
+        "most_common_name": "Jellyfish",
+        "prompts": [
+            "a photo of a jellyfish.",
+            "a photo of the jellyfish.",
+            "a painting of a jellyfish.",
+            "a painting of the jellyfish.",
+            "a sculpture of a jellyfish.",
+            "a sculpture of the jellyfish.",
+            "a drawing of a jellyfish.",
+            "a drawing of the jellyfish.",
+            "a cartoon jellyfish.",
+            "a toy jellyfish."
+        ]
+    },
+    "31": {
+        "most_common_name": "Kangaroo",
+        "prompts": [
+            "a photo of a kangaroo.",
+            "a photo of the kangaroo.",
+            "a painting of a kangaroo.",
+            "a painting of the kangaroo.",
+            "a sculpture of a kangaroo.",
+            "a sculpture of the kangaroo.",
+            "a drawing of a kangaroo.",
+            "a drawing of the kangaroo.",
+            "a cartoon kangaroo.",
+            "a toy kangaroo."
+        ]
+    },
+    "32": {
+        "most_common_name": "Koala",
+        "prompts": [
+            "a photo of a koala.",
+            "a photo of the koala.",
+            "a painting of a koala.",
+            "a painting of the koala.",
+            "a sculpture of a koala.",
+            "a sculpture of the koala.",
+            "a drawing of a koala.",
+            "a drawing of the koala.",
+            "a cartoon koala.",
+            "a toy koala."
+        ]
+    },
+    "33": {
+        "most_common_name": "Ladybug",
+        "prompts": [
+            "a photo of a ladybug.",
+            "a photo of the ladybug.",
+            "a painting of a ladybug.",
+            "a painting of the ladybug.",
+            "a sculpture of a ladybug.",
+            "a sculpture of the ladybug.",
+            "a drawing of a ladybug.",
+            "a drawing of the ladybug.",
+            "a cartoon ladybug.",
+            "a toy ladybug."
+        ]
+    },
+    "34": {
+        "most_common_name": "Leopard",
+        "prompts": [
+            "a photo of a leopard.",
+            "a photo of the leopard.",
+            "a painting of a leopard.",
+            "a painting of the leopard.",
+            "a sculpture of a leopard.",
+            "a sculpture of the leopard.",
+            "a drawing of a leopard.",
+            "a drawing of the leopard.",
+            "a cartoon leopard.",
+            "a toy leopard."
+        ]
+    },
+    "35": {
+        "most_common_name": "Lion",
+        "prompts": [
+            "a photo of a lion.",
+            "a photo of the lion.",
+            "a painting of a lion.",
+            "a painting of the lion.",
+            "a sculpture of a lion.",
+            "a sculpture of the lion.",
+            "a drawing of a lion.",
+            "a drawing of the lion.",
+            "a cartoon lion.",
+            "a toy lion."
+        ]
+    },
+    "36": {
+        "most_common_name": "Lizard",
+        "prompts": [
+            "a photo of a lizard.",
+            "a photo of the lizard.",
+            "a painting of a lizard.",
+            "a painting of the lizard.",
+            "a sculpture of a lizard.",
+            "a sculpture of the lizard.",
+            "a drawing of a lizard.",
+            "a drawing of the lizard.",
+            "a cartoon lizard.",
+            "a toy lizard."
+        ]
+    },
+    "37": {
+        "most_common_name": "Lynx",
+        "prompts": [
+            "a photo of a lynx.",
+            "a photo of the lynx.",
+            "a painting of a lynx.",
+            "a painting of the lynx.",
+            "a sculpture of a lynx.",
+            "a sculpture of the lynx.",
+            "a drawing of a lynx.",
+            "a drawing of the lynx.",
+            "a cartoon lynx.",
+            "a toy lynx."
+        ]
+    },
+    "38": {
+        "most_common_name": "Magpie",
+        "prompts": [
+            "a photo of a magpie.",
+            "a photo of the magpie.",
+            "a painting of a magpie.",
+            "a painting of the magpie.",
+            "a sculpture of a magpie.",
+            "a sculpture of the magpie.",
+            "a drawing of a magpie.",
+            "a drawing of the magpie.",
+            "a cartoon magpie.",
+            "a toy magpie."
+        ]
+    },
+    "39": {
+        "most_common_name": "Monkey",
+        "prompts": [
+            "a photo of a monkey.",
+            "a photo of the monkey.",
+            "a painting of a monkey.",
+            "a painting of the monkey.",
+            "a sculpture of a monkey.",
+            "a sculpture of the monkey.",
+            "a drawing of a monkey.",
+            "a drawing of the monkey.",
+            "a cartoon monkey.",
+            "a toy monkey."
+        ]
+    },
+    "40": {
+        "most_common_name": "Moths and butterflies",
+        "prompts": [
+            "a photo of a moths and butterflies.",
+            "a photo of the moths and butterflies.",
+            "a painting of a moths and butterflies.",
+            "a painting of the moths and butterflies.",
+            "a sculpture of a moths and butterflies.",
+            "a sculpture of the moths and butterflies.",
+            "a drawing of a moths and butterflies.",
+            "a drawing of the moths and butterflies.",
+            "a cartoon moths and butterflies.",
+            "a toy moths and butterflies."
+        ]
+    },
+    "41": {
+        "most_common_name": "Mouse",
+        "prompts": [
+            "a photo of a mouse.",
+            "a photo of the mouse.",
+            "a painting of a mouse.",
+            "a painting of the mouse.",
+            "a sculpture of a mouse.",
+            "a sculpture of the mouse.",
+            "a drawing of a mouse.",
+            "a drawing of the mouse.",
+            "a cartoon mouse.",
+            "a toy mouse."
+        ]
+    },
+    "42": {
+        "most_common_name": "Mule",
+        "prompts": [
+            "a photo of a mule.",
+            "a photo of the mule.",
+            "a painting of a mule.",
+            "a painting of the mule.",
+            "a sculpture of a mule.",
+            "a sculpture of the mule.",
+            "a drawing of a mule.",
+            "a drawing of the mule.",
+            "a cartoon mule.",
+            "a toy mule."
+        ]
+    },
+    "43": {
+        "most_common_name": "Ostrich",
+        "prompts": [
+            "a photo of a ostrich.",
+            "a photo of the ostrich.",
+            "a painting of a ostrich.",
+            "a painting of the ostrich.",
+            "a sculpture of a ostrich.",
+            "a sculpture of the ostrich.",
+            "a drawing of a ostrich.",
+            "a drawing of the ostrich.",
+            "a cartoon ostrich.",
+            "a toy ostrich."
+        ]
+    },
+    "44": {
+        "most_common_name": "Otter",
+        "prompts": [
+            "a photo of a otter.",
+            "a photo of the otter.",
+            "a painting of a otter.",
+            "a painting of the otter.",
+            "a sculpture of a otter.",
+            "a sculpture of the otter.",
+            "a drawing of a otter.",
+            "a drawing of the otter.",
+            "a cartoon otter.",
+            "a toy otter."
+        ]
+    },
+    "45": {
+        "most_common_name": "Owl",
+        "prompts": [
+            "a photo of a owl.",
+            "a photo of the owl.",
+            "a painting of a owl.",
+            "a painting of the owl.",
+            "a sculpture of a owl.",
+            "a sculpture of the owl.",
+            "a drawing of a owl.",
+            "a drawing of the owl.",
+            "a cartoon owl.",
+            "a toy owl."
+        ]
+    },
+    "46": {
+        "most_common_name": "Panda",
+        "prompts": [
+            "a photo of a panda.",
+            "a photo of the panda.",
+            "a painting of a panda.",
+            "a painting of the panda.",
+            "a sculpture of a panda.",
+            "a sculpture of the panda.",
+            "a drawing of a panda.",
+            "a drawing of the panda.",
+            "a cartoon panda.",
+            "a toy panda."
+        ]
+    },
+    "47": {
+        "most_common_name": "Parrot",
+        "prompts": [
+            "a photo of a parrot.",
+            "a photo of the parrot.",
+            "a painting of a parrot.",
+            "a painting of the parrot.",
+            "a sculpture of a parrot.",
+            "a sculpture of the parrot.",
+            "a drawing of a parrot.",
+            "a drawing of the parrot.",
+            "a cartoon parrot.",
+            "a toy parrot."
+        ]
+    },
+    "48": {
+        "most_common_name": "Penguin",
+        "prompts": [
+            "a photo of a penguin.",
+            "a photo of the penguin.",
+            "a painting of a penguin.",
+            "a painting of the penguin.",
+            "a sculpture of a penguin.",
+            "a sculpture of the penguin.",
+            "a drawing of a penguin.",
+            "a drawing of the penguin.",
+            "a cartoon penguin.",
+            "a toy penguin."
+        ]
+    },
+    "49": {
+        "most_common_name": "Pig",
+        "prompts": [
+            "a photo of a pig.",
+            "a photo of the pig.",
+            "a painting of a pig.",
+            "a painting of the pig.",
+            "a sculpture of a pig.",
+            "a sculpture of the pig.",
+            "a drawing of a pig.",
+            "a drawing of the pig.",
+            "a cartoon pig.",
+            "a toy pig."
+        ]
+    },
+    "50": {
+        "most_common_name": "Polar bear",
+        "prompts": [
+            "a photo of a polar bear.",
+            "a photo of the polar bear.",
+            "a painting of a polar bear.",
+            "a painting of the polar bear.",
+            "a sculpture of a polar bear.",
+            "a sculpture of the polar bear.",
+            "a drawing of a polar bear.",
+            "a drawing of the polar bear.",
+            "a cartoon polar bear.",
+            "a toy polar bear."
+        ]
+    },
+    "51": {
+        "most_common_name": "Rabbit",
+        "prompts": [
+            "a photo of a rabbit.",
+            "a photo of the rabbit.",
+            "a painting of a rabbit.",
+            "a painting of the rabbit.",
+            "a sculpture of a rabbit.",
+            "a sculpture of the rabbit.",
+            "a drawing of a rabbit.",
+            "a drawing of the rabbit.",
+            "a cartoon rabbit.",
+            "a toy rabbit."
+        ]
+    },
+    "52": {
+        "most_common_name": "Raccoon",
+        "prompts": [
+            "a photo of a raccoon.",
+            "a photo of the raccoon.",
+            "a painting of a raccoon.",
+            "a painting of the raccoon.",
+            "a sculpture of a raccoon.",
+            "a sculpture of the raccoon.",
+            "a drawing of a raccoon.",
+            "a drawing of the raccoon.",
+            "a cartoon raccoon.",
+            "a toy raccoon."
+        ]
+    },
+    "53": {
+        "most_common_name": "Raven",
+        "prompts": [
+            "a photo of a raven.",
+            "a photo of the raven.",
+            "a painting of a raven.",
+            "a painting of the raven.",
+            "a sculpture of a raven.",
+            "a sculpture of the raven.",
+            "a drawing of a raven.",
+            "a drawing of the raven.",
+            "a cartoon raven.",
+            "a toy raven."
+        ]
+    },
+    "54": {
+        "most_common_name": "Red panda",
+        "prompts": [
+            "a photo of a red panda.",
+            "a photo of the red panda.",
+            "a painting of a red panda.",
+            "a painting of the red panda.",
+            "a sculpture of a red panda.",
+            "a sculpture of the red panda.",
+            "a drawing of a red panda.",
+            "a drawing of the red panda.",
+            "a cartoon red panda.",
+            "a toy red panda."
+        ]
+    },
+    "55": {
+        "most_common_name": "Rhinoceros",
+        "prompts": [
+            "a photo of a rhinoceros.",
+            "a photo of the rhinoceros.",
+            "a painting of a rhinoceros.",
+            "a painting of the rhinoceros.",
+            "a sculpture of a rhinoceros.",
+            "a sculpture of the rhinoceros.",
+            "a drawing of a rhinoceros.",
+            "a drawing of the rhinoceros.",
+            "a cartoon rhinoceros.",
+            "a toy rhinoceros."
+        ]
+    },
+    "56": {
+        "most_common_name": "Scorpion",
+        "prompts": [
+            "a photo of a scorpion.",
+            "a photo of the scorpion.",
+            "a painting of a scorpion.",
+            "a painting of the scorpion.",
+            "a sculpture of a scorpion.",
+            "a sculpture of the scorpion.",
+            "a drawing of a scorpion.",
+            "a drawing of the scorpion.",
+            "a cartoon scorpion.",
+            "a toy scorpion."
+        ]
+    },
+    "57": {
+        "most_common_name": "Sea lion",
+        "prompts": [
+            "a photo of a sea lion.",
+            "a photo of the sea lion.",
+            "a painting of a sea lion.",
+            "a painting of the sea lion.",
+            "a sculpture of a sea lion.",
+            "a sculpture of the sea lion.",
+            "a drawing of a sea lion.",
+            "a drawing of the sea lion.",
+            "a cartoon sea lion.",
+            "a toy sea lion."
+        ]
+    },
+    "58": {
+        "most_common_name": "Sea turtle",
+        "prompts": [
+            "a photo of a sea turtle.",
+            "a photo of the sea turtle.",
+            "a painting of a sea turtle.",
+            "a painting of the sea turtle.",
+            "a sculpture of a sea turtle.",
+            "a sculpture of the sea turtle.",
+            "a drawing of a sea turtle.",
+            "a drawing of the sea turtle.",
+            "a cartoon sea turtle.",
+            "a toy sea turtle."
+        ]
+    },
+    "59": {
+        "most_common_name": "Seahorse",
+        "prompts": [
+            "a photo of a seahorse.",
+            "a photo of the seahorse.",
+            "a painting of a seahorse.",
+            "a painting of the seahorse.",
+            "a sculpture of a seahorse.",
+            "a sculpture of the seahorse.",
+            "a drawing of a seahorse.",
+            "a drawing of the seahorse.",
+            "a cartoon seahorse.",
+            "a toy seahorse."
+        ]
+    },
+    "60": {
+        "most_common_name": "Shark",
+        "prompts": [
+            "a photo of a shark.",
+            "a photo of the shark.",
+            "a painting of a shark.",
+            "a painting of the shark.",
+            "a sculpture of a shark.",
+            "a sculpture of the shark.",
+            "a drawing of a shark.",
+            "a drawing of the shark.",
+            "a cartoon shark.",
+            "a toy shark."
+        ]
+    },
+    "61": {
+        "most_common_name": "Sheep",
+        "prompts": [
+            "a photo of a sheep.",
+            "a photo of the sheep.",
+            "a painting of a sheep.",
+            "a painting of the sheep.",
+            "a sculpture of a sheep.",
+            "a sculpture of the sheep.",
+            "a drawing of a sheep.",
+            "a drawing of the sheep.",
+            "a cartoon sheep.",
+            "a toy sheep."
+        ]
+    },
+    "62": {
+        "most_common_name": "Shrimp",
+        "prompts": [
+            "a photo of a shrimp.",
+            "a photo of the shrimp.",
+            "a painting of a shrimp.",
+            "a painting of the shrimp.",
+            "a sculpture of a shrimp.",
+            "a sculpture of the shrimp.",
+            "a drawing of a shrimp.",
+            "a drawing of the shrimp.",
+            "a cartoon shrimp.",
+            "a toy shrimp."
+        ]
+    },
+    "63": {
+        "most_common_name": "Snail",
+        "prompts": [
+            "a photo of a snail.",
+            "a photo of the snail.",
+            "a painting of a snail.",
+            "a painting of the snail.",
+            "a sculpture of a snail.",
+            "a sculpture of the snail.",
+            "a drawing of a snail.",
+            "a drawing of the snail.",
+            "a cartoon snail.",
+            "a toy snail."
+        ]
+    },
+    "64": {
+        "most_common_name": "Snake",
+        "prompts": [
+            "a photo of a snake.",
+            "a photo of the snake.",
+            "a painting of a snake.",
+            "a painting of the snake.",
+            "a sculpture of a snake.",
+            "a sculpture of the snake.",
+            "a drawing of a snake.",
+            "a drawing of the snake.",
+            "a cartoon snake.",
+            "a toy snake."
+        ]
+    },
+    "65": {
+        "most_common_name": "Sparrow",
+        "prompts": [
+            "a photo of a sparrow.",
+            "a photo of the sparrow.",
+            "a painting of a sparrow.",
+            "a painting of the sparrow.",
+            "a sculpture of a sparrow.",
+            "a sculpture of the sparrow.",
+            "a drawing of a sparrow.",
+            "a drawing of the sparrow.",
+            "a cartoon sparrow.",
+            "a toy sparrow."
+        ]
+    },
+    "66": {
+        "most_common_name": "Spider",
+        "prompts": [
+            "a photo of a spider.",
+            "a photo of the spider.",
+            "a painting of a spider.",
+            "a painting of the spider.",
+            "a sculpture of a spider.",
+            "a sculpture of the spider.",
+            "a drawing of a spider.",
+            "a drawing of the spider.",
+            "a cartoon spider.",
+            "a toy spider."
+        ]
+    },
+    "67": {
+        "most_common_name": "Squid",
+        "prompts": [
+            "a photo of a squid.",
+            "a photo of the squid.",
+            "a painting of a squid.",
+            "a painting of the squid.",
+            "a sculpture of a squid.",
+            "a sculpture of the squid.",
+            "a drawing of a squid.",
+            "a drawing of the squid.",
+            "a cartoon squid.",
+            "a toy squid."
+        ]
+    },
+    "68": {
+        "most_common_name": "Squirrel",
+        "prompts": [
+            "a photo of a squirrel.",
+            "a photo of the squirrel.",
+            "a painting of a squirrel.",
+            "a painting of the squirrel.",
+            "a sculpture of a squirrel.",
+            "a sculpture of the squirrel.",
+            "a drawing of a squirrel.",
+            "a drawing of the squirrel.",
+            "a cartoon squirrel.",
+            "a toy squirrel."
+        ]
+    },
+    "69": {
+        "most_common_name": "Starfish",
+        "prompts": [
+            "a photo of a starfish.",
+            "a photo of the starfish.",
+            "a painting of a starfish.",
+            "a painting of the starfish.",
+            "a sculpture of a starfish.",
+            "a sculpture of the starfish.",
+            "a drawing of a starfish.",
+            "a drawing of the starfish.",
+            "a cartoon starfish.",
+            "a toy starfish."
+        ]
+    },
+    "70": {
+        "most_common_name": "Swan",
+        "prompts": [
+            "a photo of a swan.",
+            "a photo of the swan.",
+            "a painting of a swan.",
+            "a painting of the swan.",
+            "a sculpture of a swan.",
+            "a sculpture of the swan.",
+            "a drawing of a swan.",
+            "a drawing of the swan.",
+            "a cartoon swan.",
+            "a toy swan."
+        ]
+    },
+    "71": {
+        "most_common_name": "Tick",
+        "prompts": [
+            "a photo of a tick.",
+            "a photo of the tick.",
+            "a painting of a tick.",
+            "a painting of the tick.",
+            "a sculpture of a tick.",
+            "a sculpture of the tick.",
+            "a drawing of a tick.",
+            "a drawing of the tick.",
+            "a cartoon tick.",
+            "a toy tick."
+        ]
+    },
+    "72": {
+        "most_common_name": "Tiger",
+        "prompts": [
+            "a photo of a tiger.",
+            "a photo of the tiger.",
+            "a painting of a tiger.",
+            "a painting of the tiger.",
+            "a sculpture of a tiger.",
+            "a sculpture of the tiger.",
+            "a drawing of a tiger.",
+            "a drawing of the tiger.",
+            "a cartoon tiger.",
+            "a toy tiger."
+        ]
+    },
+    "73": {
+        "most_common_name": "Tortoise",
+        "prompts": [
+            "a photo of a tortoise.",
+            "a photo of the tortoise.",
+            "a painting of a tortoise.",
+            "a painting of the tortoise.",
+            "a sculpture of a tortoise.",
+            "a sculpture of the tortoise.",
+            "a drawing of a tortoise.",
+            "a drawing of the tortoise.",
+            "a cartoon tortoise.",
+            "a toy tortoise."
+        ]
+    },
+    "74": {
+        "most_common_name": "Turkey",
+        "prompts": [
+            "a photo of a turkey.",
+            "a photo of the turkey.",
+            "a painting of a turkey.",
+            "a painting of the turkey.",
+            "a sculpture of a turkey.",
+            "a sculpture of the turkey.",
+            "a drawing of a turkey.",
+            "a drawing of the turkey.",
+            "a cartoon turkey.",
+            "a toy turkey."
+        ]
+    },
+    "75": {
+        "most_common_name": "Turtle",
+        "prompts": [
+            "a photo of a turtle.",
+            "a photo of the turtle.",
+            "a painting of a turtle.",
+            "a painting of the turtle.",
+            "a sculpture of a turtle.",
+            "a sculpture of the turtle.",
+            "a drawing of a turtle.",
+            "a drawing of the turtle.",
+            "a cartoon turtle.",
+            "a toy turtle."
+        ]
+    },
+    "76": {
+        "most_common_name": "Whale",
+        "prompts": [
+            "a photo of a whale.",
+            "a photo of the whale.",
+            "a painting of a whale.",
+            "a painting of the whale.",
+            "a sculpture of a whale.",
+            "a sculpture of the whale.",
+            "a drawing of a whale.",
+            "a drawing of the whale.",
+            "a cartoon whale.",
+            "a toy whale."
+        ]
+    },
+    "77": {
+        "most_common_name": "Woodpecker",
+        "prompts": [
+            "a photo of a woodpecker.",
+            "a photo of the woodpecker.",
+            "a painting of a woodpecker.",
+            "a painting of the woodpecker.",
+            "a sculpture of a woodpecker.",
+            "a sculpture of the woodpecker.",
+            "a drawing of a woodpecker.",
+            "a drawing of the woodpecker.",
+            "a cartoon woodpecker.",
+            "a toy woodpecker."
+        ]
+    },
+    "78": {
+        "most_common_name": "Worm",
+        "prompts": [
+            "a photo of a worm.",
+            "a photo of the worm.",
+            "a painting of a worm.",
+            "a painting of the worm.",
+            "a sculpture of a worm.",
+            "a sculpture of the worm.",
+            "a drawing of a worm.",
+            "a drawing of the worm.",
+            "a cartoon worm.",
+            "a toy worm."
+        ]
+    },
+    "79": {
+        "most_common_name": "Zebra",
+        "prompts": [
+            "a photo of a zebra.",
+            "a photo of the zebra.",
+            "a painting of a zebra.",
+            "a painting of the zebra.",
+            "a sculpture of a zebra.",
+            "a sculpture of the zebra.",
+            "a drawing of a zebra.",
+            "a drawing of the zebra.",
+            "a cartoon zebra.",
+            "a toy zebra."
+        ]
+    }
+}
