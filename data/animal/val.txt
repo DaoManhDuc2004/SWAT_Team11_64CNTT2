@@ -29,17 +29,17 @@ C:/animal/train/Monkey/b692b561b0f9bc86.jpg 39 1
 C:/animal/train/Shark/2ac5ef1149dd35e2.jpg 60 1
 C:/animal/train/Lizard/0cc767a24d4cf13a.jpg 36 1
 C:/animal/train/Caterpillar/8fd8e30496d04847.jpg 6 1
-C:/animal/train/Moths and butterflies/33257a16496114b8.jpg 40 1
+C:/animal/train/Mothsandbutterflies/33257a16496114b8.jpg 40 1
 C:/animal/train/Lizard/52305f54e90dfc28.jpg 36 1
 C:/animal/train/Woodpecker/59529f4d1ce7ff90.jpg 77 1
 C:/animal/train/Parrot/d79a47daa7559674.jpg 47 1
 C:/animal/train/Caterpillar/2813aaa57d44bfae.jpg 6 1
 C:/animal/train/Eagle/28e2ec3e5bf2bd6e.jpg 15 1
-C:/animal/train/Moths and butterflies/871e8aa6952e03c9.jpg 40 1
+C:/animal/train/Mothsandbutterflies/871e8aa6952e03c9.jpg 40 1
 C:/animal/train/Duck/b698d242bdcce703.jpg 14 1
 C:/animal/train/Butterfly/070527183bf53465.jpg 3 1
 C:/animal/train/Panda/651e8652b4beb13f.jpg 46 1
-C:/animal/train/Sea turtle/57ea55c00d9ad5c7.jpg 58 1
+C:/animal/train/Seaturtle/552aef7f233931da.jpg 59 1
 C:/animal/train/Chicken/0dd714bee3fa8362.jpg 10 1
 C:/animal/train/Ostrich/f4c6f55f5b3fc305.jpg 43 1
 C:/animal/train/Chicken/11852b277eaa8051.jpg 10 1
@@ -50,12 +50,12 @@ C:/animal/train/Swan/d32841f9a0815016.jpg 70 1
 C:/animal/train/Butterfly/66609edb9d950884.jpg 3 1
 C:/animal/train/Rabbit/03390fac9fdfdbe7.jpg 51 1
 C:/animal/train/Eagle/16131ce7bbe014d1.jpg 15 1
-C:/animal/train/Moths and butterflies/0055ab3ed6c7eec7.jpg 40 1
+C:/animal/train/Mothsandbutterflies/0055ab3ed6c7eec7.jpg 40 1
 C:/animal/train/Monkey/c180b4775ea1c57e.jpg 39 1
 C:/animal/train/Whale/f9ae3f3c8ab692d3.jpg 76 1
 C:/animal/train/Lion/527335f58c844fd3.jpg 35 1
 C:/animal/train/Butterfly/8974e99ac6b6234f.jpg 3 1
-C:/animal/train/Moths and butterflies/8e1b1c5f57469013.jpg 40 1
+C:/animal/train/Mothsandbutterflies/8e1b1c5f57469013.jpg 40 1
 C:/animal/train/Goat/0e974bca776956f8.jpg 21 1
 C:/animal/train/Monkey/d568f161e1778212.jpg 39 1
 C:/animal/train/Snake/fa57369b846f049b.jpg 64 1
@@ -72,16 +72,16 @@ C:/animal/train/Pig/247657c042f4e178.jpg 49 1
 C:/animal/train/Shark/cdce2a2f135250fc.jpg 60 1
 C:/animal/train/Owl/16e09c356e034115.jpg 45 1
 C:/animal/train/Eagle/0031229b7741a1d7.jpg 15 1
-C:/animal/train/Polar bear/267c9b94b9376ce1.jpg 50 1
+C:/animal/train/Polarbear/267c9b94b9376ce1.jpg 50 1
 C:/animal/train/Sparrow/691319ed7af00040.jpg 65 1
 C:/animal/train/Spider/010762193246c0e7.jpg 66 1
 C:/animal/train/Koala/4b13d0f9be45cf63.jpg 32 1
 C:/animal/train/Jellyfish/0a45b8adec771ab7.jpg 30 1
 C:/animal/train/Bear/f288c2385b3935c0.jpg 0 1
 C:/animal/train/Horse/0eb9fae4a1cbeadd.jpg 28 1
-C:/animal/train/Red panda/7fefce3ef7aca2e9.jpg 54 1
+C:/animal/train/Redpanda/7fefce3ef7aca2e9.jpg 54 1
 C:/animal/train/Lizard/5eb33f24e649a376.jpg 36 1
-C:/animal/train/Moths and butterflies/ab2583e8c471b7f7.jpg 40 1
+C:/animal/train/Mothsandbutterflies/ab2583e8c471b7f7.jpg 40 1
 C:/animal/train/Tiger/046838e218d8d6d8.jpg 72 1
 C:/animal/train/Canary/c9a5e15cd1cde00c.jpg 5 1
 C:/animal/train/Duck/3e90a664c162d8f9.jpg 14 1
@@ -95,7 +95,7 @@ C:/animal/train/Panda/5de3c49b6417ad52.jpg 46 1
 C:/animal/train/Goose/11d8438b11efbe04.jpg 23 1
 C:/animal/train/Penguin/0cd9fb79faacc83d.jpg 48 1
 C:/animal/train/Pig/028e4b2d13bfb7c3.jpg 49 1
-C:/animal/train/Moths and butterflies/af8dc618427dd824.jpg 40 1
+C:/animal/train/Mothsandbutterflies/af8dc618427dd824.jpg 40 1
 C:/animal/train/Horse/90e712012df19152.jpg 28 1
 C:/animal/train/Rhinoceros/088a72d6f81f4fe1.jpg 55 1
 C:/animal/train/Jellyfish/b896182c8726f56f.jpg 30 1
@@ -106,7 +106,7 @@ C:/animal/train/Parrot/23fa7e2b8396d58f.jpg 47 1
 C:/animal/train/Crab/4a825686084dd2b0.jpg 11 1
 C:/animal/train/Woodpecker/303885d6668cb922.jpg 77 1
 C:/animal/train/Centipede/f12ffc8510da39d8.jpg 8 1
-C:/animal/train/Moths and butterflies/79a52105307c8cd7.jpg 40 1
+C:/animal/train/Mothsandbutterflies/79a52105307c8cd7.jpg 40 1
 C:/animal/train/Snail/9af667e39f533b24.jpg 63 1
 C:/animal/train/Butterfly/04e5e7eb2c800ed7.jpg 3 1
 C:/animal/train/Snail/7aeff7ab82707185.jpg 63 1
@@ -129,15 +129,15 @@ C:/animal/train/Starfish/1c783517f38c80bf.jpg 69 1
 C:/animal/train/Rabbit/553cc2352a2314b8.jpg 51 1
 C:/animal/train/Squirrel/d5a1eab323183f76.jpg 68 1
 C:/animal/train/Magpie/b67852cfe115480f.jpg 38 1
-C:/animal/train/Sea lion/177d84c93f687110.jpg 57 1
+C:/animal/train/Sealion/1111a28357ddc78e.jpg 58 1
 C:/animal/train/Fish/6e77c9396c3fd9e8.jpg 17 1
 C:/animal/train/Butterfly/c7177d5e4927498a.jpg 3 1
-C:/animal/train/Moths and butterflies/9f06d446080a687b.jpg 40 1
+C:/animal/train/Mothsandbutterflies/9f06d446080a687b.jpg 40 1
 C:/animal/train/Parrot/2eec98658646ad9f.jpg 47 1
 C:/animal/train/Sheep/ecccf93f702f02b0.jpg 61 1
 C:/animal/train/Bear/26cf30a2c11b09ed.jpg 0 1
 C:/animal/train/Rhinoceros/f6f9dfd5bbb1f984.jpg 55 1
-C:/animal/train/Moths and butterflies/619942fd6728f299.jpg 40 1
+C:/animal/train/Mothsandbutterflies/619942fd6728f299.jpg 40 1
 C:/animal/train/Crab/a223c921c84cce47.jpg 11 1
 C:/animal/train/Lizard/039f66af2ca48119.jpg 36 1
 C:/animal/train/Hamster/6e38f3c76a1b5fb2.jpg 24 1
@@ -146,16 +146,16 @@ C:/animal/train/Centipede/0c705d35cd0e6629.jpg 8 1
 C:/animal/train/Owl/f838956a410703fa.jpg 45 1
 C:/animal/train/Butterfly/64987ca18f57a3e2.jpg 3 1
 C:/animal/train/Snail/5a8a27e21e006cc5.jpg 63 1
-C:/animal/train/Moths and butterflies/424376a287d0eeda.jpg 40 1
+C:/animal/train/Mothsandbutterflies/424376a287d0eeda.jpg 40 1
 C:/animal/train/Jellyfish/54407fa3ad62b13e.jpg 30 1
 C:/animal/train/Rabbit/03d54463ca48ea05.jpg 51 1
-C:/animal/train/Moths and butterflies/9545c2a577b6ad94.jpg 40 1
+C:/animal/train/Mothsandbutterflies/9545c2a577b6ad94.jpg 40 1
 C:/animal/train/Lizard/122f34a632f20ac8.jpg 36 1
 C:/animal/train/Eagle/7aa3e5c672776e47.jpg 15 1
 C:/animal/train/Chicken/70d0a1a5284daf76.jpg 10 1
 C:/animal/train/Lion/dd50e839ad6d2d64.jpg 35 1
 C:/animal/train/Lizard/2a5f59185b45424b.jpg 36 1
-C:/animal/train/Moths and butterflies/7aa3256a36efd3ec.jpg 40 1
+C:/animal/train/Mothsandbutterflies/7aa3256a36efd3ec.jpg 40 1
 C:/animal/train/Lizard/a598c68a8168babc.jpg 36 1
 C:/animal/train/Parrot/edd9ebcc8a3660d8.jpg 47 1
 C:/animal/train/Centipede/831343dc4e1be618.jpg 8 1
@@ -165,7 +165,7 @@ C:/animal/train/Sparrow/e2bca68bac7c0eca.jpg 65 1
 C:/animal/train/Fish/32fdf6736e96c816.jpg 17 1
 C:/animal/train/Zebra/61e4828f20c949da.jpg 79 1
 C:/animal/train/Otter/cfea11ef9efc01c2.jpg 44 1
-C:/animal/train/Sea lion/1fd4806f5cf4f79b.jpg 57 1
+C:/animal/train/Sealion/1bb51ee735566548.jpg 58 1
 C:/animal/train/Parrot/f9d5f3947dd368c6.jpg 47 1
 C:/animal/train/Elephant/fca391368bb19f6b.jpg 16 1
 C:/animal/train/Tiger/6a00aedffc609342.jpg 72 1
@@ -185,11 +185,11 @@ C:/animal/train/Turkey/267e7b4b7307cb9d.jpg 74 1
 C:/animal/train/Spider/52aad5024482b5e4.jpg 66 1
 C:/animal/train/Caterpillar/91a88d53550ccba1.jpg 6 1
 C:/animal/train/Ostrich/3fc9bc8c907ca499.jpg 43 1
-C:/animal/train/Polar bear/9bffe7bb2ec08e5c.jpg 50 1
+C:/animal/train/Polarbear/9bffe7bb2ec08e5c.jpg 50 1
 C:/animal/train/Sheep/05fbb3844318e477.jpg 61 1
 C:/animal/train/Rabbit/c371d25ff0e6dabd.jpg 51 1
 C:/animal/train/Horse/6ffbd93716c9ed38.jpg 28 1
-C:/animal/train/Moths and butterflies/5568c2b92d2d3b1b.jpg 40 1
+C:/animal/train/Mothsandbutterflies/5568c2b92d2d3b1b.jpg 40 1
 C:/animal/train/Ladybug/2a34f08a2e5288be.jpg 33 1
 C:/animal/train/Parrot/c09503695b152cd4.jpg 47 1
 C:/animal/train/Deer/18c5f495bd0f00ec.jpg 13 1
@@ -223,7 +223,7 @@ C:/animal/train/Jellyfish/a858710c3dac3565.jpg 30 1
 C:/animal/train/Parrot/ed4cd3286082f9e7.jpg 47 1
 C:/animal/train/Spider/25c4c33c61ff3261.jpg 66 1
 C:/animal/train/Swan/4883536b0fee76e4.jpg 70 1
-C:/animal/train/Moths and butterflies/7bb96cb45680dee0.jpg 40 1
+C:/animal/train/Mothsandbutterflies/7bb96cb45680dee0.jpg 40 1
 C:/animal/train/Bear/f4c4c32773d9aeb6.jpg 0 1
 C:/animal/train/Eagle/451c48dd8b0d3e7a.jpg 15 1
 C:/animal/train/Caterpillar/2c791f156961e16f.jpg 6 1
@@ -242,18 +242,18 @@ C:/animal/train/Butterfly/e2db239236ae439e.jpg 3 1
 C:/animal/train/Squirrel/affff357c349271d.jpg 68 1
 C:/animal/train/Snake/c054547dfd391452.jpg 64 1
 C:/animal/train/Ladybug/3e6529b1cdd5aec4.jpg 33 1
-C:/animal/train/Moths and butterflies/fa42e23ee1092bd1.jpg 40 1
+C:/animal/train/Mothsandbutterflies/fa42e23ee1092bd1.jpg 40 1
 C:/animal/train/Spider/062fd2bc6738a22c.jpg 66 1
 C:/animal/train/Kangaroo/c9021c416411c937.jpg 31 1
 C:/animal/train/Owl/00bc274417086be8.jpg 45 1
 C:/animal/train/Owl/73ba7e634f33a949.jpg 45 1
 C:/animal/train/Tortoise/00c0a7bf94467de6.jpg 73 1
-C:/animal/train/Sea lion/f3752c2adc3f9db6.jpg 57 1
+C:/animal/train/Sealion/ef5374c645468359.jpg 58 1
 C:/animal/train/Giraffe/10dde6e9054d9f8f.jpg 20 1
 C:/animal/train/Squirrel/5b779b8509be9e89.jpg 68 1
 C:/animal/train/Spider/40c2ab11705d14ea.jpg 66 1
 C:/animal/train/Spider/b0a6207290ea2496.jpg 66 1
-C:/animal/train/Moths and butterflies/b40da40fdefa9ac1.jpg 40 1
+C:/animal/train/Mothsandbutterflies/b40da40fdefa9ac1.jpg 40 1
 C:/animal/train/Snake/0f3031ec7ce327f3.jpg 64 1
 C:/animal/train/Crab/f2bfcb4f6a94db90.jpg 11 1
 C:/animal/train/Goose/950ac533722f6663.jpg 23 1
@@ -266,8 +266,8 @@ C:/animal/train/Butterfly/c1f131d610a52ff6.jpg 3 1
 C:/animal/train/Starfish/7219e92e1ca01e1b.jpg 69 1
 C:/animal/train/Sparrow/368934d7fe8a06f2.jpg 65 1
 C:/animal/train/Caterpillar/1f39e0b5e35008cf.jpg 6 1
-C:/animal/train/Polar bear/4d506ba46aed86bf.jpg 50 1
-C:/animal/train/Moths and butterflies/443faf896d0cdb35.jpg 40 1
+C:/animal/train/Polarbear/4d506ba46aed86bf.jpg 50 1
+C:/animal/train/Mothsandbutterflies/443faf896d0cdb35.jpg 40 1
 C:/animal/train/Camel/1845e822bd177565.jpg 4 1
 C:/animal/train/Crab/65089bc03bb9bf94.jpg 11 1
 C:/animal/train/Penguin/6bf854f5c2f34937.jpg 48 1
@@ -282,7 +282,7 @@ C:/animal/train/Jellyfish/1a672e02b3461a67.jpg 30 1
 C:/animal/train/Sparrow/0e8fccab0635c089.jpg 65 1
 C:/animal/train/Butterfly/03e284c169ab8628.jpg 3 1
 C:/animal/train/Chicken/3a44307d4a4332a7.jpg 10 1
-C:/animal/train/Polar bear/45376ee1007092a0.jpg 50 1
+C:/animal/train/Polarbear/45376ee1007092a0.jpg 50 1
 C:/animal/train/Swan/a19bb0214cae8e54.jpg 70 1
 C:/animal/train/Tiger/5d2affc21049fdbe.jpg 72 1
 C:/animal/train/Jellyfish/bf7b2f4202ff0fb4.jpg 30 1
@@ -302,7 +302,7 @@ C:/animal/train/Fish/a97e731a9f3d3b98.jpg 17 1
 C:/animal/train/Chicken/12c3f966c4027bd3.jpg 10 1
 C:/animal/train/Jellyfish/0b30060ec36a8625.jpg 30 1
 C:/animal/train/Spider/48d29fc6d78beadd.jpg 66 1
-C:/animal/train/Sea turtle/2a94e357eb1b73f8.jpg 58 1
+C:/animal/train/Seaturtle/28ae814ca4f0577e.jpg 59 1
 C:/animal/train/Spider/08770aa6e4d3bbf0.jpg 66 1
 C:/animal/train/Horse/e5553e0f118b6ee1.jpg 28 1
 C:/animal/train/Pig/200a0ac1c28588f5.jpg 49 1
@@ -322,7 +322,7 @@ C:/animal/train/Owl/cc6a66207cab478d.jpg 45 1
 C:/animal/train/Lizard/ccafca2c8062bccd.jpg 36 1
 C:/animal/train/Lizard/183a853afbc2cea6.jpg 36 1
 C:/animal/train/Snail/66a54d215398edbc.jpg 63 1
-C:/animal/train/Moths and butterflies/e8f7930739e562ca.jpg 40 1
+C:/animal/train/Mothsandbutterflies/e8f7930739e562ca.jpg 40 1
 C:/animal/train/Lizard/7eba2634306c3a79.jpg 36 1
 C:/animal/train/Shark/0a298ac13bf92bc3.jpg 60 1
 C:/animal/train/Snail/cbde54d807d907f5.jpg 63 1
@@ -331,13 +331,13 @@ C:/animal/train/Monkey/27a98b77ff6a1c5f.jpg 39 1
 C:/animal/train/Sparrow/84651f60c8493de6.jpg 65 1
 C:/animal/train/Ladybug/47fedb653261c297.jpg 33 1
 C:/animal/train/Goose/09d70112da9633c4.jpg 23 1
-C:/animal/train/Moths and butterflies/632bdfc8c5f904fc.jpg 40 1
+C:/animal/train/Mothsandbutterflies/632bdfc8c5f904fc.jpg 40 1
 C:/animal/train/Frog/dee88b8b6974ea3c.jpg 19 1
 C:/animal/train/Jellyfish/f4833642ec201d5a.jpg 30 1
 C:/animal/train/Centipede/e3fa70bd3712bcf2.jpg 8 1
 C:/animal/train/Butterfly/0da1af3b0899f416.jpg 3 1
 C:/animal/train/Owl/2850f785ab3e4a9f.jpg 45 1
-C:/animal/train/Polar bear/443e04cfd9ced276.jpg 50 1
+C:/animal/train/Polarbear/443e04cfd9ced276.jpg 50 1
 C:/animal/train/Penguin/42449a7a9c37fe79.jpg 48 1
 C:/animal/train/Goldfish/4d780ee19f6528e6.jpg 22 1
 C:/animal/train/Snake/01b4ceb860f69935.jpg 64 1
@@ -353,13 +353,13 @@ C:/animal/train/Horse/dc6032e8f30fa8b5.jpg 28 1
 C:/animal/train/Spider/411acc32b37989e1.jpg 66 1
 C:/animal/train/Jaguar/621554a236114e55.jpg 29 1
 C:/animal/train/Lizard/6316535bb8fb22cb.jpg 36 1
-C:/animal/train/Harbor seal/84beefc0f619f2f8.jpg 25 1
+C:/animal/train/Harborseal/84beefc0f619f2f8.jpg 25 1
 C:/animal/train/Lizard/e857db3f6718bb40.jpg 36 1
 C:/animal/train/Frog/2a3b674ff1be13c2.jpg 19 1
 C:/animal/train/Pig/e798f06e0db1ae77.jpg 49 1
 C:/animal/train/Fish/355226d52e46923c.jpg 17 1
 C:/animal/train/Lizard/06b7e9e3f1f947c8.jpg 36 1
-C:/animal/train/Polar bear/c405273e671fa5ed.jpg 50 1
+C:/animal/train/Polarbear/c405273e671fa5ed.jpg 50 1
 C:/animal/train/Butterfly/4575012e129e2603.jpg 3 1
 C:/animal/train/Lizard/424aa89e4bf3faaa.jpg 36 1
 C:/animal/train/Whale/8726313d256733d0.jpg 76 1
@@ -380,7 +380,7 @@ C:/animal/train/Pig/0f30e949a8a97349.jpg 49 1
 C:/animal/train/Shark/b4d7621e470a9d59.jpg 60 1
 C:/animal/train/Squirrel/0fab48c38ff15b5f.jpg 68 1
 C:/animal/train/Horse/4433f433a70615f7.jpg 28 1
-C:/animal/train/Sea lion/c46799bb54a2b52c.jpg 57 1
+C:/animal/train/Sealion/b2edab98aaa8d049.jpg 58 1
 C:/animal/train/Fish/0200e4c38e9a191d.jpg 17 1
 C:/animal/train/Mule/6f2dfaa4aa8d11f4.jpg 42 1
 C:/animal/train/Eagle/1be583605e7cb294.jpg 15 1
@@ -389,14 +389,14 @@ C:/animal/train/Swan/3ea610a8efddbba2.jpg 70 1
 C:/animal/train/Magpie/ef1d59e47bcd77ad.jpg 38 1
 C:/animal/train/Mouse/cca66a0f80f0554a.jpg 41 1
 C:/animal/train/Chicken/87bb9e6ebf4d0450.jpg 10 1
-C:/animal/train/Polar bear/328c8ade646fa2a5.jpg 50 1
-C:/animal/train/Moths and butterflies/cc7ff5363860ab77.jpg 40 1
+C:/animal/train/Polarbear/328c8ade646fa2a5.jpg 50 1
+C:/animal/train/Mothsandbutterflies/cc7ff5363860ab77.jpg 40 1
 C:/animal/train/Butterfly/042cd132b4206afa.jpg 3 1
 C:/animal/train/Lizard/691154bdca8b15c0.jpg 36 1
 C:/animal/train/Raven/73a3b739076a0d79.jpg 53 1
 C:/animal/train/Canary/6e6f0547e06f7be9.jpg 5 1
 C:/animal/train/Monkey/3857a755bfecbf76.jpg 39 1
-C:/animal/train/Moths and butterflies/f7739a060e06437d.jpg 40 1
+C:/animal/train/Mothsandbutterflies/f7739a060e06437d.jpg 40 1
 C:/animal/train/Shark/23c2e23bdc460f2b.jpg 60 1
 C:/animal/train/Lizard/9ca6aff2c8a5dfc6.jpg 36 1
 C:/animal/train/Butterfly/7a2ec4aceacd8fe4.jpg 3 1
@@ -410,7 +410,7 @@ C:/animal/train/Starfish/3ddb627945771f8b.jpg 69 1
 C:/animal/train/Spider/1268020c2a034567.jpg 66 1
 C:/animal/train/Caterpillar/3da9c430a09ea33f.jpg 6 1
 C:/animal/train/Fish/de99e3df2d09833b.jpg 17 1
-C:/animal/train/Moths and butterflies/2c9579b4fbff6129.jpg 40 1
+C:/animal/train/Mothsandbutterflies/2c9579b4fbff6129.jpg 40 1
 C:/animal/train/Monkey/6fb0f3c4428ff91f.jpg 39 1
 C:/animal/train/Sparrow/2356451df0fbc950.jpg 65 1
 C:/animal/train/Leopard/0c91224924f49890.jpg 34 1
@@ -424,7 +424,7 @@ C:/animal/train/Spider/b9cffc38dd1cb31f.jpg 66 1
 C:/animal/train/Spider/ad1b47c7865d4c99.jpg 66 1
 C:/animal/train/Eagle/cec58cfdf57370f1.jpg 15 1
 C:/animal/train/Monkey/2570cf6ce1b2af9b.jpg 39 1
-C:/animal/train/Harbor seal/422c7ae136c3a261.jpg 25 1
+C:/animal/train/Harborseal/422c7ae136c3a261.jpg 25 1
 C:/animal/train/Parrot/67d84e2194604738.jpg 47 1
 C:/animal/train/Frog/9514129beaf49ec5.jpg 19 1
 C:/animal/train/Snake/665bacfe842c1020.jpg 64 1
@@ -448,7 +448,7 @@ C:/animal/train/Butterfly/178352d3934ffd06.jpg 3 1
 C:/animal/train/Parrot/f5d7cdbe337e8caa.jpg 47 1
 C:/animal/train/Caterpillar/a95dea5254c96e90.jpg 6 1
 C:/animal/train/Hamster/5596c68bba825cbf.jpg 24 1
-C:/animal/train/Moths and butterflies/d589bae2a9fc0008.jpg 40 1
+C:/animal/train/Mothsandbutterflies/d589bae2a9fc0008.jpg 40 1
 C:/animal/train/Jaguar/05101fc57a1cddb9.jpg 29 1
 C:/animal/train/Tiger/9bfb37490e1056a6.jpg 72 1
 C:/animal/train/Lizard/4b123e7caddfeadd.jpg 36 1
@@ -457,57 +457,57 @@ C:/animal/train/Owl/ef56462fc1c37c7b.jpg 45 1
 C:/animal/train/Frog/2394dc1ed6e03573.jpg 19 1
 C:/animal/train/Lizard/0adababfc62aa03c.jpg 36 1
 C:/animal/train/Tortoise/553523dbe80c775f.jpg 73 1
-C:/animal/train/Harbor seal/d8aa5f91de9e5d59.jpg 25 1
+C:/animal/train/Harborseal/d8aa5f91de9e5d59.jpg 25 1
 C:/animal/train/Butterfly/ad50bcc152dbd1f8.jpg 3 1
 C:/animal/train/Fish/34b6b622daf2c77d.jpg 17 1
 C:/animal/train/Parrot/262c89c0449fe643.jpg 47 1
 C:/animal/train/Duck/2d1e85751acff612.jpg 14 1
-C:/animal/train/Moths and butterflies/f958636e8b0a1405.jpg 40 1
+C:/animal/train/Mothsandbutterflies/f958636e8b0a1405.jpg 40 1
 C:/animal/train/Tiger/07995b924f1cc6f3.jpg 72 1
 C:/animal/train/Caterpillar/dc2325e6a106603e.jpg 6 1
 C:/animal/train/Butterfly/3e80476263c8ca4d.jpg 3 1
 C:/animal/train/Snake/6d5cff30ec11ba5d.jpg 64 1
 C:/animal/train/Spider/1120ddbed59f5510.jpg 66 1
-C:/animal/train/Moths and butterflies/1e1577ae657fd3d1.jpg 40 1
+C:/animal/train/Mothsandbutterflies/1e1577ae657fd3d1.jpg 40 1
 C:/animal/train/Butterfly/3e1f30ccefbaf5d7.jpg 3 1
 C:/animal/train/Zebra/0752a8ba214ae2dd.jpg 79 1
 C:/animal/train/Squirrel/ce56ca750ca9f982.jpg 68 1
 C:/animal/train/Deer/8112bdcdb4b3775d.jpg 13 1
 C:/animal/train/Parrot/a34aa66ef6262fde.jpg 47 1
 C:/animal/train/Eagle/b2395868527b7b2d.jpg 15 1
-C:/animal/train/Moths and butterflies/62114b33916be38e.jpg 40 1
+C:/animal/train/Mothsandbutterflies/62114b33916be38e.jpg 40 1
 C:/animal/train/Lizard/40c8bd16ff16d970.jpg 36 1
-C:/animal/train/Moths and butterflies/04350d758abf5f6b.jpg 40 1
+C:/animal/train/Mothsandbutterflies/04350d758abf5f6b.jpg 40 1
 C:/animal/train/Butterfly/45d1d01c45177e92.jpg 3 1
 C:/animal/train/Whale/8e6e2aba8da5ef0d.jpg 76 1
 C:/animal/train/Mule/93d6941a7d087462.jpg 42 1
 C:/animal/train/Horse/87c70a7798224c1d.jpg 28 1
 C:/animal/train/Frog/abf1b94ab73f9b0a.jpg 19 1
-C:/animal/train/Polar bear/0271612cc4695a9c.jpg 50 1
+C:/animal/train/Polarbear/0271612cc4695a9c.jpg 50 1
 C:/animal/train/Frog/c817f6e702bd18d4.jpg 19 1
 C:/animal/train/Spider/8c69e7abf41b838e.jpg 66 1
 C:/animal/train/Snail/1e58dd5fda70dc98.jpg 63 1
 C:/animal/train/Shark/b4fb72f992eb6737.jpg 60 1
-C:/animal/train/Moths and butterflies/c7d62b6faac0d1f7.jpg 40 1
-C:/animal/train/Moths and butterflies/078e147b659e244b.jpg 40 1
+C:/animal/train/Mothsandbutterflies/c7d62b6faac0d1f7.jpg 40 1
+C:/animal/train/Mothsandbutterflies/078e147b659e244b.jpg 40 1
 C:/animal/train/Koala/4f2272c0577f4cfb.jpg 32 1
 C:/animal/train/Lizard/cc5cb36b4e37f23c.jpg 36 1
-C:/animal/train/Brown bear/f712e12da0daf9cd.jpg 1 1
+C:/animal/train/Brownbear/f712e12da0daf9cd.jpg 1 1
 C:/animal/train/Penguin/59fc3bd84f4d0a17.jpg 48 1
 C:/animal/train/Monkey/b8fe9b76e65dd031.jpg 39 1
 C:/animal/train/Sparrow/23346f2876543b09.jpg 65 1
 C:/animal/train/Butterfly/17dfc8c58e51c4f1.jpg 3 1
 C:/animal/train/Sparrow/c8b387df957457ea.jpg 65 1
-C:/animal/train/Moths and butterflies/05831480c96e9b7d.jpg 40 1
-C:/animal/train/Moths and butterflies/cc94379734600628.jpg 40 1
+C:/animal/train/Mothsandbutterflies/05831480c96e9b7d.jpg 40 1
+C:/animal/train/Mothsandbutterflies/cc94379734600628.jpg 40 1
 C:/animal/train/Frog/0773a063b1532631.jpg 19 1
 C:/animal/train/Butterfly/f03a02448d6d4344.jpg 3 1
-C:/animal/train/Moths and butterflies/b221c515818ab312.jpg 40 1
+C:/animal/train/Mothsandbutterflies/b221c515818ab312.jpg 40 1
 C:/animal/train/Parrot/816a8bc8d507db46.jpg 47 1
 C:/animal/train/Sheep/f40e778b999b869e.jpg 61 1
 C:/animal/train/Lizard/18ee55273a21eb9c.jpg 36 1
-C:/animal/train/Moths and butterflies/77f8f91f0084e348.jpg 40 1
-C:/animal/train/Moths and butterflies/aa9bfd0ac82e7653.jpg 40 1
+C:/animal/train/Mothsandbutterflies/77f8f91f0084e348.jpg 40 1
+C:/animal/train/Mothsandbutterflies/aa9bfd0ac82e7653.jpg 40 1
 C:/animal/train/Butterfly/fd03090569021d2d.jpg 3 1
 C:/animal/train/Frog/4ec640a397cf69c0.jpg 19 1
 C:/animal/train/Eagle/19c9eb88a5e1cafe.jpg 15 1
@@ -528,17 +528,17 @@ C:/animal/train/Horse/ae67d02a74b222e4.jpg 28 1
 C:/animal/train/Goldfish/23c5b60a45779ff7.jpg 22 1
 C:/animal/train/Starfish/3971a2d7caaf9b3c.jpg 69 1
 C:/animal/train/Pig/2c6eb3321544d6a4.jpg 49 1
-C:/animal/train/Sea lion/a36384cb21ab2a70.jpg 57 1
+C:/animal/train/Sealion/89dbed7c2ddf61ff.jpg 58 1
 C:/animal/train/Horse/f68a3327e23f134d.jpg 28 1
 C:/animal/train/Swan/88fd982f8d2e4269.jpg 70 1
 C:/animal/train/Goose/76b906009c6165de.jpg 23 1
-C:/animal/train/Harbor seal/b25543cdaa25a08a.jpg 25 1
+C:/animal/train/Harborseal/b25543cdaa25a08a.jpg 25 1
 C:/animal/train/Owl/61676f0508ce8882.jpg 45 1
 C:/animal/train/Penguin/25fd0fa9f0246285.jpg 48 1
 C:/animal/train/Eagle/64409ad8fd5e176c.jpg 15 1
 C:/animal/train/Owl/1307dd701fb160d4.jpg 45 1
 C:/animal/train/Snail/3647ddf9702de34e.jpg 63 1
-C:/animal/train/Moths and butterflies/ed551e2d0899f37f.jpg 40 1
+C:/animal/train/Mothsandbutterflies/ed551e2d0899f37f.jpg 40 1
 C:/animal/train/Raccoon/eb6046561602d806.jpg 52 1
 C:/animal/train/Spider/fecef471bddb95c3.jpg 66 1
 C:/animal/train/Otter/f12c790460d499e1.jpg 44 1
@@ -554,21 +554,21 @@ C:/animal/train/Goose/b64904902ab19756.jpg 23 1
 C:/animal/train/Snake/0c92a4372884d2d0.jpg 64 1
 C:/animal/train/Butterfly/acfbe6a9b3944907.jpg 3 1
 C:/animal/train/Parrot/5f2de6f70ebb6e11.jpg 47 1
-C:/animal/train/Sea lion/0b9132ad6f49f8ec.jpg 57 1
+C:/animal/train/Sealion/0961f76f8464aca2.jpg 58 1
 C:/animal/train/Fish/00e736de0715da7e.jpg 17 1
 C:/animal/train/Frog/a06aecbda3ddf307.jpg 19 1
-C:/animal/train/Moths and butterflies/e5d46c0f6c05b7a2.jpg 40 1
+C:/animal/train/Mothsandbutterflies/e5d46c0f6c05b7a2.jpg 40 1
 C:/animal/train/Chicken/ab3c9e26b6026320.jpg 10 1
-C:/animal/train/Brown bear/97972189ab7d16a6.jpg 1 1
+C:/animal/train/Brownbear/97972189ab7d16a6.jpg 1 1
 C:/animal/train/Duck/ed478fee4db06699.jpg 14 1
 C:/animal/train/Goose/1741be0f5ae565de.jpg 23 1
-C:/animal/train/Moths and butterflies/3d8b803558b26d1f.jpg 40 1
-C:/animal/train/Polar bear/c764524b894134b3.jpg 50 1
+C:/animal/train/Mothsandbutterflies/3d8b803558b26d1f.jpg 40 1
+C:/animal/train/Polarbear/c764524b894134b3.jpg 50 1
 C:/animal/train/Monkey/e41350bdb65b41dd.jpg 39 1
 C:/animal/train/Fish/ac99e375b901d9f4.jpg 17 1
 C:/animal/train/Sparrow/22adb35801444336.jpg 65 1
 C:/animal/train/Starfish/833e634d3ebf7a95.jpg 69 1
-C:/animal/train/Moths and butterflies/a7e0e61d7a622727.jpg 40 1
+C:/animal/train/Mothsandbutterflies/a7e0e61d7a622727.jpg 40 1
 C:/animal/train/Panda/17fa66aecbce11c8.jpg 46 1
 C:/animal/train/Caterpillar/133395fa70080b56.jpg 6 1
 C:/animal/train/Spider/f14ee2a36757beb0.jpg 66 1
@@ -605,22 +605,22 @@ C:/animal/train/Jellyfish/35e1a2859711804f.jpg 30 1
 C:/animal/train/Ladybug/26ebd56f9847a273.jpg 33 1
 C:/animal/train/Bear/05d7d61e5e8a8169.jpg 0 1
 C:/animal/train/Snail/3683f9db746fc5a0.jpg 63 1
-C:/animal/train/Moths and butterflies/6dfd6de01e09a108.jpg 40 1
+C:/animal/train/Mothsandbutterflies/6dfd6de01e09a108.jpg 40 1
 C:/animal/train/Ladybug/074552a643c20d68.jpg 33 1
 C:/animal/train/Snake/c9bdf1da5ea553d1.jpg 64 1
 C:/animal/train/Squirrel/0c44adf8a743a395.jpg 68 1
 C:/animal/train/Elephant/bb8ff525a9568646.jpg 16 1
 C:/animal/train/Monkey/a6ed14520ad038e4.jpg 39 1
-C:/animal/train/Moths and butterflies/d084f237a9a4815c.jpg 40 1
+C:/animal/train/Mothsandbutterflies/d084f237a9a4815c.jpg 40 1
 C:/animal/train/Fish/96346d3422cb00a6.jpg 17 1
 C:/animal/train/Deer/776f309a6c5b772f.jpg 13 1
 C:/animal/train/Snail/e9e01d3c52f6f9c2.jpg 63 1
 C:/animal/train/Kangaroo/2c5c5c8ebf988a53.jpg 31 1
-C:/animal/train/Moths and butterflies/53b1e9261a1f80da.jpg 40 1
+C:/animal/train/Mothsandbutterflies/53b1e9261a1f80da.jpg 40 1
 C:/animal/train/Lizard/086df0a4e77a608d.jpg 36 1
-C:/animal/train/Moths and butterflies/7b0494f17bebf6be.jpg 40 1
+C:/animal/train/Mothsandbutterflies/7b0494f17bebf6be.jpg 40 1
 C:/animal/train/Ladybug/aff91a5895f33b50.jpg 33 1
-C:/animal/train/Red panda/51314ccc4c6b3b67.jpg 54 1
+C:/animal/train/Redpanda/51314ccc4c6b3b67.jpg 54 1
 C:/animal/train/Ladybug/0335d627e5f81cec.jpg 33 1
 C:/animal/train/Deer/20f918228624b921.jpg 13 1
 C:/animal/train/Leopard/702e415b0ebea3e2.jpg 34 1
@@ -631,11 +631,11 @@ C:/animal/train/Mouse/555076d1abc657e3.jpg 41 1
 C:/animal/train/Monkey/05f912686a2cdfb2.jpg 39 1
 C:/animal/train/Fish/cabda6a5416758a7.jpg 17 1
 C:/animal/train/Shark/c65e923beba468f9.jpg 60 1
-C:/animal/train/Sea lion/45e05688c6c41d45.jpg 57 1
+C:/animal/train/Sealion/3c28b0412b68b861.jpg 58 1
 C:/animal/train/Bear/6ec6d8ddcce0de4f.jpg 0 1
 C:/animal/train/Mule/f5aebd9d64570e34.jpg 42 1
 C:/animal/train/Butterfly/9154d64d633f8ccb.jpg 3 1
-C:/animal/train/Harbor seal/1917a9b0d11fc8a9.jpg 25 1
+C:/animal/train/Harborseal/1917a9b0d11fc8a9.jpg 25 1
 C:/animal/train/Fish/7ffe7dea36a8f47c.jpg 17 1
 C:/animal/train/Sparrow/31a892c28b1e8efe.jpg 65 1
 C:/animal/train/Monkey/f91998908ca5ef9f.jpg 39 1
@@ -657,7 +657,7 @@ C:/animal/train/Crab/8e72fb6337a11ca1.jpg 11 1
 C:/animal/train/Butterfly/41aae9590b0006ec.jpg 3 1
 C:/animal/train/Lizard/1ab72677e7a0cc44.jpg 36 1
 C:/animal/train/Zebra/33d1926311be80d3.jpg 79 1
-C:/animal/train/Moths and butterflies/3e827e6a0388ae48.jpg 40 1
+C:/animal/train/Mothsandbutterflies/3e827e6a0388ae48.jpg 40 1
 C:/animal/train/Rhinoceros/108ebf7909c7cebb.jpg 55 1
 C:/animal/train/Tiger/010739d688d6ff46.jpg 72 1
 C:/animal/train/Lizard/c4f8ea8a0e612b37.jpg 36 1
@@ -665,7 +665,7 @@ C:/animal/train/Jaguar/2256b389cf644faf.jpg 29 1
 C:/animal/train/Canary/a08a19695690c3e7.jpg 5 1
 C:/animal/train/Jaguar/137e80a3d6afce59.jpg 29 1
 C:/animal/train/Lizard/0c915d1405ce9858.jpg 36 1
-C:/animal/train/Moths and butterflies/37de33b46cabe788.jpg 40 1
+C:/animal/train/Mothsandbutterflies/37de33b46cabe788.jpg 40 1
 C:/animal/train/Fish/a136c4ef1e492139.jpg 17 1
 C:/animal/train/Tortoise/85bdc72624fdb1c1.jpg 73 1
 C:/animal/train/Butterfly/2a92b1f0f1626404.jpg 3 1
@@ -683,11 +683,11 @@ C:/animal/train/Chicken/d451673f2e0d79fe.jpg 10 1
 C:/animal/train/Eagle/64f16d3d4fb4864f.jpg 15 1
 C:/animal/train/Worm/0a2b166c644e2bd3.jpg 78 1
 C:/animal/train/Goose/93029062ee71d93f.jpg 23 1
-C:/animal/train/Moths and butterflies/95e996c2f2f0c1cd.jpg 40 1
+C:/animal/train/Mothsandbutterflies/95e996c2f2f0c1cd.jpg 40 1
 C:/animal/train/Lizard/238e1202d7075298.jpg 36 1
 C:/animal/train/Fish/1c43b2ab9dd9f064.jpg 17 1
 C:/animal/train/Butterfly/2f58f8b0877ce7df.jpg 3 1
-C:/animal/train/Moths and butterflies/9b844dfde04b141c.jpg 40 1
+C:/animal/train/Mothsandbutterflies/9b844dfde04b141c.jpg 40 1
 C:/animal/train/Fish/07966caf3b364b2c.jpg 17 1
 C:/animal/train/Eagle/8d6c93fe7d0642f4.jpg 15 1
 C:/animal/train/Goat/a4cc67b885702148.jpg 21 1
@@ -717,7 +717,7 @@ C:/animal/train/Caterpillar/32e471f37a0d647d.jpg 6 1
 C:/animal/train/Woodpecker/9efc9ce448a2a217.jpg 77 1
 C:/animal/train/Butterfly/021dcb7a7119f252.jpg 3 1
 C:/animal/train/Snake/2eb08429dda57bf7.jpg 64 1
-C:/animal/train/Moths and butterflies/f23ac35276cf9593.jpg 40 1
+C:/animal/train/Mothsandbutterflies/f23ac35276cf9593.jpg 40 1
 C:/animal/train/Snail/8c748ceec393f422.jpg 63 1
 C:/animal/train/Otter/8065db61b80814c2.jpg 44 1
 C:/animal/train/Eagle/81717d4d0d668f64.jpg 15 1
@@ -725,7 +725,7 @@ C:/animal/train/Hedgehog/523241c2b3fafebc.jpg 26 1
 C:/animal/train/Swan/7bcd7cbd09aa776c.jpg 70 1
 C:/animal/train/Deer/d878d864f26a8e67.jpg 13 1
 C:/animal/train/Lizard/2e2b877058f29f43.jpg 36 1
-C:/animal/train/Brown bear/1f59fdf9ba438103.jpg 1 1
+C:/animal/train/Brownbear/1f59fdf9ba438103.jpg 1 1
 C:/animal/train/Butterfly/8caa15966a9e7468.jpg 3 1
 C:/animal/train/Horse/eaf70862968d7846.jpg 28 1
 C:/animal/train/Whale/ecf4f7b5466f5531.jpg 76 1
@@ -733,7 +733,7 @@ C:/animal/train/Swan/13d15e308cbb805e.jpg 70 1
 C:/animal/train/Centipede/c88873d804306737.jpg 8 1
 C:/animal/train/Butterfly/af8964c316152298.jpg 3 1
 C:/animal/train/Goose/f7e9ea2bc14048e8.jpg 23 1
-C:/animal/train/Polar bear/07581a2f1f82195f.jpg 50 1
+C:/animal/train/Polarbear/07581a2f1f82195f.jpg 50 1
 C:/animal/train/Raven/2eae66b088d2de08.jpg 53 1
 C:/animal/train/Hippopotamus/442bf60ddeffecde.jpg 27 1
 C:/animal/train/Swan/13a364732297e303.jpg 70 1
@@ -754,7 +754,7 @@ C:/animal/train/Turkey/18baa7389a3e78a1.jpg 74 1
 C:/animal/train/Koala/f7821a27bdfa33d7.jpg 32 1
 C:/animal/train/Snail/f07d2226e1f6ffee.jpg 63 1
 C:/animal/train/Butterfly/00a4c5a0b88086b5.jpg 3 1
-C:/animal/train/Sea turtle/cabda6a5416758a7.jpg 58 1
+C:/animal/train/Seaturtle/bc49523e86bfcf46.jpg 59 1
 C:/animal/train/Tortoise/130a1c00e296867d.jpg 73 1
 C:/animal/train/Spider/f355fe81be7f10ba.jpg 66 1
 C:/animal/train/Ladybug/1766b96178dcd1fb.jpg 33 1
@@ -783,18 +783,18 @@ C:/animal/train/Panda/7b60ee87e20a351f.jpg 46 1
 C:/animal/train/Ladybug/02881cadbf7fb0ad.jpg 33 1
 C:/animal/train/Tiger/19b61029c1a729ba.jpg 72 1
 C:/animal/train/Deer/dbc528b078c29ea1.jpg 13 1
-C:/animal/train/Moths and butterflies/26f9e9dd8fda0257.jpg 40 1
+C:/animal/train/Mothsandbutterflies/26f9e9dd8fda0257.jpg 40 1
 C:/animal/train/Horse/00703988ba97cc5b.jpg 28 1
 C:/animal/train/Goldfish/052c91674fe3fe6e.jpg 22 1
 C:/animal/train/Leopard/7be555acd7fc9cce.jpg 34 1
 C:/animal/train/Fox/95f8281f7c093fae.jpg 18 1
 C:/animal/train/Hedgehog/027b2851c942a2f0.jpg 26 1
 C:/animal/train/Lion/0c4da71df4265f84.jpg 35 1
-C:/animal/train/Sea lion/fb0a19dc692b9750.jpg 57 1
+C:/animal/train/Sealion/f3752c2adc3f9db6.jpg 58 1
 C:/animal/train/Snake/764f207e4e471675.jpg 64 1
 C:/animal/train/Sparrow/bcf3acc885c71539.jpg 65 1
 C:/animal/train/Tortoise/41278f1927f45180.jpg 73 1
-C:/animal/train/Moths and butterflies/c83f87623cd8b091.jpg 40 1
+C:/animal/train/Mothsandbutterflies/c83f87623cd8b091.jpg 40 1
 C:/animal/train/Caterpillar/aab7a0936b77b5aa.jpg 6 1
 C:/animal/train/Squirrel/6d8f680a7ad106fd.jpg 68 1
 C:/animal/train/Butterfly/75ea45073a9c13da.jpg 3 1
@@ -803,14 +803,14 @@ C:/animal/train/Sparrow/5d3818016d25a0c2.jpg 65 1
 C:/animal/train/Goose/5c1ab8f1bb0bd0c5.jpg 23 1
 C:/animal/train/Snake/d72d1535a949b19f.jpg 64 1
 C:/animal/train/Crocodile/2e6d7c96b4a4fbe7.jpg 12 1
-C:/animal/train/Moths and butterflies/5e032442d6d21214.jpg 40 1
+C:/animal/train/Mothsandbutterflies/5e032442d6d21214.jpg 40 1
 C:/animal/train/Goat/4807324d093cf757.jpg 21 1
 C:/animal/train/Canary/31a929dad7dcf6f5.jpg 5 1
 C:/animal/train/Spider/333286f1b175a5cb.jpg 66 1
 C:/animal/train/Canary/5499c7f88c57a2f4.jpg 5 1
 C:/animal/train/Fish/5aaa6cf915670caa.jpg 17 1
 C:/animal/train/Caterpillar/8c048b6779f7ecf4.jpg 6 1
-C:/animal/train/Red panda/97c66b4e94b865e2.jpg 54 1
+C:/animal/train/Redpanda/97c66b4e94b865e2.jpg 54 1
 C:/animal/train/Butterfly/d1a10fff42b617ba.jpg 3 1
 C:/animal/train/Eagle/4e1cda64520177b0.jpg 15 1
 C:/animal/train/Shark/0a9398902362877f.jpg 60 1
@@ -831,20 +831,20 @@ C:/animal/train/Eagle/2c97e22087b717c5.jpg 15 1
 C:/animal/train/Pig/c7e0c987f75f611d.jpg 49 1
 C:/animal/train/Tortoise/c97ed3dd7468b02f.jpg 73 1
 C:/animal/train/Snake/036c7ebcaf804cb3.jpg 64 1
-C:/animal/train/Moths and butterflies/dc1edef2a41116d2.jpg 40 1
+C:/animal/train/Mothsandbutterflies/dc1edef2a41116d2.jpg 40 1
 C:/animal/train/Jellyfish/1fa5af24f0ede4ea.jpg 30 1
 C:/animal/train/Owl/ffe383d97a3c188e.jpg 45 1
 C:/animal/train/Hippopotamus/d4499d02bdf81006.jpg 27 1
-C:/animal/train/Moths and butterflies/08e4bd7c95455a1e.jpg 40 1
+C:/animal/train/Mothsandbutterflies/08e4bd7c95455a1e.jpg 40 1
 C:/animal/train/Bear/d22120349e4b34d1.jpg 0 1
 C:/animal/train/Monkey/a5346f27e78899e5.jpg 39 1
 C:/animal/train/Eagle/adbc6c98887464ed.jpg 15 1
 C:/animal/train/Butterfly/dabe63ee1b06dbac.jpg 3 1
-C:/animal/train/Moths and butterflies/46c74d0bf86217ad.jpg 40 1
+C:/animal/train/Mothsandbutterflies/46c74d0bf86217ad.jpg 40 1
 C:/animal/train/Frog/4c2dcb12a19be5fb.jpg 19 1
 C:/animal/train/Penguin/ddf00bfec453bf8e.jpg 48 1
 C:/animal/train/Pig/821602a7c699166d.jpg 49 1
-C:/animal/train/Moths and butterflies/6ee19e48e88de8c0.jpg 40 1
+C:/animal/train/Mothsandbutterflies/6ee19e48e88de8c0.jpg 40 1
 C:/animal/train/Eagle/beb9280209159f63.jpg 15 1
 C:/animal/train/Goat/90bb88527339e7f0.jpg 21 1
 C:/animal/train/Centipede/f34ba13d0ec238a7.jpg 8 1
@@ -869,7 +869,7 @@ C:/animal/train/Fish/9479bef9ae85e1a0.jpg 17 1
 C:/animal/train/Goose/a0649a28be06c5f7.jpg 23 1
 C:/animal/train/Crab/0053e5fe30ca37ef.jpg 11 1
 C:/animal/train/Lizard/5b12247ff91578b1.jpg 36 1
-C:/animal/train/Moths and butterflies/557a1a2be9455e23.jpg 40 1
+C:/animal/train/Mothsandbutterflies/557a1a2be9455e23.jpg 40 1
 C:/animal/train/Butterfly/e747549ea46e4f84.jpg 3 1
 C:/animal/train/Chicken/0658a7ede1d4b95f.jpg 10 1
 C:/animal/train/Tiger/264b2907355a6120.jpg 72 1
@@ -877,15 +877,15 @@ C:/animal/train/Tortoise/11c9b5a1eb49f951.jpg 73 1
 C:/animal/train/Whale/c46a0be2561d26c3.jpg 76 1
 C:/animal/train/Butterfly/c6c3a1b3c1b76e6e.jpg 3 1
 C:/animal/train/Parrot/9fbaa6220e13e230.jpg 47 1
-C:/animal/train/Moths and butterflies/8fcb900cc4c406bf.jpg 40 1
-C:/animal/train/Moths and butterflies/de1ff681835fe684.jpg 40 1
+C:/animal/train/Mothsandbutterflies/8fcb900cc4c406bf.jpg 40 1
+C:/animal/train/Mothsandbutterflies/de1ff681835fe684.jpg 40 1
 C:/animal/train/Lizard/e47979d44c4d7126.jpg 36 1
 C:/animal/train/Mouse/41bd2773174e8eb7.jpg 41 1
 C:/animal/train/Tortoise/628eed5f73788106.jpg 73 1
 C:/animal/train/Cheetah/d9da9bc2a3d4c64d.jpg 9 1
 C:/animal/train/Cheetah/1d6cd967919e36aa.jpg 9 1
 C:/animal/train/Fish/8572913862c5a235.jpg 17 1
-C:/animal/train/Moths and butterflies/71f20be7b8766fdf.jpg 40 1
+C:/animal/train/Mothsandbutterflies/71f20be7b8766fdf.jpg 40 1
 C:/animal/train/Penguin/10b314d41b4187b6.jpg 48 1
 C:/animal/train/Goose/06e6691fbc29c705.jpg 23 1
 C:/animal/train/Penguin/0fc67e8f056bc7a9.jpg 48 1
@@ -920,19 +920,19 @@ C:/animal/train/Giraffe/0968907343cd9b2c.jpg 20 1
 C:/animal/train/Goose/8795ec055c536ec3.jpg 23 1
 C:/animal/train/Crocodile/93eaf2187263a1ce.jpg 12 1
 C:/animal/train/Owl/93578c6ec2b56450.jpg 45 1
-C:/animal/train/Sea lion/064cae7e3152d5eb.jpg 57 1
+C:/animal/train/Sealion/03af0b8f736f6a82.jpg 58 1
 C:/animal/train/Ostrich/4698b65505a42782.jpg 43 1
 C:/animal/train/Monkey/5e09862933e5611a.jpg 39 1
 C:/animal/train/Zebra/7a7f3c39ca06b707.jpg 79 1
 C:/animal/train/Whale/769bde739e39487e.jpg 76 1
-C:/animal/train/Moths and butterflies/39b3a38682120243.jpg 40 1
+C:/animal/train/Mothsandbutterflies/39b3a38682120243.jpg 40 1
 C:/animal/train/Leopard/05101fc57a1cddb9.jpg 34 1
 C:/animal/train/Fox/0a2a1e75ff15aaa9.jpg 18 1
 C:/animal/train/Shark/f5e02249e62d1258.jpg 60 1
 C:/animal/train/Frog/25515fd91e65bf20.jpg 19 1
-C:/animal/train/Moths and butterflies/dc50931e43a1f2a6.jpg 40 1
+C:/animal/train/Mothsandbutterflies/dc50931e43a1f2a6.jpg 40 1
 C:/animal/train/Spider/b45203f0f81827aa.jpg 66 1
-C:/animal/train/Sea turtle/7e6ea1f547104656.jpg 58 1
+C:/animal/train/Seaturtle/79ffb0de6f3ec885.jpg 59 1
 C:/animal/train/Hippopotamus/bddd761bdf864196.jpg 27 1
 C:/animal/train/Eagle/b26dedc04bdc62bc.jpg 15 1
 C:/animal/train/Snail/53b0b9d73009ee18.jpg 63 1
@@ -953,11 +953,11 @@ C:/animal/train/Ladybug/70aa254b7deb4e0a.jpg 33 1
 C:/animal/train/Monkey/023b7e08392b9d0e.jpg 39 1
 C:/animal/train/Crab/2264a6bc5406e4b5.jpg 11 1
 C:/animal/train/Butterfly/17ce0acab3b08e32.jpg 3 1
-C:/animal/train/Polar bear/075e4b9252c6363e.jpg 50 1
+C:/animal/train/Polarbear/075e4b9252c6363e.jpg 50 1
 C:/animal/train/Lizard/048c16606c02d9c9.jpg 36 1
 C:/animal/train/Spider/5c5f0c86a4af8e16.jpg 66 1
 C:/animal/train/Bear/0a85e62973f2bcf6.jpg 0 1
-C:/animal/train/Seahorse/bc8b5f250c999219.jpg 59 1
+C:/animal/train/Seaturtle/fd809cec2280aaf5.jpg 59 1
 C:/animal/train/Shark/f718f4536c151446.jpg 60 1
 C:/animal/train/Eagle/8154d540fde7d439.jpg 15 1
 C:/animal/train/Monkey/633d9722c892a855.jpg 39 1
@@ -969,11 +969,11 @@ C:/animal/train/Swan/f076b589fdda660e.jpg 70 1
 C:/animal/train/Koala/49e04f9c92cb27ee.jpg 32 1
 C:/animal/train/Starfish/183e662cbb413fcd.jpg 69 1
 C:/animal/train/Chicken/9c32fc182906a84d.jpg 10 1
-C:/animal/train/Red panda/7c5f495dbcf16570.jpg 54 1
+C:/animal/train/Redpanda/7c5f495dbcf16570.jpg 54 1
 C:/animal/train/Fish/1511750e22a6c647.jpg 17 1
 C:/animal/train/Rabbit/c6672b825b04f1c4.jpg 51 1
 C:/animal/train/Hippopotamus/062915cbc9c35438.jpg 27 1
-C:/animal/train/Brown bear/1aa7251f00cb54d4.jpg 1 1
+C:/animal/train/Brownbear/1aa7251f00cb54d4.jpg 1 1
 C:/animal/train/Owl/c94465a9b689e4e9.jpg 45 1
 C:/animal/train/Eagle/5694382d5fc86e0c.jpg 15 1
 C:/animal/train/Mule/1f287db99acc6012.jpg 42 1
@@ -988,14 +988,14 @@ C:/animal/train/Woodpecker/f17ca6d87fa71e8b.jpg 77 1
 C:/animal/train/Butterfly/035eb9f8a7948955.jpg 3 1
 C:/animal/train/Snail/c2c87495b348caab.jpg 63 1
 C:/animal/train/Goose/ff67b86dc4f282d1.jpg 23 1
-C:/animal/train/Sea turtle/cc3d8e9b47880630.jpg 58 1
+C:/animal/train/Seaturtle/c9fa90bb93ff0f54.jpg 59 1
 C:/animal/train/Parrot/b57647b2dbe3aa63.jpg 47 1
 C:/animal/train/Spider/40078be60932e2d0.jpg 66 1
 C:/animal/train/Monkey/c598654b27f0e54d.jpg 39 1
 C:/animal/train/Monkey/f0db1bddc0688d2b.jpg 39 1
 C:/animal/train/Butterfly/f8372ae989110eb0.jpg 3 1
 C:/animal/train/Spider/436651fdc4b5ff36.jpg 66 1
-C:/animal/train/Moths and butterflies/d7bce42fede566c6.jpg 40 1
+C:/animal/train/Mothsandbutterflies/d7bce42fede566c6.jpg 40 1
 C:/animal/train/Worm/05be8babe2333336.jpg 78 1
 C:/animal/train/Eagle/6e398987872ff4ce.jpg 15 1
 C:/animal/train/Starfish/40b8ea446b1fd919.jpg 69 1
@@ -1003,14 +1003,14 @@ C:/animal/train/Eagle/1a98645667b65e3b.jpg 15 1
 C:/animal/train/Crab/06ea207451d3785c.jpg 11 1
 C:/animal/train/Butterfly/9a963c7802177bc7.jpg 3 1
 C:/animal/train/Centipede/70740b99762f1b65.jpg 8 1
-C:/animal/train/Polar bear/8c049db30947c343.jpg 50 1
+C:/animal/train/Polarbear/8c049db30947c343.jpg 50 1
 C:/animal/train/Rhinoceros/1298aa130c1ad102.jpg 55 1
 C:/animal/train/Duck/5e0a3b8017fbbf79.jpg 14 1
 C:/animal/train/Frog/ab45e65fe4281549.jpg 19 1
 C:/animal/train/Magpie/d7364f3892d3683c.jpg 38 1
-C:/animal/train/Moths and butterflies/3b713202480f62b7.jpg 40 1
+C:/animal/train/Mothsandbutterflies/3b713202480f62b7.jpg 40 1
 C:/animal/train/Sparrow/bb79873316f9b817.jpg 65 1
-C:/animal/train/Moths and butterflies/f826a93a75e3bfc3.jpg 40 1
+C:/animal/train/Mothsandbutterflies/f826a93a75e3bfc3.jpg 40 1
 C:/animal/train/Sparrow/d5ba9bda080facd2.jpg 65 1
 C:/animal/train/Hedgehog/a29b1e379fdcf40f.jpg 26 1
 C:/animal/train/Shark/e0239ca57efd1a12.jpg 60 1
@@ -1021,7 +1021,7 @@ C:/animal/train/Hippopotamus/afefda437f77fd3c.jpg 27 1
 C:/animal/train/Duck/a3bca652ce127040.jpg 14 1
 C:/animal/train/Parrot/034eb138a12cd81c.jpg 47 1
 C:/animal/train/Tiger/080cae20f6a5f235.jpg 72 1
-C:/animal/train/Moths and butterflies/26acf494b57ee5cc.jpg 40 1
+C:/animal/train/Mothsandbutterflies/26acf494b57ee5cc.jpg 40 1
 C:/animal/train/Rabbit/8b3a24c069af2cbc.jpg 51 1
 C:/animal/train/Tortoise/1f72751a2f72a965.jpg 73 1
 C:/animal/train/Frog/3214d640058fdf84.jpg 19 1
@@ -1030,7 +1030,7 @@ C:/animal/train/Snake/9b04238cd152adca.jpg 64 1
 C:/animal/train/Frog/1c1420f309c7c349.jpg 19 1
 C:/animal/train/Camel/7a65879db8a5019c.jpg 4 1
 C:/animal/train/Horse/158dde7744513390.jpg 28 1
-C:/animal/train/Moths and butterflies/4807c9dd54669279.jpg 40 1
+C:/animal/train/Mothsandbutterflies/4807c9dd54669279.jpg 40 1
 C:/animal/train/Lion/04216cd29e3d237b.jpg 35 1
 C:/animal/train/Butterfly/5110924993ba17fa.jpg 3 1
 C:/animal/train/Giraffe/536c65f2480eba06.jpg 20 1
@@ -1096,14 +1096,14 @@ C:/animal/train/Frog/5fcd438663e6247c.jpg 19 1
 C:/animal/train/Eagle/385e757a1bb5dacb.jpg 15 1
 C:/animal/train/Jaguar/0107395b9550040b.jpg 29 1
 C:/animal/train/Lizard/61b7a326b6919a37.jpg 36 1
-C:/animal/train/Moths and butterflies/da29568c4ce0c9db.jpg 40 1
+C:/animal/train/Mothsandbutterflies/da29568c4ce0c9db.jpg 40 1
 C:/animal/train/Eagle/69d219c3b2040fdd.jpg 15 1
 C:/animal/train/Bull/37f7993e36d1e4e0.jpg 2 1
 C:/animal/train/Jaguar/0451a64b6d93c015.jpg 29 1
 C:/animal/train/Spider/08156099b290f1c6.jpg 66 1
 C:/animal/train/Owl/42c21afd9096c767.jpg 45 1
 C:/animal/train/Frog/c4c349b7c8faafe9.jpg 19 1
-C:/animal/train/Moths and butterflies/ca11339e8615b3d5.jpg 40 1
+C:/animal/train/Mothsandbutterflies/ca11339e8615b3d5.jpg 40 1
 C:/animal/train/Snail/131e874b9146ffd4.jpg 63 1
 C:/animal/train/Tiger/cd29ad86f5397fb1.jpg 72 1
 C:/animal/train/Fish/e5255b207b3b02f1.jpg 17 1
@@ -1116,7 +1116,7 @@ C:/animal/train/Frog/9e93b4a873bd5e79.jpg 19 1
 C:/animal/train/Cheetah/0f09e298d7ca270a.jpg 9 1
 C:/animal/train/Butterfly/47ac1cbbd1533d30.jpg 3 1
 C:/animal/train/Butterfly/503ed8bee9631ab1.jpg 3 1
-C:/animal/train/Moths and butterflies/d712db68ee8b35d3.jpg 40 1
+C:/animal/train/Mothsandbutterflies/d712db68ee8b35d3.jpg 40 1
 C:/animal/train/Spider/0ac450655a8608a2.jpg 66 1
 C:/animal/train/Cattle/d7a4b47db71645b3.jpg 7 1
 C:/animal/train/Snail/18426b5457ce3993.jpg 63 1
